@@ -1,0 +1,1095 @@
+{
+  "version": "0.0.3",
+  "records": {
+    "account-book.svg": {
+      "tag": "icon-account-book",
+      "digest": "18198df24e4159da291ea29cbb4537d0540caafaa28c1bf61a3493dba6421d2f",
+      "type": "add"
+    },
+    "alipay-circle.svg": {
+      "tag": "icon-alipay-circle",
+      "digest": "9637d1f5af3370f550bbccc5d0872618ee2bd6ac9c7bcc13637c07bd33a56737",
+      "type": "add"
+    },
+    "alipay-square.svg": {
+      "tag": "icon-alipay-square",
+      "digest": "df35e7acbf6ee022be886f9b7390626c5d295a9479e2a58f5e235dfe5dc23f31",
+      "type": "add"
+    },
+    "aliwangwang.svg": {
+      "tag": "icon-aliwangwang",
+      "digest": "37386e3d476a03180dddd65c93b2c3952d28841d72aebf16f061517accc5d191",
+      "type": "add"
+    },
+    "alert.svg": {
+      "tag": "icon-alert",
+      "digest": "44d4c6d512fefb144821c1b8d9bd8bf4bff768f483bc58c008b1508f538fc264",
+      "type": "add"
+    },
+    "android.svg": {
+      "tag": "icon-android",
+      "digest": "cda61b1113536833210e0fb27b8f2ead14a05e78a13adb3aefe579c904b9e77b",
+      "type": "add"
+    },
+    "amazon-square.svg": {
+      "tag": "icon-amazon-square",
+      "digest": "74a890696aeae699857903a244378e79e655429181389c9ac2b233298c3fbd12",
+      "type": "add"
+    },
+    "amazon-circle.svg": {
+      "tag": "icon-amazon-circle",
+      "digest": "2bd49ae69a1d1a4d499127ee40bfa2dc1de05fcf1925148cc45d42ae7baaddec",
+      "type": "add"
+    },
+    "api.svg": {
+      "tag": "icon-api",
+      "digest": "6571afb1fc21951325fca54d90a57e3eb633ba6172f715d96709a9492cedfe98",
+      "type": "add"
+    },
+    "apple.svg": {
+      "tag": "icon-apple",
+      "digest": "4804a6b6db6b6f1a9a56a5107644b0dd982fb3b7e12c04d5c7ed72d29ab9caba",
+      "type": "add"
+    },
+    "appstore.svg": {
+      "tag": "icon-appstore",
+      "digest": "8b1e87b42f0523160273f81fac5fc27407d6276d2569097978e5772abde92d68",
+      "type": "add"
+    },
+    "bank.svg": {
+      "tag": "icon-bank",
+      "digest": "67f9a41e069289b58c84bf24f7d8b2675226b4b4d192911b47c6d7b7238e1950",
+      "type": "add"
+    },
+    "behance-circle.svg": {
+      "tag": "icon-behance-circle",
+      "digest": "8009f2581781b6a32b1aa07a2ecb330918f6f7e1c663c7590ef227c0566f0e95",
+      "type": "add"
+    },
+    "audio.svg": {
+      "tag": "icon-audio",
+      "digest": "534e52252127d87b90b9d305acc1e0af8125cc1ff49134e8ad273e7b1f2d38c6",
+      "type": "add"
+    },
+    "behance-square.svg": {
+      "tag": "icon-behance-square",
+      "digest": "a91f785c0e0691430fd82587fe60906446efd159a712860c7023b3df3052fe25",
+      "type": "add"
+    },
+    "backward.svg": {
+      "tag": "icon-backward",
+      "digest": "7acca3b318630705f91a6506f76849527306c1e8dbd19e198dd7790b45d2a480",
+      "type": "add"
+    },
+    "bell.svg": {
+      "tag": "icon-bell",
+      "digest": "24e7bf07e696cd1d379a103542e975602a58dc62231a7edf85530d639c701685",
+      "type": "add"
+    },
+    "book.svg": {
+      "tag": "icon-book",
+      "digest": "381ffb52eb24a3d2ac9efc826615b35b5a94d331c49abd78cb6d89fb2c687bf0",
+      "type": "add"
+    },
+    "bug.svg": {
+      "tag": "icon-bug",
+      "digest": "4a7589251bde9c9945dc8ae75c0b9bae8a82d72e49bae603fb5d08352de80aff",
+      "type": "add"
+    },
+    "build.svg": {
+      "tag": "icon-build",
+      "digest": "5c31a98b28f49cdc7dfd55c91e6dd5ee22051d4613caff74dfc90fb97ba71a33",
+      "type": "add"
+    },
+    "bulb.svg": {
+      "tag": "icon-bulb",
+      "digest": "04b10eac82c7bd91cd74ae5a92eb5fa8d6251d918bb13e759123881974d6962f",
+      "type": "add"
+    },
+    "calculator.svg": {
+      "tag": "icon-calculator",
+      "digest": "c8fa3b2215f4ad99944705b3e606d6081b470e39ea65f8df02706341ec919862",
+      "type": "add"
+    },
+    "calendar.svg": {
+      "tag": "icon-calendar",
+      "digest": "a401023945a7f643aa0ac803772db1ed658d2a4ffec0648ce669595362ceaaea",
+      "type": "add"
+    },
+    "box-plot.svg": {
+      "tag": "icon-box-plot",
+      "digest": "0cc099a673b5f612222ee8a18ee6884c35ae9fb2b52bd18037c0145568723276",
+      "type": "add"
+    },
+    "caret-left.svg": {
+      "tag": "icon-caret-left",
+      "digest": "43597770812d3ee74f44e7c549d82542cae6ed3622206410655cfd78f33be48b",
+      "type": "add"
+    },
+    "car.svg": {
+      "tag": "icon-car",
+      "digest": "c67294368a38eb18002dc4a9dd432264c4a9af8de6191e991e0a30546e21a8d2",
+      "type": "add"
+    },
+    "camera.svg": {
+      "tag": "icon-camera",
+      "digest": "7ca13d223ee9b2119ffa521ade0c37cbb104ef088588e38028c47d732b6485ef",
+      "type": "add"
+    },
+    "caret-down.svg": {
+      "tag": "icon-caret-down",
+      "digest": "2ce327098d8fb46e6410b5a4f353b33da8ef0097eca970ddf4fa043e2ce240ae",
+      "type": "add"
+    },
+    "caret-right.svg": {
+      "tag": "icon-caret-right",
+      "digest": "7204543a1090162b2b943735514ea86955c42d28fd8ff434d830dac53c028320",
+      "type": "add"
+    },
+    "check-circle.svg": {
+      "tag": "icon-check-circle",
+      "digest": "b0c3af8108c44dd2281d015f053fdb15c73c53c89027c3f6a2bc457442b4702b",
+      "type": "add"
+    },
+    "caret-up.svg": {
+      "tag": "icon-caret-up",
+      "digest": "2331490104f704dd2a94f541fa6a13d3a0b9ee31eb5dd70980f9356db48b1a61",
+      "type": "add"
+    },
+    "check-square.svg": {
+      "tag": "icon-check-square",
+      "digest": "060948125ab7bbbdfe5808da1fc69b10f60d8fbb7f0d03c32cebebaa5da6e78c",
+      "type": "add"
+    },
+    "carry-out.svg": {
+      "tag": "icon-carry-out",
+      "digest": "f31a2d4ca231a1a93ca0abaf3aaa8c2a7ede6356bffcf14cfa52f76cf8bd7b3e",
+      "type": "add"
+    },
+    "ci-circle.svg": {
+      "tag": "icon-ci-circle",
+      "digest": "c92904a2a7b2140768f9939a95a7d56f50415bf91940b910374829898ace2009",
+      "type": "add"
+    },
+    "chrome.svg": {
+      "tag": "icon-chrome",
+      "digest": "26aa7719dba5222d1ce6654fc62c6860db0a235b3ccc108f9f982987a2f9b60b",
+      "type": "add"
+    },
+    "clock-circle.svg": {
+      "tag": "icon-clock-circle",
+      "digest": "9effba54cffc1d5e089cee9b3eb9f49936079aef2da505fa56ff0d2b23849822",
+      "type": "add"
+    },
+    "close-circle.svg": {
+      "tag": "icon-close-circle",
+      "digest": "d857284dd9fcecc8b39211c77efb440851aae819de8c1305c674e18912397d68",
+      "type": "add"
+    },
+    "close-square.svg": {
+      "tag": "icon-close-square",
+      "digest": "bae47447c25347ad135151af7db0cc6e59781f5c7d557145951097f236796824",
+      "type": "add"
+    },
+    "code-sandbox-circle.svg": {
+      "tag": "icon-code-sandbox-circle",
+      "digest": "a89e65f1a6c175755c57458c3000e7b08b6c937febae8ea80a7f262395d31b3c",
+      "type": "add"
+    },
+    "cloud.svg": {
+      "tag": "icon-cloud",
+      "digest": "21699b328a50208a95af828a414cbd1b9023b517dc2d89e98b9cc465613ddbdd",
+      "type": "add"
+    },
+    "code-sandbox-square.svg": {
+      "tag": "icon-code-sandbox-square",
+      "digest": "3bfda044798c9035d4c8a4411cbc858f4e85e70930925919899de285644cfd39",
+      "type": "add"
+    },
+    "code.svg": {
+      "tag": "icon-code",
+      "digest": "095bff949923e36b027514cee47233cbc3b81efedca63e19921e978f1fe5201c",
+      "type": "add"
+    },
+    "codepen-square.svg": {
+      "tag": "icon-codepen-square",
+      "digest": "9a552de47edaa531541740d37b8d0fe2b370a9ec30fb33192a52345ee28896fd",
+      "type": "add"
+    },
+    "codepen-circle.svg": {
+      "tag": "icon-codepen-circle",
+      "digest": "c6bab5d21516447492bf72c891a3744e132b4faadc931fd46ea4d94ccc60e2ca",
+      "type": "add"
+    },
+    "compass.svg": {
+      "tag": "icon-compass",
+      "digest": "54a1ec58b88bb81b6de8b09d95a6b517a66cf7833e5a09720821963c9911a8c5",
+      "type": "add"
+    },
+    "contacts.svg": {
+      "tag": "icon-contacts",
+      "digest": "f40d4a25f105f4150f509e35c1902d773c4e742f3b3876ef419b15e50e7c405f",
+      "type": "add"
+    },
+    "control.svg": {
+      "tag": "icon-control",
+      "digest": "c265570759e92afc82fe518cabbed09c6b8f28df04ccd447eb47893a9be152a0",
+      "type": "add"
+    },
+    "container.svg": {
+      "tag": "icon-container",
+      "digest": "aef8b54467850fa4dbfbad9e62174f1973d8f165ec83f71352a53edee5efe4d1",
+      "type": "add"
+    },
+    "copy.svg": {
+      "tag": "icon-copy",
+      "digest": "146a851d23a47afca37091bd30ce623e2aa85141e2cad35d58031ec03922939c",
+      "type": "add"
+    },
+    "copyright-circle.svg": {
+      "tag": "icon-copyright-circle",
+      "digest": "8de2157f3b9bb5af8d7b459b5fc668d8afe310dbaf2e8a49583854485ffabd97",
+      "type": "add"
+    },
+    "credit-card.svg": {
+      "tag": "icon-credit-card",
+      "digest": "a13dcec51cb2b6e5814bb8fac60c3c00a48a9f31f160ffd14e8ade278e88d81f",
+      "type": "add"
+    },
+    "crown.svg": {
+      "tag": "icon-crown",
+      "digest": "30fb2d8c14b27b9bbfbec9e0ba585afdad93c02ae2714a50d857e871f4da1e93",
+      "type": "add"
+    },
+    "customer-service.svg": {
+      "tag": "icon-customer-service",
+      "digest": "bc4ccd18bdf0c785fd226de53c39420d2bcc0e35c4b4d947e1b43d51d9e74275",
+      "type": "add"
+    },
+    "dashboard.svg": {
+      "tag": "icon-dashboard",
+      "digest": "7ced299de620d5278d6838048cf2343231e9fdfda946db306579e45bd50d4299",
+      "type": "add"
+    },
+    "database.svg": {
+      "tag": "icon-database",
+      "digest": "0dc4540a82ea60ebfe3011b0bcaacf8c37e6cc0d89a96bd1605d3dff155cf253",
+      "type": "add"
+    },
+    "delete.svg": {
+      "tag": "icon-delete",
+      "digest": "446bb0542967bb04b3ccc5d5845c97d8b22eaa08bc505f7e876474b35176b138",
+      "type": "add"
+    },
+    "diff.svg": {
+      "tag": "icon-diff",
+      "digest": "4e6fe88d64a7b84e81dab71e486ba2c26f093e826d4b87d508fe8d37d1a6cfaf",
+      "type": "add"
+    },
+    "dislike.svg": {
+      "tag": "icon-dislike",
+      "digest": "e7376872273b86636b8bf60212817c83ef9d8b621c483a9dc62e1a50b41019cb",
+      "type": "add"
+    },
+    "dingtalk-circle.svg": {
+      "tag": "icon-dingtalk-circle",
+      "digest": "ccd9c7567122a0e4f53e93f2cba622dfb19c1d6aa7709893adb33f50520bb8e1",
+      "type": "add"
+    },
+    "dingtalk-square.svg": {
+      "tag": "icon-dingtalk-square",
+      "digest": "97400eb7bbfe49a6e3c395fd6a6350b58f04f999cd941329b0817bde8e45b1ca",
+      "type": "add"
+    },
+    "dollar-circle.svg": {
+      "tag": "icon-dollar-circle",
+      "digest": "892b8a10fced21acdc04d7ff9c4b80ecf1c526a577915430707f7a8def65e885",
+      "type": "add"
+    },
+    "dribbble-circle.svg": {
+      "tag": "icon-dribbble-circle",
+      "digest": "1df7bd4b4e00d04d9ebe05b898f99a5c930b5f63ae4579b10ff3d683ee8d4d8b",
+      "type": "add"
+    },
+    "down-square.svg": {
+      "tag": "icon-down-square",
+      "digest": "9a3c3a91483fb8d456375893b544df64b28c470ce9fc1dd5737d65e6e7ca8b63",
+      "type": "add"
+    },
+    "down-circle.svg": {
+      "tag": "icon-down-circle",
+      "digest": "dd37186f7c81c43fc9cca4f49ce9b97b18c716ade5d2cc5572d4eb907c8965c3",
+      "type": "add"
+    },
+    "dribbble-square.svg": {
+      "tag": "icon-dribbble-square",
+      "digest": "90e819aa3fb32d9d7f9a298109f45129907c25c972ee421cd4c8f136ce73a81b",
+      "type": "add"
+    },
+    "dropbox-square.svg": {
+      "tag": "icon-dropbox-square",
+      "digest": "6e6002d34f51517c72fda587899ad54c2722620d663da8bb8500b038d1dd9681",
+      "type": "add"
+    },
+    "environment.svg": {
+      "tag": "icon-environment",
+      "digest": "3e571295ce28decebba5ae4ac518a79bc2703e30baf134b8f8d5a2d727ce54d5",
+      "type": "add"
+    },
+    "dropbox-circle.svg": {
+      "tag": "icon-dropbox-circle",
+      "digest": "a914e025dfc025364cf0b19fb71e568a0079e983422b8ff8beb1b6b973a55b2d",
+      "type": "add"
+    },
+    "edit.svg": {
+      "tag": "icon-edit",
+      "digest": "fccb1426c7e1df8cd03c9c47f2643425102feaaa16797a6395a4dd45071c4db3",
+      "type": "add"
+    },
+    "euro-circle.svg": {
+      "tag": "icon-euro-circle",
+      "digest": "aaa24ab1abf9ff247db6675a1702094baccb7a3465a03aa934e3b7d85a3c34aa",
+      "type": "add"
+    },
+    "exclamation-circle.svg": {
+      "tag": "icon-exclamation-circle",
+      "digest": "81623e2340c8575fbdd2738bcadcad7d1a5f59c26e9472110d0cb1fc86c1402a",
+      "type": "add"
+    },
+    "eye-invisible.svg": {
+      "tag": "icon-eye-invisible",
+      "digest": "4bae36a293d0463fa30da8c596a83fea26f2b698258920aa27ca3f1ba7b46076",
+      "type": "add"
+    },
+    "experiment.svg": {
+      "tag": "icon-experiment",
+      "digest": "1c14bf20417032e5dc345ca3bcb1a1522e2d7812c88611e9d2a7978e7d22f396",
+      "type": "add"
+    },
+    "eye.svg": {
+      "tag": "icon-eye",
+      "digest": "85b153bf0d0925ec96d3eacd0a506790ef5a22f5c18438e95a2199bdcbc0bd15",
+      "type": "add"
+    },
+    "fast-forward.svg": {
+      "tag": "icon-fast-forward",
+      "digest": "ef9bbb5d5d76cd87d82ea38f2028c44eaf9bbf8ab43e46c6f0fbdd9906d1623e",
+      "type": "add"
+    },
+    "file-add.svg": {
+      "tag": "icon-file-add",
+      "digest": "d2796ef2b276fb2fb89573d5d87ae7301788247d43cd05ce69a156608d551b1c",
+      "type": "add"
+    },
+    "facebook.svg": {
+      "tag": "icon-facebook",
+      "digest": "03583393e27721428b4f67d5f183f01e65e0a70136a3ec50a7fea989a3e5cc65",
+      "type": "add"
+    },
+    "fast-backward.svg": {
+      "tag": "icon-fast-backward",
+      "digest": "c42801fab6e9b3096baaff752e579e87630127c19a80dc50087b2311918a1792",
+      "type": "add"
+    },
+    "file-image.svg": {
+      "tag": "icon-file-image",
+      "digest": "a6019545de0e49710f2790162395fa7b0766ee2266f4b8656776dcff4ff15529",
+      "type": "add"
+    },
+    "file-excel.svg": {
+      "tag": "icon-file-excel",
+      "digest": "8725cc6973ab9278ac4e4208a1085942aba7de72da049537ac33f3cfa9d620a4",
+      "type": "add"
+    },
+    "file-exclamation.svg": {
+      "tag": "icon-file-exclamation",
+      "digest": "2ec8575e4e1d7ac03f47ebfd464456c0726e2fe779676d1dd29f27469292e6fc",
+      "type": "add"
+    },
+    "file-pdf.svg": {
+      "tag": "icon-file-pdf",
+      "digest": "5b8c97af0193e0183726d633611d3a1eb310c36b0a812c5ff60242bea9ec36ee",
+      "type": "add"
+    },
+    "file-ppt.svg": {
+      "tag": "icon-file-ppt",
+      "digest": "aa3bbcc168b327e91fb102e3302f386f99ad6bab88fc3e068d3fd266f1b242b9",
+      "type": "add"
+    },
+    "file-markdown.svg": {
+      "tag": "icon-file-markdown",
+      "digest": "a1090ae114ce1be464119b987e028dd326f447976aed41ed6bb4c7f46cbd2964",
+      "type": "add"
+    },
+    "file-text.svg": {
+      "tag": "icon-file-text",
+      "digest": "7344c211f6afa612596a263f5adcf83a82485901e5a561e27b7808d17172078b",
+      "type": "add"
+    },
+    "file-unknown.svg": {
+      "tag": "icon-file-unknown",
+      "digest": "070282d7b58d1784ebe8ceeba18ae70db4d434ff52b404d57a62d9a2465b22d0",
+      "type": "add"
+    },
+    "file-word.svg": {
+      "tag": "icon-file-word",
+      "digest": "52be31abe6f94a1ba8cd0b5f4bfb1017efe033ddac956d868bb321aa86d7e0fd",
+      "type": "add"
+    },
+    "file-zip.svg": {
+      "tag": "icon-file-zip",
+      "digest": "4210522fce08ea3ff92fcdaa1e46bf0381475e3636fc8c7e5088c43a4d7f7a5e",
+      "type": "add"
+    },
+    "file.svg": {
+      "tag": "icon-file",
+      "digest": "4198551f7b5ddfe59d33503dd914037de9aa02dc517029502ca8d1dafe3bf71c",
+      "type": "add"
+    },
+    "filter.svg": {
+      "tag": "icon-filter",
+      "digest": "1f4a048b9d82af5fa2dee2f43780dd1f9fb92333447e11cd971bd6cc868747fc",
+      "type": "add"
+    },
+    "fire.svg": {
+      "tag": "icon-fire",
+      "digest": "4431e4cf76bcdbb866f5e76cbad761d725b41e26b4de7f88883a9c2121cfce48",
+      "type": "add"
+    },
+    "folder-add.svg": {
+      "tag": "icon-folder-add",
+      "digest": "8886375be4d17b58e7b02ecfdf2ed2068c190a2fbdb9ece9cde961b4ca981ec8",
+      "type": "add"
+    },
+    "flag.svg": {
+      "tag": "icon-flag",
+      "digest": "81ed2776425c41c35d76b304f1c5017183531e0bca310a5a8ee21ff1bf1cb55c",
+      "type": "add"
+    },
+    "folder-open.svg": {
+      "tag": "icon-folder-open",
+      "digest": "1372bf9e064af3726ae81f3e039689ab228a744df356554c5d31ebd9a8e74db9",
+      "type": "add"
+    },
+    "folder.svg": {
+      "tag": "icon-folder",
+      "digest": "63d5d3f655cee88cb83246ee5d6b2b77a5a0bb6017e5b865a92bf9a5369e534d",
+      "type": "add"
+    },
+    "fund.svg": {
+      "tag": "icon-fund",
+      "digest": "dece089eebe192a35f692d983ef4b53d4264f78b33f514b0756bf43473d0ac3f",
+      "type": "add"
+    },
+    "format-painter.svg": {
+      "tag": "icon-format-painter",
+      "digest": "362a93053027e8377c94af197b8841fde2311897fbf3c588daef9585724ac688",
+      "type": "add"
+    },
+    "frown.svg": {
+      "tag": "icon-frown",
+      "digest": "746040360fe6e2718df633d024f35aa8f1c07eaac140fe5b834a9f1b1f136488",
+      "type": "add"
+    },
+    "forward.svg": {
+      "tag": "icon-forward",
+      "digest": "4d3b65fab4bb306ac82ed2eb8abc5ad14d51eab7cf5e51235881de82c607a428",
+      "type": "add"
+    },
+    "funnel-plot.svg": {
+      "tag": "icon-funnel-plot",
+      "digest": "af2f3899748ccb6792f1887ccf3e85d70ecfb435bdbfd6279d7779994a027dfd",
+      "type": "add"
+    },
+    "gift.svg": {
+      "tag": "icon-gift",
+      "digest": "24e3ce4dfa792178170edd4e1c8d893366b87f02309a6ee2eaa3efa48a771da3",
+      "type": "add"
+    },
+    "github.svg": {
+      "tag": "icon-github",
+      "digest": "5ed9f8c1e9e8fd6b9650073a6140e34f7c2d670c87cae0e165c567996a65c1d9",
+      "type": "add"
+    },
+    "gitlab.svg": {
+      "tag": "icon-gitlab",
+      "digest": "3df953e5de4711d823555abb02dcdf8152fb9da6555069926c516de22147dd8a",
+      "type": "add"
+    },
+    "golden.svg": {
+      "tag": "icon-golden",
+      "digest": "d2aab4fde78ac3db56513f87089736aabf29fcb011c581fb5699c2ae37d87bb8",
+      "type": "add"
+    },
+    "gold.svg": {
+      "tag": "icon-gold",
+      "digest": "d2aab4fde78ac3db56513f87089736aabf29fcb011c581fb5699c2ae37d87bb8",
+      "type": "add"
+    },
+    "google-circle.svg": {
+      "tag": "icon-google-circle",
+      "digest": "5893c280f5b63fc7fc3ca629d76e2a67e6fb7ef36839ef6d568158bf44057432",
+      "type": "add"
+    },
+    "google-plus-circle.svg": {
+      "tag": "icon-google-plus-circle",
+      "digest": "d85ea6ce6bb4a53265f5180af298808a8a7712778f787629ed98773a8be86b98",
+      "type": "add"
+    },
+    "google-square.svg": {
+      "tag": "icon-google-square",
+      "digest": "0548256612f00d9e73e0b3ce0469d021c72457556ac2e58eee3216e70b0d6ad3",
+      "type": "add"
+    },
+    "google-plus-square.svg": {
+      "tag": "icon-google-plus-square",
+      "digest": "ab008f5b66d7a114f2873f21cc06babc0af7eaf72011cd9f16c42a08b7282212",
+      "type": "add"
+    },
+    "hdd.svg": {
+      "tag": "icon-hdd",
+      "digest": "49e630c25279538d762328c5848adb2bc2d8dff79652ffc4328980c3e01154b8",
+      "type": "add"
+    },
+    "heart.svg": {
+      "tag": "icon-heart",
+      "digest": "b409622d54cabdf1183a274a5a8b4c41c59cd0847efa3ed8afaeb3909817b01a",
+      "type": "add"
+    },
+    "home.svg": {
+      "tag": "icon-home",
+      "digest": "29f13944c5c901a2129720ce637331892d7945d47ca01c0fe9b3302583f361b8",
+      "type": "add"
+    },
+    "highlight.svg": {
+      "tag": "icon-highlight",
+      "digest": "0cea05ee184043e008281e366ffc0db81c06b5867c642dacb45f8984b1aaa32b",
+      "type": "add"
+    },
+    "hourglass.svg": {
+      "tag": "icon-hourglass",
+      "digest": "f159ad8a976c4c1b8faaee575cff90b65c5d24c9b113315abe74f717bfd18c4f",
+      "type": "add"
+    },
+    "ie-circle.svg": {
+      "tag": "icon-ie-circle",
+      "digest": "fc3d36c054c1f43ac0a3bcaa5994a61fe8ba387b4d8004198703c19c390da439",
+      "type": "add"
+    },
+    "idcard.svg": {
+      "tag": "icon-idcard",
+      "digest": "f3b11fd53457437cb6240e545ad8b04d2b35aa47a94d0aa3192255e8615185dd",
+      "type": "add"
+    },
+    "html5.svg": {
+      "tag": "icon-html5",
+      "digest": "bc9b85fd8b16049dda1073f3e8921da8c8a1c7c099c21f83140597b7e747a60a",
+      "type": "add"
+    },
+    "ie-square.svg": {
+      "tag": "icon-ie-square",
+      "digest": "be1171cfd364d0131bbc3f6f13b9355b0c9b3b61bffe1d4ec750a099beced673",
+      "type": "add"
+    },
+    "info-circle.svg": {
+      "tag": "icon-info-circle",
+      "digest": "b8866bbf05e3eeec1c87dddc840ff829b67398e53758f1f2f5f37f14850ac040",
+      "type": "add"
+    },
+    "instagram.svg": {
+      "tag": "icon-instagram",
+      "digest": "1acc7825d04031d5de319479379d13799bfb58cab1fbe28ae4180ac396b42469",
+      "type": "add"
+    },
+    "insurance.svg": {
+      "tag": "icon-insurance",
+      "digest": "54517472122e328d46aca953a1099ddd98304c0cac5719a79416678da64712b6",
+      "type": "add"
+    },
+    "interaction.svg": {
+      "tag": "icon-interaction",
+      "digest": "ccb867fc81d0b224f1f722e3d0df41bab3c0c2c2c1584e2797ace089f6d2efa3",
+      "type": "add"
+    },
+    "layout.svg": {
+      "tag": "icon-layout",
+      "digest": "be2e7ea81b45db584627fd8754c698aa387a6e61ff745d12e8adf556faacaf0f",
+      "type": "add"
+    },
+    "left-circle.svg": {
+      "tag": "icon-left-circle",
+      "digest": "02553092515d94ba1d94691338bc631ff17c78b2d2aa6b0b05aa0c46e25f2e3e",
+      "type": "add"
+    },
+    "left-square.svg": {
+      "tag": "icon-left-square",
+      "digest": "5166b7454de23a4a55fc2d4891f55ccfe2913fc5fddaf5a4a6913860665077ce",
+      "type": "add"
+    },
+    "like.svg": {
+      "tag": "icon-like",
+      "digest": "e09c7fe42d36c513b61bde707657887f7c122e832f6a6ec9bbe55261920f231d",
+      "type": "add"
+    },
+    "lock.svg": {
+      "tag": "icon-lock",
+      "digest": "bec8217fc4832e42cdd24aa4a11a95806123ff18bb54e3be43c6535d840d7aa1",
+      "type": "add"
+    },
+    "mail.svg": {
+      "tag": "icon-mail",
+      "digest": "e041ae4e5a9664c22130335aac8f7acd5f83d813d19f9b6024c53c0f135be4b7",
+      "type": "add"
+    },
+    "linkedin.svg": {
+      "tag": "icon-linkedin",
+      "digest": "0a78de5b8e21e96e038e37ef4ce0de62828c4060f84ff7f6e7761ec629447ab9",
+      "type": "add"
+    },
+    "mac-command.svg": {
+      "tag": "icon-mac-command",
+      "digest": "ce03010a3c5944ddede1a3b66599d86aa3e972ad82168271476d7c900b8046f0",
+      "type": "add"
+    },
+    "medicine-box.svg": {
+      "tag": "icon-medicine-box",
+      "digest": "4742d44a6adadbdf822631d06d9b4e43ba93a6852c80254e44e193370fe7c130",
+      "type": "add"
+    },
+    "medium-circle.svg": {
+      "tag": "icon-medium-circle",
+      "digest": "89335c9172251b79f641680ec1d9ced90a98f5500b76ec9516ec2935cceb0b89",
+      "type": "add"
+    },
+    "medium-square.svg": {
+      "tag": "icon-medium-square",
+      "digest": "79fad710b3698d8883fd27ed43dbc686acae1c1be62151efca50eb7234f047ed",
+      "type": "add"
+    },
+    "meh.svg": {
+      "tag": "icon-meh",
+      "digest": "2b548e04e6145cacb1cb534d9757861368ed9698056f4e07e0629ab5eeda285c",
+      "type": "add"
+    },
+    "message.svg": {
+      "tag": "icon-message",
+      "digest": "1d41de756ad36516a0f98da711412d1bbde6a7adadec8a5a10e7b377c975af7d",
+      "type": "add"
+    },
+    "minus-circle.svg": {
+      "tag": "icon-minus-circle",
+      "digest": "cf90de4b833fd04d18ffad91d9a887702ffa09e8bd8ae15445d28785269871b9",
+      "type": "add"
+    },
+    "mobile.svg": {
+      "tag": "icon-mobile",
+      "digest": "99ff8e179c86ddba1dfb39bd576cd475e17a7299cffebd94ae2ee77836412fb7",
+      "type": "add"
+    },
+    "minus-square.svg": {
+      "tag": "icon-minus-square",
+      "digest": "22bb5b3c2f7e5cddf1a3ea3ee6e2f7b740b98f6834de28f224a7dbe58de7cd46",
+      "type": "add"
+    },
+    "money-collect.svg": {
+      "tag": "icon-money-collect",
+      "digest": "5429b07c47c7b15238ccaafd6899fc31d0d1ffd4c75b884362f4434e9e017f66",
+      "type": "add"
+    },
+    "notification.svg": {
+      "tag": "icon-notification",
+      "digest": "0e69a1823d54ce7a06ce0bed60512ff1cddf0fda45fead993ebd6a36d5353ed3",
+      "type": "add"
+    },
+    "phone.svg": {
+      "tag": "icon-phone",
+      "digest": "bea3e1bde294f3e16d8eb98f8b74cffe344f8a25d234adee2c9059eb86feb146",
+      "type": "add"
+    },
+    "picture.svg": {
+      "tag": "icon-picture",
+      "digest": "ac434d5ef53d7ae3543317775ddc0a07d4415b0c53c5c6fd4a78b04147dca405",
+      "type": "add"
+    },
+    "pause-circle.svg": {
+      "tag": "icon-pause-circle",
+      "digest": "eaef24e9690a30f6b5869467dee5fe1c20458506dd00953fb45a7869e2a3c4d7",
+      "type": "add"
+    },
+    "pie-chart.svg": {
+      "tag": "icon-pie-chart",
+      "digest": "cf7589f00b25cc204a9647f602dea9d22a636679453b81af6db05624da44969e",
+      "type": "add"
+    },
+    "pay-circle.svg": {
+      "tag": "icon-pay-circle",
+      "digest": "627a66e5ff19d51ca5f2a4cb073465e16358ffbd10e961a722c886222fbfd772",
+      "type": "add"
+    },
+    "play-circle.svg": {
+      "tag": "icon-play-circle",
+      "digest": "d894586a3942fa455ae6615de974120e41dd69b08aa55df81b9c409e73fb5d96",
+      "type": "add"
+    },
+    "play-square.svg": {
+      "tag": "icon-play-square",
+      "digest": "3c668e9d82f25bf546ac29117f8d2b7163d01918301920d22b16fb3d80e74967",
+      "type": "add"
+    },
+    "plus-circle.svg": {
+      "tag": "icon-plus-circle",
+      "digest": "7d4c64f2ca87d8e34c76bddfb94aa7728e128be9fb20df5aa572249d142e1bbe",
+      "type": "add"
+    },
+    "plus-square.svg": {
+      "tag": "icon-plus-square",
+      "digest": "6a3542ec7fa24b4243e9523e72b5f03d8aa36cf54c36bed0abcb5a9af2488d76",
+      "type": "add"
+    },
+    "pound-circle.svg": {
+      "tag": "icon-pound-circle",
+      "digest": "0f02687806ad51109c2da40ff8c3cfd586ff5b2e1c91fe1dc3b2bca2e4212fcc",
+      "type": "add"
+    },
+    "printer.svg": {
+      "tag": "icon-printer",
+      "digest": "f49e6ed401d42586e4276abb6a1c34d7fe8f7a10280d4f8b6425ff011ffb7112",
+      "type": "add"
+    },
+    "profile.svg": {
+      "tag": "icon-profile",
+      "digest": "3d3ee407c6a527f6f1ffdb6be6c7eb73875df9bd292f3ca9c276d35c77fb519e",
+      "type": "add"
+    },
+    "pushpin.svg": {
+      "tag": "icon-pushpin",
+      "digest": "a1ce8e2bd93f162e1ff2e3f2234ca0e11d796a75694b58a72f17f9a6b594b7ed",
+      "type": "add"
+    },
+    "property-safety.svg": {
+      "tag": "icon-property-safety",
+      "digest": "412d70b670bd8ad4f987479491d3d4a1c46b033fd514fd37f5a4a0fb36d6ef98",
+      "type": "add"
+    },
+    "project.svg": {
+      "tag": "icon-project",
+      "digest": "68fc63839d8f58b763b2af4112055e63ac222bbb171cb6d7b868da1e8c07e788",
+      "type": "add"
+    },
+    "qq-circle.svg": {
+      "tag": "icon-qq-circle",
+      "digest": "b12c6373315b04d858491a6c66f8d30452ea6462215350b537125931a65943cf",
+      "type": "add"
+    },
+    "question-circle.svg": {
+      "tag": "icon-question-circle",
+      "digest": "8c0d19d185db0d34031bdb60d4948113806bd16c3e9e956912e9c4c664abe12c",
+      "type": "add"
+    },
+    "qq-square.svg": {
+      "tag": "icon-qq-square",
+      "digest": "0780502984c00ae9adf7283ef2b1f0b8ba93ad243f9f9670c7138b724cbfc5b9",
+      "type": "add"
+    },
+    "red-envelope.svg": {
+      "tag": "icon-red-envelope",
+      "digest": "b0e4d82ce311b3d8ba80785ab7816052739b39458cf64d89ea4aafd8f2f691d8",
+      "type": "add"
+    },
+    "reddit-circle.svg": {
+      "tag": "icon-reddit-circle",
+      "digest": "eca91fdf1cfd7c3d63268465698e876ccb76683005917853a635000cd44e36aa",
+      "type": "add"
+    },
+    "reddit-square.svg": {
+      "tag": "icon-reddit-square",
+      "digest": "7680bb56798c8e034f985b4375d98ee4fc82ba7ba9ef53c09008ea7b73a259f3",
+      "type": "add"
+    },
+    "rest.svg": {
+      "tag": "icon-rest",
+      "digest": "7fc6db9b9b5e1a773e9a045f8452ea613123997d0581546b3007fb2f5478d4c8",
+      "type": "add"
+    },
+    "read.svg": {
+      "tag": "icon-read",
+      "digest": "ee80b01edeca8d73dc1d8e79230148a4bbf93c3a9bdfca5c2d3358b6a0829498",
+      "type": "add"
+    },
+    "right-circle.svg": {
+      "tag": "icon-right-circle",
+      "digest": "0a9d9d71b2b62b7f19ee9eeaa8cf6c565a0783251c420e2a22784e9c1b775dba",
+      "type": "add"
+    },
+    "reconciliation.svg": {
+      "tag": "icon-reconciliation",
+      "digest": "57038eacba5841e3b5ef00159c08c93d888efc0cc458564bea7d21069a464a0c",
+      "type": "add"
+    },
+    "right-square.svg": {
+      "tag": "icon-right-square",
+      "digest": "08ae54c8dfa5a6a3602ea4a331ce0c2b3cb9a22c044490936125a0e30bbfac1f",
+      "type": "add"
+    },
+    "robot.svg": {
+      "tag": "icon-robot",
+      "digest": "193fdc9d8b058ab65715394afc618140d9c54c8274f0424c8fee2fc314e371c6",
+      "type": "add"
+    },
+    "save.svg": {
+      "tag": "icon-save",
+      "digest": "fab9410fe310d2fcab8d7624de4e19521547b21c9f3e71018c368b1c4a7a500c",
+      "type": "add"
+    },
+    "rocket.svg": {
+      "tag": "icon-rocket",
+      "digest": "d4541b33e66b390ebbb39a9f7703c379ec1406ad583e7a12920625a84dc1b2da",
+      "type": "add"
+    },
+    "safety-certificate.svg": {
+      "tag": "icon-safety-certificate",
+      "digest": "f7b8cfa76402d840bb356feb9b9b5bc826b3c4d55f9d69f9ab16fa25c33189f1",
+      "type": "add"
+    },
+    "schedule.svg": {
+      "tag": "icon-schedule",
+      "digest": "1f5d287a68e8502576e510548b32036fce8d16c80511bd891f857cfbdeb0fad9",
+      "type": "add"
+    },
+    "security-scan.svg": {
+      "tag": "icon-security-scan",
+      "digest": "5a0f924b7516636e497ca2c4104127fd9f898b1e5875f0a74a8b5f4c54987930",
+      "type": "add"
+    },
+    "shop.svg": {
+      "tag": "icon-shop",
+      "digest": "063e027ad0baa64d2935b98477176e2f9c2e99d4495a4e4ebebc224c4b9243af",
+      "type": "add"
+    },
+    "setting.svg": {
+      "tag": "icon-setting",
+      "digest": "f557d658e5e6ff6c3b6ed8b98b7ab790ad98683d6b4b888493ed46ac78a5ce02",
+      "type": "add"
+    },
+    "shopping.svg": {
+      "tag": "icon-shopping",
+      "digest": "c7e9482c3d98036033ade34c4fc11e6290ba08070407bfdceb4c77a6e6849ef8",
+      "type": "add"
+    },
+    "skin.svg": {
+      "tag": "icon-skin",
+      "digest": "6e9de6132fcc62b13884107643d723ca65cfdb36b170c690e50f7ff35e0658bb",
+      "type": "add"
+    },
+    "sketch-square.svg": {
+      "tag": "icon-sketch-square",
+      "digest": "39312e68b63917309bb95edfc7aa49945bb8a3d6beb663ab8b52fd9972bf6e1b",
+      "type": "add"
+    },
+    "signal.svg": {
+      "tag": "icon-signal",
+      "digest": "ece2d2e29b50c4c8a202d234ce43ce750c0a12d62a04e2adbc992c5ab0a42a60",
+      "type": "add"
+    },
+    "sketch-circle.svg": {
+      "tag": "icon-sketch-circle",
+      "digest": "068816bc3356494f61296f22a204c588887ec329386389dbdf39e7bbd0945559",
+      "type": "add"
+    },
+    "skype.svg": {
+      "tag": "icon-skype",
+      "digest": "558ee49b539e45a9452b5a94ccb0867393b7555fc7174c6f3d8052c6ff6e391b",
+      "type": "add"
+    },
+    "sliders.svg": {
+      "tag": "icon-sliders",
+      "digest": "5036d4f419be089d00688d9cc7b4318008354f35da62770f6f777adb4efa7c4e",
+      "type": "add"
+    },
+    "slack-square.svg": {
+      "tag": "icon-slack-square",
+      "digest": "871aa882c7071a5cd4f25ff0aed0d3890326e0c70a980cb2f1bb396119707b8f",
+      "type": "add"
+    },
+    "smile.svg": {
+      "tag": "icon-smile",
+      "digest": "145e4c342d9508e01042414f7b7148f3ea59b9652647ccd58459aee112157fe2",
+      "type": "add"
+    },
+    "slack-circle.svg": {
+      "tag": "icon-slack-circle",
+      "digest": "b5b480b68ffabf7144370430721c5f880e5c8e5ac006ff43c98ff02711862e5b",
+      "type": "add"
+    },
+    "snippets.svg": {
+      "tag": "icon-snippets",
+      "digest": "06d8222148e5dc158b8104b2a718c7f2aba3776050e0252263ab4f39898672b1",
+      "type": "add"
+    },
+    "sound.svg": {
+      "tag": "icon-sound",
+      "digest": "6b1234bdaf2605efd56a1b04d3eb66a87ed9a7fa24d57125a8c0b90741c060f7",
+      "type": "add"
+    },
+    "star.svg": {
+      "tag": "icon-star",
+      "digest": "d700410e40c1e333d9d22c585b07005d38dc048c96bec7a2b5cc63201216611f",
+      "type": "add"
+    },
+    "step-backward.svg": {
+      "tag": "icon-step-backward",
+      "digest": "2bd7e0f105c2c8f92425836c0b52a37875a31ab402c20ec5a298c267d92d6133",
+      "type": "add"
+    },
+    "step-forward.svg": {
+      "tag": "icon-step-forward",
+      "digest": "b44cba4f7e6f452f4a58814901dd623ed29664a503311af8ecb677d895c22d05",
+      "type": "add"
+    },
+    "stop.svg": {
+      "tag": "icon-stop",
+      "digest": "79b4504c4f8ccdcd8132781ac087a3c1d4b5d86af3fceb06026b6d5e7042aff8",
+      "type": "add"
+    },
+    "switcher.svg": {
+      "tag": "icon-switcher",
+      "digest": "965da83ce8b001eef0c57e3004e8e90dfa2bc1297819947557c39fe21c9585a2",
+      "type": "add"
+    },
+    "tablet.svg": {
+      "tag": "icon-tablet",
+      "digest": "7b122b5766e5a2c6beeaf105b696d2557f2a1bc837b4b061544077be8078b062",
+      "type": "add"
+    },
+    "tag.svg": {
+      "tag": "icon-tag",
+      "digest": "eb4458d4c86693a79eac7935dcfb130588452e88c5bea722d5bafbfc05725ffc",
+      "type": "add"
+    },
+    "taobao-square.svg": {
+      "tag": "icon-taobao-square",
+      "digest": "5b8eff2a947cdd9af1fe6e6f51686f7a73bd5afd0fc90014f717541e558691d1",
+      "type": "add"
+    },
+    "thunderbolt.svg": {
+      "tag": "icon-thunderbolt",
+      "digest": "089f7da45cfc912583bcb4d6dc84fc365c9f667c274632b237e3627c330a4a45",
+      "type": "add"
+    },
+    "tags.svg": {
+      "tag": "icon-tags",
+      "digest": "e7d158d17949d75c3bc5459f771efda73aa6618506702d7e7e902ecc2fc14138",
+      "type": "add"
+    },
+    "tool.svg": {
+      "tag": "icon-tool",
+      "digest": "edc6d147134575e2cdb01e80bb2c34feb2eca8d788b121d3485d740422c87eb4",
+      "type": "add"
+    },
+    "taobao-circle.svg": {
+      "tag": "icon-taobao-circle",
+      "digest": "bd50f84da798fb62ccc633a9ddd00b5f95d97193f1b9266877ce66a33519e748",
+      "type": "add"
+    },
+    "trophy.svg": {
+      "tag": "icon-trophy",
+      "digest": "4fed155361dc61a87c1467baa036a2a4c850d0da06b06abf7011788483c7ea10",
+      "type": "add"
+    },
+    "twitter-square.svg": {
+      "tag": "icon-twitter-square",
+      "digest": "2e6ab28a0cbf94b4da906142f374012cdb92beaeb7c97c595136c027b1dab652",
+      "type": "add"
+    },
+    "twitter-circle.svg": {
+      "tag": "icon-twitter-circle",
+      "digest": "268c29115eae5cea91d86499c8f5f791f16f46d6926b56e40dfb4a78ef65ceaf",
+      "type": "add"
+    },
+    "trademark-circle.svg": {
+      "tag": "icon-trademark-circle",
+      "digest": "c16e3fb48d43de9ad34d7e40b2dcbd71773f86ca8e19dafa3ff8aa96a07bf8d2",
+      "type": "add"
+    },
+    "unlock.svg": {
+      "tag": "icon-unlock",
+      "digest": "dedb47257560064db82b79dea4f97b8d8b12102532e52eda7912761d10852dc1",
+      "type": "add"
+    },
+    "up-square.svg": {
+      "tag": "icon-up-square",
+      "digest": "8da7bc6006583735c9a30b75fc82b2b8065acd64099d630434a813e580ef7e3b",
+      "type": "add"
+    },
+    "up-circle.svg": {
+      "tag": "icon-up-circle",
+      "digest": "114e46fc132ad86aeb1a044751809a8e899cc84d5bcb6f9f762ce45f4fc8c2ad",
+      "type": "add"
+    },
+    "usb.svg": {
+      "tag": "icon-usb",
+      "digest": "71700c62543c8ed92dcf51412a46b6d84e88bb12b5adbb31a9801492d50bb968",
+      "type": "add"
+    },
+    "wechat.svg": {
+      "tag": "icon-wechat",
+      "digest": "18d8c2ce0d16dc2a1e3b4a18f94aa5f10e7333d13bdca1da0b377d20385f3488",
+      "type": "add"
+    },
+    "weibo-circle.svg": {
+      "tag": "icon-weibo-circle",
+      "digest": "e4916af62fb75ec0f624382b073c7326f80c4da928835bbee21fe99ef3f67ba8",
+      "type": "add"
+    },
+    "weibo-square.svg": {
+      "tag": "icon-weibo-square",
+      "digest": "55d06bdc15008499b821d2c9aad1d7225f9790a6f6ac2d301e1925f37e6bf44c",
+      "type": "add"
+    },
+    "windows.svg": {
+      "tag": "icon-windows",
+      "digest": "2844894048611eed07036094945ad884a24aedc92e483b63b93e3dedcf56e595",
+      "type": "add"
+    },
+    "video-camera.svg": {
+      "tag": "icon-video-camera",
+      "digest": "56c48a7cc0887660618527c1607bedf7da00b30cb187bab3f293f33871d51369",
+      "type": "add"
+    },
+    "warning.svg": {
+      "tag": "icon-warning",
+      "digest": "ac076efff65e0565656a7ebc668ad94383922772990652a69a13715f150e12de",
+      "type": "add"
+    },
+    "wallet.svg": {
+      "tag": "icon-wallet",
+      "digest": "a8ea3b3de65128b333585f59237f29bbb2f2b7c45b9049cdb3ba96faac75f31a",
+      "type": "add"
+    },
+    "yahoo.svg": {
+      "tag": "icon-yahoo",
+      "digest": "b70562612836c6848bbe1f1442f567f9742c74f0c0df1b2f49b69dd21158c832",
+      "type": "add"
+    },
+    "youtube.svg": {
+      "tag": "icon-youtube",
+      "digest": "a238125da686dbd5f7bdc96786e70f97d849c6134f29c71bfea3c779925eedbf",
+      "type": "add"
+    },
+    "yuque.svg": {
+      "tag": "icon-yuque",
+      "digest": "4b1caf17210716c13cf1a527db22d3f0c0154599bde101defc71223b3ef56980",
+      "type": "add"
+    },
+    "zhihu-square.svg": {
+      "tag": "icon-zhihu-square",
+      "digest": "cc411c7a84f2a12b3463e621ef6071babc2be99642ad7402a6d5ca07c30b4232",
+      "type": "add"
+    },
+    "zhihu-circle.svg": {
+      "tag": "icon-zhihu-circle",
+      "digest": "c78eff62e5ad67a0c0f608a20a982c0c50a135070a984a3f8c777ed14a749d40",
+      "type": "add"
+    }
+  }
+}
