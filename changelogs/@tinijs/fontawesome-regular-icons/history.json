@@ -1,0 +1,820 @@
+{
+  "version": "0.0.3",
+  "records": {
+    "address-card.svg": {
+      "tag": "icon-address-card",
+      "digest": "9d48692415f1eb29238cafd33178c63ca2567eb40f60e95ecff29650c8dff813",
+      "type": "add"
+    },
+    "bell-slash.svg": {
+      "tag": "icon-bell-slash",
+      "digest": "b087835c8aa76727b80dd58297ac013f26fb9aa12769e4cad1d5eb2048e2dd7b",
+      "type": "add"
+    },
+    "bell.svg": {
+      "tag": "icon-bell",
+      "digest": "aac57fd36df8726f2f43d2dcc48dbaefa0972504b77e77cca29462752b09d01a",
+      "type": "add"
+    },
+    "address-book.svg": {
+      "tag": "icon-address-book",
+      "digest": "24766c690ad1669f189f28a149247186aecfb04cc28184b908310eaed7e17ec3",
+      "type": "add"
+    },
+    "bookmark.svg": {
+      "tag": "icon-bookmark",
+      "digest": "27f75aee6f0d96bc6961186b3fd2664baf00890de97ad105ad794c28168d1691",
+      "type": "add"
+    },
+    "building.svg": {
+      "tag": "icon-building",
+      "digest": "1fe105795463baa9661d806c0efe30b7179b6d62a89f180e14c3c3aaceabe9e3",
+      "type": "add"
+    },
+    "calendar-check.svg": {
+      "tag": "icon-calendar-check",
+      "digest": "b3430a7ccdc43ad8abfe9c8c6aec27fb47b25e18a25aa5f6e6378c7c4f57004a",
+      "type": "add"
+    },
+    "calendar-days.svg": {
+      "tag": "icon-calendar-days",
+      "digest": "ed80f5710e66c73b49c156e2a330e2c71a9995b245c5c9c57cc5e431c474eb81",
+      "type": "add"
+    },
+    "calendar-minus.svg": {
+      "tag": "icon-calendar-minus",
+      "digest": "9446acfbc351d7784828f117da8bfe69f38be1e3c2d0347b0a3ecf2b18a38716",
+      "type": "add"
+    },
+    "calendar-plus.svg": {
+      "tag": "icon-calendar-plus",
+      "digest": "1a5597c2e47071c6ab807a2e249099947213fc89429d88450bf98a90e02375bb",
+      "type": "add"
+    },
+    "calendar-xmark.svg": {
+      "tag": "icon-calendar-xmark",
+      "digest": "a38ac99198c4e798ee6d5cd9f6812bf0e96f8a2b3e5f88e1bcf205b91b95bedb",
+      "type": "add"
+    },
+    "calendar.svg": {
+      "tag": "icon-calendar",
+      "digest": "49ce6e080af75fbc0ad5cfce63ed1104fa428405eac205c2a4bbc38581c334fd",
+      "type": "add"
+    },
+    "chart-bar.svg": {
+      "tag": "icon-chart-bar",
+      "digest": "09bf36168b0faded6a6021fdda16c1d1f8d27014f966cc35548cd4676a37920f",
+      "type": "add"
+    },
+    "chess-bishop.svg": {
+      "tag": "icon-chess-bishop",
+      "digest": "158c0f2b357f7e3359a68d77f8363292a40d91bf6bd7af47fe2d67158478216e",
+      "type": "add"
+    },
+    "chess-king.svg": {
+      "tag": "icon-chess-king",
+      "digest": "1a638273ce0fe4295acbf78c4e108ba8dc29b4053406d175efcd5ea1e56a29db",
+      "type": "add"
+    },
+    "chess-knight.svg": {
+      "tag": "icon-chess-knight",
+      "digest": "f7aa4661853264090585057447a91ee0fea0ef4f863cb01e1475aed96bf1fba5",
+      "type": "add"
+    },
+    "chess-pawn.svg": {
+      "tag": "icon-chess-pawn",
+      "digest": "647597470b95070ac26d1ff7321c78079bf4b9fd8df7d62d0f65ef819fa6b56b",
+      "type": "add"
+    },
+    "chess-queen.svg": {
+      "tag": "icon-chess-queen",
+      "digest": "b4c0cf8c526c0af7ad26d9a2cb332720aec45f7a0b225cd98e0c04868a3333fc",
+      "type": "add"
+    },
+    "chess-rook.svg": {
+      "tag": "icon-chess-rook",
+      "digest": "9753c9e72ed7139b4b8049b5b6bfde6c18d20c09b2f46798d1c9a9caeb4f7e59",
+      "type": "add"
+    },
+    "circle-check.svg": {
+      "tag": "icon-circle-check",
+      "digest": "d1476506cd56337aafccaa07049133532128101665ffd5a04a0def0558ad5dbe",
+      "type": "add"
+    },
+    "circle-dot.svg": {
+      "tag": "icon-circle-dot",
+      "digest": "f20fcc918d672efb2c527adc03d36b82d1f86441a044409c9e9bc8785fc3f4de",
+      "type": "add"
+    },
+    "circle-down.svg": {
+      "tag": "icon-circle-down",
+      "digest": "5140aff6b5fd76eaba2e525d07bf9e7d8b96c930918e80449042cd0829842d3d",
+      "type": "add"
+    },
+    "circle-left.svg": {
+      "tag": "icon-circle-left",
+      "digest": "d954bf318541ebad21ff5b11260dc8677d530c72dea8bf113f9c6153642d054e",
+      "type": "add"
+    },
+    "circle-pause.svg": {
+      "tag": "icon-circle-pause",
+      "digest": "c2d705a392934d145aac023181ddf12e614a7e0bacc422ce06bdb607805c9116",
+      "type": "add"
+    },
+    "circle-play.svg": {
+      "tag": "icon-circle-play",
+      "digest": "70054136fda9b99ae487687b5ffc985b89353d8667bdb288a2db3e69a8c7cde9",
+      "type": "add"
+    },
+    "circle-question.svg": {
+      "tag": "icon-circle-question",
+      "digest": "fd2dd4e594e520c847609de0e0bf7e2dc979175b6f8522c5d46830b41034dafb",
+      "type": "add"
+    },
+    "circle-right.svg": {
+      "tag": "icon-circle-right",
+      "digest": "19c3ff05e8ad1d403cc9137ed01c92a18fadf46def035846b44f4c7d9dcad894",
+      "type": "add"
+    },
+    "circle-stop.svg": {
+      "tag": "icon-circle-stop",
+      "digest": "0d1b40f6a13412eefe7d2faded5f12264134a9d4de38ffe3c13f24add55c2998",
+      "type": "add"
+    },
+    "circle-up.svg": {
+      "tag": "icon-circle-up",
+      "digest": "a41450520c3cf46c3468ac77102eee7792295836d73f8a9250e21a000b199f58",
+      "type": "add"
+    },
+    "circle-user.svg": {
+      "tag": "icon-circle-user",
+      "digest": "0d0c9904dc6d619aa0021bcae6b5d639f029eca6e2dd60ea02c0370fec9ecdb0",
+      "type": "add"
+    },
+    "circle-xmark.svg": {
+      "tag": "icon-circle-xmark",
+      "digest": "f3114b6b0d66cf439b03ee8e0607ef0093c2153e5bb0e4e2fc73f9230903bb4f",
+      "type": "add"
+    },
+    "circle.svg": {
+      "tag": "icon-circle",
+      "digest": "8b6d6693b1bdd3cc6adc4beb5a500c41b481128b6f43c5865dc36d32a6a48948",
+      "type": "add"
+    },
+    "clipboard.svg": {
+      "tag": "icon-clipboard",
+      "digest": "67272985e6efaa5007dba86b6e955d433588fedd55e5b6c8beb77a297ca33f52",
+      "type": "add"
+    },
+    "clock.svg": {
+      "tag": "icon-clock",
+      "digest": "91777cea5eaee3829db07e6c939f5cbe12b3b9c492229f956c498eb3e6fdd80a",
+      "type": "add"
+    },
+    "clone.svg": {
+      "tag": "icon-clone",
+      "digest": "384f8f8f6b2bbff0780b49e60449711661610cfc5e3f5727c50964c36c1b8e8e",
+      "type": "add"
+    },
+    "closed-captioning.svg": {
+      "tag": "icon-closed-captioning",
+      "digest": "71c0e12221959cfbb8bb5fe8a73a32f0af25c885d9bdecd615a1e7f89366ca61",
+      "type": "add"
+    },
+    "comment-dots.svg": {
+      "tag": "icon-comment-dots",
+      "digest": "f4e9f9997188be8698b1f837bc9f26a209786e7744f004005f9a79cc5ee443c2",
+      "type": "add"
+    },
+    "comment.svg": {
+      "tag": "icon-comment",
+      "digest": "783c7709bf56d683a0a8e62e84f749e0462cfac3b3965f2d07a38fb76f92de5a",
+      "type": "add"
+    },
+    "comments.svg": {
+      "tag": "icon-comments",
+      "digest": "135414147bea96f717f7e769b4b6ce145dc6eb41f2f3f41c4b7dc6b2ab5401ee",
+      "type": "add"
+    },
+    "compass.svg": {
+      "tag": "icon-compass",
+      "digest": "6064de92b99adbd078cb4cdd11f80a2078effaa791277c31ade3bd8d2deddd26",
+      "type": "add"
+    },
+    "copy.svg": {
+      "tag": "icon-copy",
+      "digest": "02e537b352d33f9bae561bc7d7df500a3c95813e7a66387fc4ed94cccc0b372b",
+      "type": "add"
+    },
+    "copyright.svg": {
+      "tag": "icon-copyright",
+      "digest": "0e68b59055fdc45b4bb9c1ec1d02debd3af58dc5112d38faefc752a7d5d13074",
+      "type": "add"
+    },
+    "credit-card.svg": {
+      "tag": "icon-credit-card",
+      "digest": "dd640f7b599f966b062299a9c528e869b99fc95825ab869387b308c8552fc891",
+      "type": "add"
+    },
+    "envelope-open.svg": {
+      "tag": "icon-envelope-open",
+      "digest": "03a87fba9d7d0828ef60194bb1b18d00940106d43823e33ed9287c82f4c3dc0b",
+      "type": "add"
+    },
+    "envelope.svg": {
+      "tag": "icon-envelope",
+      "digest": "4cc64a616ca2b97bc9cfa102a54d44b139423ef06e4cf7c105f5a1ce3591b613",
+      "type": "add"
+    },
+    "eye-slash.svg": {
+      "tag": "icon-eye-slash",
+      "digest": "e7fcfce46206f9bf04716f9d272b736c8f7203f4d3f12e09f79f3b3c54473ea3",
+      "type": "add"
+    },
+    "face-angry.svg": {
+      "tag": "icon-face-angry",
+      "digest": "0386c79d744c8b4257eb940d8e09548719152dd5f74a6079d72b88b6fd6ab03b",
+      "type": "add"
+    },
+    "eye.svg": {
+      "tag": "icon-eye",
+      "digest": "bb6ce739b45fe624dd6adcca14ebfebd2a0d068a42c3c175e775d60433594932",
+      "type": "add"
+    },
+    "face-dizzy.svg": {
+      "tag": "icon-face-dizzy",
+      "digest": "46538235d0ac81b3d40588334ce0d6bc94806a0ef02e928ce02f3c2afe7e7ba3",
+      "type": "add"
+    },
+    "face-flushed.svg": {
+      "tag": "icon-face-flushed",
+      "digest": "d16bc5f73cd579ee5c5dfe8cab7a220884032b2b3e831230f16eed06763f77f8",
+      "type": "add"
+    },
+    "face-frown-open.svg": {
+      "tag": "icon-face-frown-open",
+      "digest": "d0e6179bd709f397b27afb1a60a6e25524a7a8bf3a0d6cf066750e4d9b56f039",
+      "type": "add"
+    },
+    "face-frown.svg": {
+      "tag": "icon-face-frown",
+      "digest": "f14f9c3b430a077c7cb6f860a0ec29de38e980b675655415395803908ec3a0ed",
+      "type": "add"
+    },
+    "face-grimace.svg": {
+      "tag": "icon-face-grimace",
+      "digest": "9bebb3e3076f3c01c82d585353eaad330d4393a38b05c465415f22eb69634c4e",
+      "type": "add"
+    },
+    "face-grin-beam-sweat.svg": {
+      "tag": "icon-face-grin-beam-sweat",
+      "digest": "501fdad468d818bec81a95a5ad285c0e2b933863e2341f8e7863c248ded8a4be",
+      "type": "add"
+    },
+    "face-grin-beam.svg": {
+      "tag": "icon-face-grin-beam",
+      "digest": "3f30b5c803d824ec9af8236981eae87fb8ad50270e3897ff52b64cc93ad2d15f",
+      "type": "add"
+    },
+    "face-grin-hearts.svg": {
+      "tag": "icon-face-grin-hearts",
+      "digest": "80121c190240b3483d4591795ebf29ab515ab5238281c015e17fdfe13ea87a26",
+      "type": "add"
+    },
+    "face-grin-squint-tears.svg": {
+      "tag": "icon-face-grin-squint-tears",
+      "digest": "9689308381171cc00175099f1c3c67f08b78d51995d54386cca4b70b49a983c1",
+      "type": "add"
+    },
+    "face-grin-squint.svg": {
+      "tag": "icon-face-grin-squint",
+      "digest": "0a1944bcd4f52dee3223593ffaff92e55f93c086c94d03ff80dd98ef35fd29d4",
+      "type": "add"
+    },
+    "face-grin-stars.svg": {
+      "tag": "icon-face-grin-stars",
+      "digest": "8845eeb2013225feede1a3e21c4124c3e93841e30d18aa631332c483fdb92692",
+      "type": "add"
+    },
+    "face-grin-tongue-squint.svg": {
+      "tag": "icon-face-grin-tongue-squint",
+      "digest": "3d70f4c04c87e6302d7ab73d7a01209867ba9e65381559e5d7d690fe2137a187",
+      "type": "add"
+    },
+    "face-grin-tears.svg": {
+      "tag": "icon-face-grin-tears",
+      "digest": "206c35967c1d3af3bc28a5c7ac245317a2e6fe90f6af93a86624618179e174d8",
+      "type": "add"
+    },
+    "face-grin-tongue-wink.svg": {
+      "tag": "icon-face-grin-tongue-wink",
+      "digest": "d1856aaa65d218bb038ffd6fd9d2313891498918344b1f0f1522749e3d44f20d",
+      "type": "add"
+    },
+    "face-grin-tongue.svg": {
+      "tag": "icon-face-grin-tongue",
+      "digest": "9479dceb6338f158e88008a3c8cfd3d751f254afdbf9284ab867014ce0c3d611",
+      "type": "add"
+    },
+    "face-grin-wide.svg": {
+      "tag": "icon-face-grin-wide",
+      "digest": "a862b49fd1ac21192b07bf757f5a653151744001c096f243b65f47621b44f764",
+      "type": "add"
+    },
+    "face-grin-wink.svg": {
+      "tag": "icon-face-grin-wink",
+      "digest": "8dd43b49a6693a19a970aa677d657f4bb98160efb7cd2ef91330acccf146f21c",
+      "type": "add"
+    },
+    "face-grin.svg": {
+      "tag": "icon-face-grin",
+      "digest": "bab59ea6aa1245c3e94e7f849b3e58c06d3fd452cb1f2d81d5539e1aa5b6690b",
+      "type": "add"
+    },
+    "face-kiss-beam.svg": {
+      "tag": "icon-face-kiss-beam",
+      "digest": "d8256d88e3e15f0a63a5ba1cef715cf4db1497c4eab4f43967331884d81a5c77",
+      "type": "add"
+    },
+    "face-kiss-wink-heart.svg": {
+      "tag": "icon-face-kiss-wink-heart",
+      "digest": "b408c9542326a7da775a5924ad9dacbeb0857225825c3bd6f982483b71901895",
+      "type": "add"
+    },
+    "face-kiss.svg": {
+      "tag": "icon-face-kiss",
+      "digest": "b0c1e631ce54789a74461f1251798a58f246e114be91d5de090701c2771f4d64",
+      "type": "add"
+    },
+    "face-laugh-beam.svg": {
+      "tag": "icon-face-laugh-beam",
+      "digest": "940aeaf334534df5c89bfe2de78069fad8ce225de5e4d573ca1bb18c0a0fc58e",
+      "type": "add"
+    },
+    "face-laugh-squint.svg": {
+      "tag": "icon-face-laugh-squint",
+      "digest": "c77d3c260cb7befcab87f1eeb1c11afa873fd862600bb1f70fa4aa6d538036a9",
+      "type": "add"
+    },
+    "face-laugh-wink.svg": {
+      "tag": "icon-face-laugh-wink",
+      "digest": "f3db9b861c5baebc45046e4983f6bbd5c9b6a711e17c2cedd06a8812dc545dd6",
+      "type": "add"
+    },
+    "face-laugh.svg": {
+      "tag": "icon-face-laugh",
+      "digest": "25a398e6e7a341e264e0e24fad82b36ed8d1e3ef8ae43aa6c5ac08df1e9cb0c6",
+      "type": "add"
+    },
+    "face-meh-blank.svg": {
+      "tag": "icon-face-meh-blank",
+      "digest": "9b798454aeb285b42a737232508a84fdfccfbd4f54854cece40032439b4f37bc",
+      "type": "add"
+    },
+    "face-meh.svg": {
+      "tag": "icon-face-meh",
+      "digest": "116c6d5c2c586f6a8993d7d28e2c2c4ca138187ba3856a1f26b11c16861274bc",
+      "type": "add"
+    },
+    "face-rolling-eyes.svg": {
+      "tag": "icon-face-rolling-eyes",
+      "digest": "83d73d7fb3911aa5d2b4ddea246e9448a39762830a38626d436a1fb0aebe9706",
+      "type": "add"
+    },
+    "face-sad-cry.svg": {
+      "tag": "icon-face-sad-cry",
+      "digest": "53bb213a4f174ed4f2e1d2cde992b5d8c73c7db98bbe71527c330fbcbab0bff7",
+      "type": "add"
+    },
+    "face-sad-tear.svg": {
+      "tag": "icon-face-sad-tear",
+      "digest": "c4bd8ea8627ddecc3fbcb5f67392cbca28b70a43203ae10d28eefca368832f10",
+      "type": "add"
+    },
+    "face-smile-wink.svg": {
+      "tag": "icon-face-smile-wink",
+      "digest": "9c9ff25ddc9b37cbe3f79a5e42540c85c4d15c70ae69d654343f7034eb3d294e",
+      "type": "add"
+    },
+    "face-smile-beam.svg": {
+      "tag": "icon-face-smile-beam",
+      "digest": "cfb523ef1f3d3b2cf3ebe3f62fd0bb66e0fe5fd6f0e9746634e1bf145c0bf503",
+      "type": "add"
+    },
+    "face-smile.svg": {
+      "tag": "icon-face-smile",
+      "digest": "2cbe83f62d3e7e210aad53061186261849bb0192bda42d884152d418a9489729",
+      "type": "add"
+    },
+    "face-surprise.svg": {
+      "tag": "icon-face-surprise",
+      "digest": "b46ed081ad8af3aa9312304498f06cf2711c4b525a3c66ac603e339f5cf9c129",
+      "type": "add"
+    },
+    "face-tired.svg": {
+      "tag": "icon-face-tired",
+      "digest": "521f993abdc76e9e6b0cde81cd9b530e4df6bc3459ebcd9a085ac7824e5072c3",
+      "type": "add"
+    },
+    "file-code.svg": {
+      "tag": "icon-file-code",
+      "digest": "b65f66d42766f390aff9776ecfab8bbd7191a6f174034079e63a01fdeb0866a2",
+      "type": "add"
+    },
+    "file-audio.svg": {
+      "tag": "icon-file-audio",
+      "digest": "b8db695466a3450c5ce2dee3a548be4c5e90912ae2b50fb990d5ca570a1f3117",
+      "type": "add"
+    },
+    "file-image.svg": {
+      "tag": "icon-file-image",
+      "digest": "184fd32dc4073cfc6cfb0e9735233b4af6901bba076fea5e0790dd8be82d9a6c",
+      "type": "add"
+    },
+    "file-excel.svg": {
+      "tag": "icon-file-excel",
+      "digest": "358e03b5b29595e126a2e6c6a47b53f7271e150a72a641cfaf02348b36d87478",
+      "type": "add"
+    },
+    "file-lines.svg": {
+      "tag": "icon-file-lines",
+      "digest": "bfc3eb8e7cef984348c726e989ff42bdbd089d7c8e69d1410d22423991dcd1b8",
+      "type": "add"
+    },
+    "file-pdf.svg": {
+      "tag": "icon-file-pdf",
+      "digest": "848f1830498b490c22d43ba517c864f75bda1d593bfa92995f58c4921799873d",
+      "type": "add"
+    },
+    "file-powerpoint.svg": {
+      "tag": "icon-file-powerpoint",
+      "digest": "b68206550cfc9a3c5bbdd3d2cf96bd938ccde702c2f49292beee64f9771a2fa5",
+      "type": "add"
+    },
+    "file-video.svg": {
+      "tag": "icon-file-video",
+      "digest": "e0902b27000dff53dc3b29361cc6395b71359f9c2de3b43a694103cbee6f9a59",
+      "type": "add"
+    },
+    "file-word.svg": {
+      "tag": "icon-file-word",
+      "digest": "617cc949d94afdcde5db2e6cb801298e95eac0c77b1173fa78e3d84eed489a23",
+      "type": "add"
+    },
+    "file-zipper.svg": {
+      "tag": "icon-file-zipper",
+      "digest": "96af3f25467ad0bdf8e278d159fda533d610e6f58a23a647ad7a5dee126ac158",
+      "type": "add"
+    },
+    "file.svg": {
+      "tag": "icon-file",
+      "digest": "d5da992f7f703f73283cbf6b8b88cbe1f6af3239372a11663cd14f2b73dc426d",
+      "type": "add"
+    },
+    "flag.svg": {
+      "tag": "icon-flag",
+      "digest": "31eac42b1f17f11ec427bae7401d435d796b0748627fe603f55bfcc93b41f421",
+      "type": "add"
+    },
+    "floppy-disk.svg": {
+      "tag": "icon-floppy-disk",
+      "digest": "f1829f1d5cf73498a6759624c336333722d0482980f734ea6240a356ce2beb40",
+      "type": "add"
+    },
+    "folder-closed.svg": {
+      "tag": "icon-folder-closed",
+      "digest": "0fe46168e49e04e915c9a49ea3bf468a9145f58b20107bc93a809f0c71067d90",
+      "type": "add"
+    },
+    "folder-open.svg": {
+      "tag": "icon-folder-open",
+      "digest": "1db75aa890023200ec25bf920c4772aae3bef54c36320531127802b22ab5cd03",
+      "type": "add"
+    },
+    "folder.svg": {
+      "tag": "icon-folder",
+      "digest": "4f9cfe649b1e2da5e540fce0ac3ec843347aff3343c6c1c1328761ec729fb736",
+      "type": "add"
+    },
+    "font-awesome.svg": {
+      "tag": "icon-font-awesome",
+      "digest": "aa46c44aa17119d93ac43ac154c7ebb6e6f875bfcf3f6ba35821cbda4d7cb280",
+      "type": "add"
+    },
+    "futbol.svg": {
+      "tag": "icon-futbol",
+      "digest": "a2cfd3735d7ad8e5f1db735e2d617bba1dcc632c68b3d6583522cc51a6ed52c0",
+      "type": "add"
+    },
+    "gem.svg": {
+      "tag": "icon-gem",
+      "digest": "628659ac6439522b7b4dda40758a746f7b5e4bb9e7ec2555126f0543cbefa329",
+      "type": "add"
+    },
+    "hand-back-fist.svg": {
+      "tag": "icon-hand-back-fist",
+      "digest": "9f5124569300928f2e1441e11630f8aa632c71e0212755e7511381312f001d20",
+      "type": "add"
+    },
+    "hand-lizard.svg": {
+      "tag": "icon-hand-lizard",
+      "digest": "8c3e29d27d21b0792768fbe832883ffe6014345a0b3ba08cd0f7d7b28615c1d9",
+      "type": "add"
+    },
+    "hand-point-left.svg": {
+      "tag": "icon-hand-point-left",
+      "digest": "c8089be46f3b9323d3739d72195a3c06cc7d50d3982f0673f7b81054bfd97ea9",
+      "type": "add"
+    },
+    "hand-point-down.svg": {
+      "tag": "icon-hand-point-down",
+      "digest": "9e5a50795f374213972511dc0281a9a4993ba2708569042119197f9bad9524e9",
+      "type": "add"
+    },
+    "hand-peace.svg": {
+      "tag": "icon-hand-peace",
+      "digest": "272949365d15c9e16525c6599c7340c3aebab4f2a16e3af16057ebab925f1048",
+      "type": "add"
+    },
+    "hand-point-right.svg": {
+      "tag": "icon-hand-point-right",
+      "digest": "fdb7e9115d070c9a570eb814b6eaedb34ef3ab6b510ee34066b3c8aaf96f2e9a",
+      "type": "add"
+    },
+    "hand-point-up.svg": {
+      "tag": "icon-hand-point-up",
+      "digest": "35c47579b393559d11c0d57359b6c095012e81245f7ac6945910f27733226c7b",
+      "type": "add"
+    },
+    "hand-pointer.svg": {
+      "tag": "icon-hand-pointer",
+      "digest": "daefe1e8067cf11d7aa4ddc0c80463c94a3b6044acb3f367aa640274e79e522f",
+      "type": "add"
+    },
+    "hand-scissors.svg": {
+      "tag": "icon-hand-scissors",
+      "digest": "b70ccc1d9fab64127be58efcc0f65e7cb43d65d22c37c1c521f7187a5cc8f5c4",
+      "type": "add"
+    },
+    "hand-spock.svg": {
+      "tag": "icon-hand-spock",
+      "digest": "e5feefb47b5cf425db1e5fb10257ce44dad22773d03f4374c469b1b8a21164ff",
+      "type": "add"
+    },
+    "hard-drive.svg": {
+      "tag": "icon-hard-drive",
+      "digest": "a1caff4f23f509a913c8711301a715e3e35d828198fcdbabb059c0e8a67b6b3a",
+      "type": "add"
+    },
+    "hand.svg": {
+      "tag": "icon-hand",
+      "digest": "53a11edc8a3cc55b024a09e064b8808ad32d53cd0cb0ad98f589146abed87298",
+      "type": "add"
+    },
+    "handshake.svg": {
+      "tag": "icon-handshake",
+      "digest": "2d8464a5a51a42097620fdb15e2d095a86964785faf244ec1d7ab23d02bcf230",
+      "type": "add"
+    },
+    "heart.svg": {
+      "tag": "icon-heart",
+      "digest": "8d600cdceb74913b471fb2ef2f9a87ac690c7dc212eff6e42abf741e92c05e51",
+      "type": "add"
+    },
+    "hospital.svg": {
+      "tag": "icon-hospital",
+      "digest": "ba651f738c40915da5468e205b36f0291bd2179f522f693aa843da8e35cf351f",
+      "type": "add"
+    },
+    "hourglass-half.svg": {
+      "tag": "icon-hourglass-half",
+      "digest": "5552cbd711d324ae594f04894d82428c02ba0e79d7ce21ce462fda7eac64ca07",
+      "type": "add"
+    },
+    "hourglass.svg": {
+      "tag": "icon-hourglass",
+      "digest": "e39eefbbdcaf4bb9d1d1174d301715c15a25268ee3fecb59e2e56e8f22fcb0a5",
+      "type": "add"
+    },
+    "id-badge.svg": {
+      "tag": "icon-id-badge",
+      "digest": "c59588aa1f14241d54c8d5518fcb9595b06efb9358639823ca84a1ffa8124a92",
+      "type": "add"
+    },
+    "id-card.svg": {
+      "tag": "icon-id-card",
+      "digest": "5f0d038d80ad7403e008a7758a07e9524b280ebca9fdfd466a65e00342c5f215",
+      "type": "add"
+    },
+    "images.svg": {
+      "tag": "icon-images",
+      "digest": "f644a894555b226040f2e2c73c262441a818ac646458eeacd9ce9a7c0332c071",
+      "type": "add"
+    },
+    "image.svg": {
+      "tag": "icon-image",
+      "digest": "75790992363d0013afbce2d7438971855f58230c5e0f7cd44f7f6ac933698ea4",
+      "type": "add"
+    },
+    "keyboard.svg": {
+      "tag": "icon-keyboard",
+      "digest": "a637045c10ef84f04e29bb901edad24fd6cd58ad5c66a8c3f1e6dd9e3d3507bd",
+      "type": "add"
+    },
+    "lemon.svg": {
+      "tag": "icon-lemon",
+      "digest": "d854b9496ddc274bcc0bb75fcc613d2d9f442adaf9d7d7eca8688206a6875f25",
+      "type": "add"
+    },
+    "life-ring.svg": {
+      "tag": "icon-life-ring",
+      "digest": "747bcb9713d9795a4846ea6c65cd9948eb04c678bedc7e36a82e129aa87a22e2",
+      "type": "add"
+    },
+    "lightbulb.svg": {
+      "tag": "icon-lightbulb",
+      "digest": "1c4dd21089c0122d37500640f9aa54f001c27917094e5f0275cda67685d53d1a",
+      "type": "add"
+    },
+    "map.svg": {
+      "tag": "icon-map",
+      "digest": "e8f3040d2889b7543050e7a03592517219c8e7e9c6b68599fdb17a5b805cf7da",
+      "type": "add"
+    },
+    "message.svg": {
+      "tag": "icon-message",
+      "digest": "c53c2dc07e7e8dab9837b312dbdf9fb070697b8928ffd5c02482634e9a779086",
+      "type": "add"
+    },
+    "money-bill-1.svg": {
+      "tag": "icon-money-bill-1",
+      "digest": "a84fe61e93337cbc6b46c8bc69a44c96a751002737a446f5c49d73bfd2c79190",
+      "type": "add"
+    },
+    "moon.svg": {
+      "tag": "icon-moon",
+      "digest": "46ae5cda9b0df2843aad7c700648eb74fe2ad6a0f063b27894f55c4fe5877302",
+      "type": "add"
+    },
+    "newspaper.svg": {
+      "tag": "icon-newspaper",
+      "digest": "6bdea4b0920f6b1b61b12e2f85061c8485951cd386188532b73a1731bed28654",
+      "type": "add"
+    },
+    "object-group.svg": {
+      "tag": "icon-object-group",
+      "digest": "310cd0c1945ce885dc40cfbf980d82d4901993170e9db7a22f1da703aa51d33c",
+      "type": "add"
+    },
+    "object-ungroup.svg": {
+      "tag": "icon-object-ungroup",
+      "digest": "52ddd24d5e21c658b7e22f0b60c06bf4ed1f36893417f80c333dcc7b997af230",
+      "type": "add"
+    },
+    "note-sticky.svg": {
+      "tag": "icon-note-sticky",
+      "digest": "49ef7c5733a5bf4afa8ecc69cb40e1a6ea7c11d4c1de7725ead176ba77acebcf",
+      "type": "add"
+    },
+    "paper-plane.svg": {
+      "tag": "icon-paper-plane",
+      "digest": "b87b24ce6407e359f8e16ba25dfb1d8eb02b2d761cc2f774f7fdf463b8ecfd97",
+      "type": "add"
+    },
+    "paste.svg": {
+      "tag": "icon-paste",
+      "digest": "2fb2fa48959425e4da9a970b5f7f87323f14aaacb2e558c6290077b887993b68",
+      "type": "add"
+    },
+    "pen-to-square.svg": {
+      "tag": "icon-pen-to-square",
+      "digest": "0cddc47568d9be1b27b26d5914a2ceee227bd7b446813989a9f1395e7e22b3f0",
+      "type": "add"
+    },
+    "rectangle-list.svg": {
+      "tag": "icon-rectangle-list",
+      "digest": "d66b81e79414bbe611d8c7e1dee5c773ab3026b44ee1f6da41a18115bcfbf136",
+      "type": "add"
+    },
+    "rectangle-xmark.svg": {
+      "tag": "icon-rectangle-xmark",
+      "digest": "a5dc3caf2edaa98b444a1db41846c2405d2d143d7e29ab42d18ab72498ea1273",
+      "type": "add"
+    },
+    "registered.svg": {
+      "tag": "icon-registered",
+      "digest": "c49d8097634f43628b2cb425b90a974123bfaf73477e20eb69be2773882c0f62",
+      "type": "add"
+    },
+    "share-from-square.svg": {
+      "tag": "icon-share-from-square",
+      "digest": "d800d80f130ebb335004e93dee09ffe2c5f9335c90e61290d48bd55b23f46e9b",
+      "type": "add"
+    },
+    "snowflake.svg": {
+      "tag": "icon-snowflake",
+      "digest": "674ff21340bfbfde2c39436b0e733d5f41b6190ff1a9bb0098ac639499825d4c",
+      "type": "add"
+    },
+    "square-caret-down.svg": {
+      "tag": "icon-square-caret-down",
+      "digest": "f2803a7e0b8cee4bd50ef482e110847b04104af44cdf044d438d2b6a5fb5faf6",
+      "type": "add"
+    },
+    "square-caret-left.svg": {
+      "tag": "icon-square-caret-left",
+      "digest": "8fe83e209784bb576e01a5ebbeb1f5ec45302c4b90eb48945e54116bbfa442a2",
+      "type": "add"
+    },
+    "square-caret-right.svg": {
+      "tag": "icon-square-caret-right",
+      "digest": "a1608b17584d20875ee1b8811488702163943f99fbf4978dc9e32774a67981a7",
+      "type": "add"
+    },
+    "square-caret-up.svg": {
+      "tag": "icon-square-caret-up",
+      "digest": "2da8f9d88697097e6928db82ba60f0fe2ac912a7252014561fd8fa9324963eda",
+      "type": "add"
+    },
+    "square-check.svg": {
+      "tag": "icon-square-check",
+      "digest": "d8503ab44ec3590705076d1afe9bd58716c405b7a7c3416f2a836e88f3dd332f",
+      "type": "add"
+    },
+    "square-full.svg": {
+      "tag": "icon-square-full",
+      "digest": "4aab62c559dfcbd25d26444143d8308da95f781c57172aaa9f8e75b8e85e422c",
+      "type": "add"
+    },
+    "square-minus.svg": {
+      "tag": "icon-square-minus",
+      "digest": "fd3e47d5593361d8989ec3ab4260108e8c8de787a8438566d685c3b7269d66e7",
+      "type": "add"
+    },
+    "square-plus.svg": {
+      "tag": "icon-square-plus",
+      "digest": "145cd247a89be274fbe0fbac1de2c1048735e7cde4e09ba4f56c3b404e6ee389",
+      "type": "add"
+    },
+    "star-half.svg": {
+      "tag": "icon-star-half",
+      "digest": "54a8be5c2dbda3c9ebcedfb308c2f58b5516aafe800eaf5225353fcc33145f3f",
+      "type": "add"
+    },
+    "square.svg": {
+      "tag": "icon-square",
+      "digest": "19dc5b6ee7c428492b6eb5f250cbcfad66eaaf5d8771dfebb03aa7f9b520469f",
+      "type": "add"
+    },
+    "star-half-stroke.svg": {
+      "tag": "icon-star-half-stroke",
+      "digest": "fbeeb2ae6c996ff0f87e2fa4f081261545b6a771378fb1343c366d3f6184a234",
+      "type": "add"
+    },
+    "star.svg": {
+      "tag": "icon-star",
+      "digest": "8f4b73cc1b8dc41812d8344623e3daa5a0a63be3aa81aec1e4cab4d594631e52",
+      "type": "add"
+    },
+    "thumbs-up.svg": {
+      "tag": "icon-thumbs-up",
+      "digest": "d724c76fb0ed122168427754ae7709dc4513efeec010a69288e87975c40a54e1",
+      "type": "add"
+    },
+    "thumbs-down.svg": {
+      "tag": "icon-thumbs-down",
+      "digest": "ebdb6f9cc4acbed6d821f485eac9ef0f40c20dfbe776d2a500a6743519fc3ff8",
+      "type": "add"
+    },
+    "sun.svg": {
+      "tag": "icon-sun",
+      "digest": "ee87c2d0b5f1bb9aafcebd40f61b626b856d967dd31b4d9c4c49e9af163d940f",
+      "type": "add"
+    },
+    "trash-can.svg": {
+      "tag": "icon-trash-can",
+      "digest": "2f919af435a2c97a3ef11ef422e8aed399aac3f080192f4251ca07d77263c7b6",
+      "type": "add"
+    },
+    "user.svg": {
+      "tag": "icon-user",
+      "digest": "495f29649175a3955b15a1775fd0846584cc294db09e7e96d523602b56dc0965",
+      "type": "add"
+    },
+    "window-maximize.svg": {
+      "tag": "icon-window-maximize",
+      "digest": "54f2e606b9014958ee69af205f9df8bf8a4a6271a61476be421569e189f1da36",
+      "type": "add"
+    },
+    "window-restore.svg": {
+      "tag": "icon-window-restore",
+      "digest": "c18be0e6edf57ab0a93e2d14f8d974ed1a0e7e8737a46cd7b9cf4503cfd0ecc4",
+      "type": "add"
+    },
+    "window-minimize.svg": {
+      "tag": "icon-window-minimize",
+      "digest": "1ece860943247b325cc28ebd2f7d9b2caa77b1906c5fbd57b40c03db8d2f42de",
+      "type": "add"
+    }
+  }
+}

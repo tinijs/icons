@@ -26,10 +26,10 @@ The icons packages of the TiniJS framework.
 - Install: `npm i @tinijs/material-outlined-icons`
 - Usage detail: <https://ui.tinijs.dev/material-outlined-icons>
 
-#### Rounded
+#### Round
 
-- Install: `npm i @tinijs/material-rounded-icons`
-- Usage detail: <https://ui.tinijs.dev/material-rounded-icons>
+- Install: `npm i @tinijs/material-round-icons`
+- Usage detail: <https://ui.tinijs.dev/material-round-icons>
 
 #### Sharp
 
@@ -81,6 +81,26 @@ The icons packages of the TiniJS framework.
 
 - Install: `npm i @tinijs/ant-twotone-icons`
 - Usage detail: <https://ui.tinijs.dev/ant-twotone-icons>
+
+### 7. Font Awesome
+
+- License: **CC BY 4.0**
+- Source: [Github](https://github.com/FortAwesome/Font-Awesome)
+
+#### Brands
+
+- Install: `npm i @tinijs/fontawesome-brands-icons`
+- Usage detail: <https://ui.tinijs.dev/fontawesome-brands-icons>
+
+#### Regular
+
+- Install: `npm i @tinijs/fontawesome-regular-icons`
+- Usage detail: <https://ui.tinijs.dev/fontawesome-regular-icons>
+
+#### Solid
+
+- Install: `npm i @tinijs/fontawesome-solid-icons`
+- Usage detail: <https://ui.tinijs.dev/fontawesome-solid-icons>
 
 ## License
 
