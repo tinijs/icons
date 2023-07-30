@@ -1,820 +1,657 @@
 {
-  "version": "0.0.4",
+  "version": "0.0.5",
   "records": {
     "address-card.svg": {
       "tag": "icon-address-card",
-      "digest": "4e354260ff8c34617dec82bca8b3cca0ffc6d89ac0c6a88bd7759b64b3f0ef98",
-      "type": "modify"
+      "digest": "4e354260ff8c34617dec82bca8b3cca0ffc6d89ac0c6a88bd7759b64b3f0ef98"
     },
     "bell-slash.svg": {
       "tag": "icon-bell-slash",
-      "digest": "4e6a72764268b7c70fde1cbe8dee61ee9b680836f25651922c1397288506ec50",
-      "type": "modify"
+      "digest": "4e6a72764268b7c70fde1cbe8dee61ee9b680836f25651922c1397288506ec50"
     },
     "bell.svg": {
       "tag": "icon-bell",
-      "digest": "e4c58435fde223ab0ad0d97c8af41970ea0cbe5f205ab1cb9afbacbc69810206",
-      "type": "modify"
+      "digest": "e4c58435fde223ab0ad0d97c8af41970ea0cbe5f205ab1cb9afbacbc69810206"
     },
     "address-book.svg": {
       "tag": "icon-address-book",
-      "digest": "569b33af82143c8a996d8da4d193532f4e1f0214a6405384d80bfeae76c39df2",
-      "type": "modify"
+      "digest": "569b33af82143c8a996d8da4d193532f4e1f0214a6405384d80bfeae76c39df2"
     },
     "bookmark.svg": {
       "tag": "icon-bookmark",
-      "digest": "c6b32366b31947141b8ee9a3065234af3cde156a8620ab7ee895aed75e8c6b15",
-      "type": "modify"
+      "digest": "c6b32366b31947141b8ee9a3065234af3cde156a8620ab7ee895aed75e8c6b15"
     },
     "building.svg": {
       "tag": "icon-building",
-      "digest": "37fa11c278bb6d78b312fbdf18d72320cfcae67a63d877faf9208ebe7950c1de",
-      "type": "modify"
+      "digest": "37fa11c278bb6d78b312fbdf18d72320cfcae67a63d877faf9208ebe7950c1de"
     },
     "calendar-check.svg": {
       "tag": "icon-calendar-check",
-      "digest": "9be79b7f4050300eaa2223b69dc84dd31a9b5dac4f2fb3c7d87afc15355f6ee6",
-      "type": "modify"
+      "digest": "9be79b7f4050300eaa2223b69dc84dd31a9b5dac4f2fb3c7d87afc15355f6ee6"
     },
     "calendar-days.svg": {
       "tag": "icon-calendar-days",
-      "digest": "489bf627c44359ec1df849742b6926393b810a2bcbfbb620add51b9de0a81ddf",
-      "type": "modify"
+      "digest": "489bf627c44359ec1df849742b6926393b810a2bcbfbb620add51b9de0a81ddf"
     },
     "calendar-minus.svg": {
       "tag": "icon-calendar-minus",
-      "digest": "c3300dd12a8427d32be918d1d87efabf199f1e88c87fafd750ad4feadc73f27c",
-      "type": "modify"
+      "digest": "c3300dd12a8427d32be918d1d87efabf199f1e88c87fafd750ad4feadc73f27c"
     },
     "calendar-plus.svg": {
       "tag": "icon-calendar-plus",
-      "digest": "93a667744c3fea3c05216e1c0d215974d2dcb68d2db2412c936899f465d2593e",
-      "type": "modify"
+      "digest": "93a667744c3fea3c05216e1c0d215974d2dcb68d2db2412c936899f465d2593e"
     },
     "calendar-xmark.svg": {
       "tag": "icon-calendar-xmark",
-      "digest": "f0532c772db676bd50ee8311391d23ac7d5a0b468916e9dc57972d5399076b9a",
-      "type": "modify"
+      "digest": "f0532c772db676bd50ee8311391d23ac7d5a0b468916e9dc57972d5399076b9a"
     },
     "calendar.svg": {
       "tag": "icon-calendar",
-      "digest": "e6f6dcb4eb4ac81acc68c1441c4a98bd423f5a29cf45aef24426c72423994c83",
-      "type": "modify"
+      "digest": "e6f6dcb4eb4ac81acc68c1441c4a98bd423f5a29cf45aef24426c72423994c83"
     },
     "chart-bar.svg": {
       "tag": "icon-chart-bar",
-      "digest": "45e7849540b606da535ddb8ecfd27321bffed68909793c513c0fc3bf29b5240f",
-      "type": "modify"
+      "digest": "45e7849540b606da535ddb8ecfd27321bffed68909793c513c0fc3bf29b5240f"
     },
     "chess-bishop.svg": {
       "tag": "icon-chess-bishop",
-      "digest": "5c15781fc2ffe21718792cf9f7f4535e71f5a1d931c3ce5447740f2667c64b86",
-      "type": "modify"
+      "digest": "5c15781fc2ffe21718792cf9f7f4535e71f5a1d931c3ce5447740f2667c64b86"
     },
     "chess-king.svg": {
       "tag": "icon-chess-king",
-      "digest": "f2e86d6347de0b0ee3a288c1c0ea9ad1baf8ad077e876ecf80c1ea60e2dd7d6d",
-      "type": "modify"
+      "digest": "f2e86d6347de0b0ee3a288c1c0ea9ad1baf8ad077e876ecf80c1ea60e2dd7d6d"
     },
     "chess-knight.svg": {
       "tag": "icon-chess-knight",
-      "digest": "0d0fb187b34a5a0b5544ae0bd55f71b7aeb6125cbc0f173aab96e14a97ce6eb0",
-      "type": "modify"
+      "digest": "0d0fb187b34a5a0b5544ae0bd55f71b7aeb6125cbc0f173aab96e14a97ce6eb0"
     },
     "chess-pawn.svg": {
       "tag": "icon-chess-pawn",
-      "digest": "c4f47779fbe0c68c26de8ffaf04b3c70eed39177a90bca6222e37711f1e6ac98",
-      "type": "modify"
+      "digest": "c4f47779fbe0c68c26de8ffaf04b3c70eed39177a90bca6222e37711f1e6ac98"
     },
     "chess-queen.svg": {
       "tag": "icon-chess-queen",
-      "digest": "92d1748c9aad3f942e4f7622326320dd103017e33ca87eabfd5a93504613c5b3",
-      "type": "modify"
+      "digest": "92d1748c9aad3f942e4f7622326320dd103017e33ca87eabfd5a93504613c5b3"
     },
     "chess-rook.svg": {
       "tag": "icon-chess-rook",
-      "digest": "1aa5537f7768174fde10d0a8b9fce65cab23a3152e89a19e9a80190e43129fd8",
-      "type": "modify"
+      "digest": "1aa5537f7768174fde10d0a8b9fce65cab23a3152e89a19e9a80190e43129fd8"
     },
     "circle-check.svg": {
       "tag": "icon-circle-check",
-      "digest": "c10ef2ce34fece8b027779a13b753a3ecd93444bae498e97f8589f100e6db1e5",
-      "type": "modify"
+      "digest": "c10ef2ce34fece8b027779a13b753a3ecd93444bae498e97f8589f100e6db1e5"
     },
     "circle-dot.svg": {
       "tag": "icon-circle-dot",
-      "digest": "77ce32e082f0d73b8cbe717b9e5905e11628230d50699d32312be135169e52eb",
-      "type": "modify"
+      "digest": "77ce32e082f0d73b8cbe717b9e5905e11628230d50699d32312be135169e52eb"
     },
     "circle-down.svg": {
       "tag": "icon-circle-down",
-      "digest": "b79df35840082aeded7768f6f9e2deebf8f9fb468f3239fd8198d142330e5c12",
-      "type": "modify"
+      "digest": "b79df35840082aeded7768f6f9e2deebf8f9fb468f3239fd8198d142330e5c12"
     },
     "circle-left.svg": {
       "tag": "icon-circle-left",
-      "digest": "be1f0790ee5664a710e1d373a3ca7abaf0e33942fe99c71fc1a6d6fbe41cdb42",
-      "type": "modify"
+      "digest": "be1f0790ee5664a710e1d373a3ca7abaf0e33942fe99c71fc1a6d6fbe41cdb42"
     },
     "circle-pause.svg": {
       "tag": "icon-circle-pause",
-      "digest": "508fb4f44755eb546a35322bfe91fff5588b5626316f914022eb18f44cbf486f",
-      "type": "modify"
+      "digest": "508fb4f44755eb546a35322bfe91fff5588b5626316f914022eb18f44cbf486f"
     },
     "circle-play.svg": {
       "tag": "icon-circle-play",
-      "digest": "f26d0f9f87169ed8e7e0aa3ae3133900a0c69ae71a9d1b53c6e2f61c607af3ea",
-      "type": "modify"
+      "digest": "f26d0f9f87169ed8e7e0aa3ae3133900a0c69ae71a9d1b53c6e2f61c607af3ea"
     },
     "circle-question.svg": {
       "tag": "icon-circle-question",
-      "digest": "e4d7af3b9642849ad13ee4e2beb9da781ff70d9f069806f20484438ca1f2ddb2",
-      "type": "modify"
+      "digest": "e4d7af3b9642849ad13ee4e2beb9da781ff70d9f069806f20484438ca1f2ddb2"
     },
     "circle-right.svg": {
       "tag": "icon-circle-right",
-      "digest": "71df2c858f08767f828301dc8ead431248cb724e46d9a94411c3314591f49186",
-      "type": "modify"
+      "digest": "71df2c858f08767f828301dc8ead431248cb724e46d9a94411c3314591f49186"
     },
     "circle-stop.svg": {
       "tag": "icon-circle-stop",
-      "digest": "3b0779313c580ea4e2464844bcb99c3da0f70bc0e905dd0e08d97fccb2b71165",
-      "type": "modify"
+      "digest": "3b0779313c580ea4e2464844bcb99c3da0f70bc0e905dd0e08d97fccb2b71165"
     },
     "circle-up.svg": {
       "tag": "icon-circle-up",
-      "digest": "00ddfac313abe855b1e73d71e4a4628a42af1e892e5f58d93decfd2b3bc4399a",
-      "type": "modify"
+      "digest": "00ddfac313abe855b1e73d71e4a4628a42af1e892e5f58d93decfd2b3bc4399a"
     },
     "circle-user.svg": {
       "tag": "icon-circle-user",
-      "digest": "53b7fb24ede3b9f31ac58ad0ddb28a0d5ddef390e79a4b0c3c5567ff9756d8c8",
-      "type": "modify"
+      "digest": "53b7fb24ede3b9f31ac58ad0ddb28a0d5ddef390e79a4b0c3c5567ff9756d8c8"
     },
     "circle-xmark.svg": {
       "tag": "icon-circle-xmark",
-      "digest": "4a3545725db2cb7216c547497306ad68dd9f3a9fbb47c7a54fe6fbee05d2d98f",
-      "type": "modify"
+      "digest": "4a3545725db2cb7216c547497306ad68dd9f3a9fbb47c7a54fe6fbee05d2d98f"
     },
     "circle.svg": {
       "tag": "icon-circle",
-      "digest": "ba711b117b897cffac991008740c425b3381c6af48ca176b5a4a521e310787ce",
-      "type": "modify"
+      "digest": "ba711b117b897cffac991008740c425b3381c6af48ca176b5a4a521e310787ce"
     },
     "clipboard.svg": {
       "tag": "icon-clipboard",
-      "digest": "8105d76f09507ee2e9e6ce64a7484dd0aaf7df0d04b37d29d91773256563ecc8",
-      "type": "modify"
+      "digest": "8105d76f09507ee2e9e6ce64a7484dd0aaf7df0d04b37d29d91773256563ecc8"
     },
     "clock.svg": {
       "tag": "icon-clock",
-      "digest": "0b743e247b4a1916ba9519e76d19c4680ff9c27200ca8146209f4864b4ef4e50",
-      "type": "modify"
+      "digest": "0b743e247b4a1916ba9519e76d19c4680ff9c27200ca8146209f4864b4ef4e50"
     },
     "clone.svg": {
       "tag": "icon-clone",
-      "digest": "834448e207a5b53358138d4a1d481637ce95b42c349b194cef5a635db440bffc",
-      "type": "modify"
+      "digest": "834448e207a5b53358138d4a1d481637ce95b42c349b194cef5a635db440bffc"
     },
     "closed-captioning.svg": {
       "tag": "icon-closed-captioning",
-      "digest": "975c70418fce3aaed05ecd551448f39e5579c6a61e90035e311d05575e5d5f2d",
-      "type": "modify"
+      "digest": "975c70418fce3aaed05ecd551448f39e5579c6a61e90035e311d05575e5d5f2d"
     },
     "comment-dots.svg": {
       "tag": "icon-comment-dots",
-      "digest": "b0aa1d1dedfcfe5768a0b1281d9902920115db3c85d649de36d9ae7d6fcc3e65",
-      "type": "modify"
+      "digest": "b0aa1d1dedfcfe5768a0b1281d9902920115db3c85d649de36d9ae7d6fcc3e65"
     },
     "comment.svg": {
       "tag": "icon-comment",
-      "digest": "4bbeaa4d0977d61afd37c904ca427615e6824b4691f589e45d3f1286ad2d88b9",
-      "type": "modify"
+      "digest": "4bbeaa4d0977d61afd37c904ca427615e6824b4691f589e45d3f1286ad2d88b9"
     },
     "comments.svg": {
       "tag": "icon-comments",
-      "digest": "077fd5171c77c8f26e640b3a21ae9179582e96613bdac1686e0991e6d6405182",
-      "type": "modify"
+      "digest": "077fd5171c77c8f26e640b3a21ae9179582e96613bdac1686e0991e6d6405182"
     },
     "compass.svg": {
       "tag": "icon-compass",
-      "digest": "b4ccd724e55624a8e6174ac199672e3f135cb8445aa59a277dcc1e7c2c769735",
-      "type": "modify"
+      "digest": "b4ccd724e55624a8e6174ac199672e3f135cb8445aa59a277dcc1e7c2c769735"
     },
     "copy.svg": {
       "tag": "icon-copy",
-      "digest": "5d2e8172fba89e8edc4fdd3991c90b9982df60f57f1232366f72570351593e15",
-      "type": "modify"
+      "digest": "5d2e8172fba89e8edc4fdd3991c90b9982df60f57f1232366f72570351593e15"
     },
     "copyright.svg": {
       "tag": "icon-copyright",
-      "digest": "db7dff98453bd04a020afc419a03cde7721775178117ff9f0a2cc2221c0db5da",
-      "type": "modify"
+      "digest": "db7dff98453bd04a020afc419a03cde7721775178117ff9f0a2cc2221c0db5da"
     },
     "credit-card.svg": {
       "tag": "icon-credit-card",
-      "digest": "d04a1b731afaf5349ec9f789d7df3213e1115e840e06603c2b031968fe0d0cbd",
-      "type": "modify"
+      "digest": "d04a1b731afaf5349ec9f789d7df3213e1115e840e06603c2b031968fe0d0cbd"
     },
     "envelope-open.svg": {
       "tag": "icon-envelope-open",
-      "digest": "88093d339c1d44856843fbfadabb74ce50d565e139b72ddd5848221e7231b42a",
-      "type": "modify"
+      "digest": "88093d339c1d44856843fbfadabb74ce50d565e139b72ddd5848221e7231b42a"
     },
     "envelope.svg": {
       "tag": "icon-envelope",
-      "digest": "2c505408ac5481a3cdbb040500dcae9e003cb43259905e3084a2e4d3026be539",
-      "type": "modify"
+      "digest": "2c505408ac5481a3cdbb040500dcae9e003cb43259905e3084a2e4d3026be539"
     },
     "eye-slash.svg": {
       "tag": "icon-eye-slash",
-      "digest": "bac4ad1ead4cf48f755c97658bfeb39d51d21e19874afcd2585d714e52f3535d",
-      "type": "modify"
+      "digest": "bac4ad1ead4cf48f755c97658bfeb39d51d21e19874afcd2585d714e52f3535d"
     },
     "face-angry.svg": {
       "tag": "icon-face-angry",
-      "digest": "5ffe8a533ddfc0c03021972c1223821afc024df694dcc1f0477f6beb1bcbdcde",
-      "type": "modify"
+      "digest": "5ffe8a533ddfc0c03021972c1223821afc024df694dcc1f0477f6beb1bcbdcde"
     },
     "eye.svg": {
       "tag": "icon-eye",
-      "digest": "0231e59ff0b6ddd8afd7d9afd096f3ebf6de3837a1e13b2dbae1b5dde2075c8a",
-      "type": "modify"
+      "digest": "0231e59ff0b6ddd8afd7d9afd096f3ebf6de3837a1e13b2dbae1b5dde2075c8a"
     },
     "face-dizzy.svg": {
       "tag": "icon-face-dizzy",
-      "digest": "c9055a48676982d3f816ee648e38222642940b2e0502b49028ced6a8811e534a",
-      "type": "modify"
+      "digest": "c9055a48676982d3f816ee648e38222642940b2e0502b49028ced6a8811e534a"
     },
     "face-flushed.svg": {
       "tag": "icon-face-flushed",
-      "digest": "d46aa7a3cef9c730d00ccc2067584b7ff265072b142aeeae3fcd592a9b7e36a6",
-      "type": "modify"
+      "digest": "d46aa7a3cef9c730d00ccc2067584b7ff265072b142aeeae3fcd592a9b7e36a6"
     },
     "face-frown-open.svg": {
       "tag": "icon-face-frown-open",
-      "digest": "d050c1c1dc4dfe2af0259d8fab8c5e78fa9d360ffe59da9ed8dcc6874fa63b7a",
-      "type": "modify"
+      "digest": "d050c1c1dc4dfe2af0259d8fab8c5e78fa9d360ffe59da9ed8dcc6874fa63b7a"
     },
     "face-frown.svg": {
       "tag": "icon-face-frown",
-      "digest": "c419e9fc450b54cb764b4042576c27eacca28016ca984e5f5c1edbc0af574286",
-      "type": "modify"
+      "digest": "c419e9fc450b54cb764b4042576c27eacca28016ca984e5f5c1edbc0af574286"
     },
     "face-grimace.svg": {
       "tag": "icon-face-grimace",
-      "digest": "c42b12e02403c427aeea874925da03e8f0479e075ff6865a3e2a4c3d1e0fbce6",
-      "type": "modify"
+      "digest": "c42b12e02403c427aeea874925da03e8f0479e075ff6865a3e2a4c3d1e0fbce6"
     },
     "face-grin-beam-sweat.svg": {
       "tag": "icon-face-grin-beam-sweat",
-      "digest": "c71a0790413d4ce50e94904d540fcb262f2da966fc21dbc0dbf7a43e5cf804df",
-      "type": "modify"
+      "digest": "c71a0790413d4ce50e94904d540fcb262f2da966fc21dbc0dbf7a43e5cf804df"
     },
     "face-grin-beam.svg": {
       "tag": "icon-face-grin-beam",
-      "digest": "324f5bcbb12bb664b6c6e68a6fd4b34e68766b13ec13672c10ac2c7e0840d1e3",
-      "type": "modify"
+      "digest": "324f5bcbb12bb664b6c6e68a6fd4b34e68766b13ec13672c10ac2c7e0840d1e3"
     },
     "face-grin-hearts.svg": {
       "tag": "icon-face-grin-hearts",
-      "digest": "087cc9561fc51a9ef81183cc2607d16634902486fa71f4618e270d953a8b27a4",
-      "type": "modify"
+      "digest": "087cc9561fc51a9ef81183cc2607d16634902486fa71f4618e270d953a8b27a4"
     },
     "face-grin-squint-tears.svg": {
       "tag": "icon-face-grin-squint-tears",
-      "digest": "5587d2229ffaa18996c4ce5754892235c6bb917d5733eeb44daea130473dee2a",
-      "type": "modify"
+      "digest": "5587d2229ffaa18996c4ce5754892235c6bb917d5733eeb44daea130473dee2a"
     },
     "face-grin-squint.svg": {
       "tag": "icon-face-grin-squint",
-      "digest": "361b38596ade26c5e24ea0d833c6fa6d4b923e1bc7c04385badcc6423fcd71a2",
-      "type": "modify"
+      "digest": "361b38596ade26c5e24ea0d833c6fa6d4b923e1bc7c04385badcc6423fcd71a2"
     },
     "face-grin-stars.svg": {
       "tag": "icon-face-grin-stars",
-      "digest": "d08e3bbece34a78ab516d92a24f44aade9d78fc660167c1bbebcfa91c03b14f2",
-      "type": "modify"
+      "digest": "d08e3bbece34a78ab516d92a24f44aade9d78fc660167c1bbebcfa91c03b14f2"
     },
     "face-grin-tongue-squint.svg": {
       "tag": "icon-face-grin-tongue-squint",
-      "digest": "2123890b7f0b551a2cea073c052ce1ea78a4566462342ece1d644b0b7780cc6b",
-      "type": "modify"
+      "digest": "2123890b7f0b551a2cea073c052ce1ea78a4566462342ece1d644b0b7780cc6b"
     },
     "face-grin-tears.svg": {
       "tag": "icon-face-grin-tears",
-      "digest": "d3310160d2c0f341d4446e98c8c82393314cb350ef40744f7a5b5882436b8226",
-      "type": "modify"
+      "digest": "d3310160d2c0f341d4446e98c8c82393314cb350ef40744f7a5b5882436b8226"
     },
     "face-grin-tongue-wink.svg": {
       "tag": "icon-face-grin-tongue-wink",
-      "digest": "9c10097fc744b4248dadc96e136a2274580083ecbed781e585a077a97a67e17c",
-      "type": "modify"
+      "digest": "9c10097fc744b4248dadc96e136a2274580083ecbed781e585a077a97a67e17c"
     },
     "face-grin-tongue.svg": {
       "tag": "icon-face-grin-tongue",
-      "digest": "fd91f144787a5281b984143e9618cf4b438a597081b5de14013a76c7514abbfd",
-      "type": "modify"
+      "digest": "fd91f144787a5281b984143e9618cf4b438a597081b5de14013a76c7514abbfd"
     },
     "face-grin-wide.svg": {
       "tag": "icon-face-grin-wide",
-      "digest": "5a7e7fe40065c1839f01615610766960594b42dc78a36585866e361616c49df9",
-      "type": "modify"
+      "digest": "5a7e7fe40065c1839f01615610766960594b42dc78a36585866e361616c49df9"
     },
     "face-grin-wink.svg": {
       "tag": "icon-face-grin-wink",
-      "digest": "5406f158f1a72c59f584c54714bd6ad0e1f0c87aa40415573f39d43fecbd17a3",
-      "type": "modify"
+      "digest": "5406f158f1a72c59f584c54714bd6ad0e1f0c87aa40415573f39d43fecbd17a3"
     },
     "face-grin.svg": {
       "tag": "icon-face-grin",
-      "digest": "ce6631f6f800b47b647d62baf7831699a7cb8dfd6963c4cf08c96600d0dd68c4",
-      "type": "modify"
+      "digest": "ce6631f6f800b47b647d62baf7831699a7cb8dfd6963c4cf08c96600d0dd68c4"
     },
     "face-kiss-beam.svg": {
       "tag": "icon-face-kiss-beam",
-      "digest": "202cb9b3d844d0f6f3e6e02d42fa9dabe9d8f0871cc6b3526f81f36bd9e5c314",
-      "type": "modify"
+      "digest": "202cb9b3d844d0f6f3e6e02d42fa9dabe9d8f0871cc6b3526f81f36bd9e5c314"
     },
     "face-kiss-wink-heart.svg": {
       "tag": "icon-face-kiss-wink-heart",
-      "digest": "be77c4b4cfffa0bfc94f63d04bb4e1668c68f354ca74d7940eb87da659f40f62",
-      "type": "modify"
+      "digest": "be77c4b4cfffa0bfc94f63d04bb4e1668c68f354ca74d7940eb87da659f40f62"
     },
     "face-kiss.svg": {
       "tag": "icon-face-kiss",
-      "digest": "19612b2ce1fb98d20aa1b4fab2d7f4d81d6cd1ac93ac79f4e281196c2ed8f5cb",
-      "type": "modify"
+      "digest": "19612b2ce1fb98d20aa1b4fab2d7f4d81d6cd1ac93ac79f4e281196c2ed8f5cb"
     },
     "face-laugh-beam.svg": {
       "tag": "icon-face-laugh-beam",
-      "digest": "45d95c4e20f46fa8460159f15de57bdcd07e2046d0c97b78461006b19a73cd89",
-      "type": "modify"
+      "digest": "45d95c4e20f46fa8460159f15de57bdcd07e2046d0c97b78461006b19a73cd89"
     },
     "face-laugh-squint.svg": {
       "tag": "icon-face-laugh-squint",
-      "digest": "793a1cacdf1f218bf1bd5f151fcf36290b8e84453d8665b2928fb330e795f7cb",
-      "type": "modify"
+      "digest": "793a1cacdf1f218bf1bd5f151fcf36290b8e84453d8665b2928fb330e795f7cb"
     },
     "face-laugh-wink.svg": {
       "tag": "icon-face-laugh-wink",
-      "digest": "03142570049aec60095cf08e509d2614f42e52ac7d1ae23e9d247a9d3ecf0510",
-      "type": "modify"
+      "digest": "03142570049aec60095cf08e509d2614f42e52ac7d1ae23e9d247a9d3ecf0510"
     },
     "face-laugh.svg": {
       "tag": "icon-face-laugh",
-      "digest": "caa13cdcccdbfd7664a3e1d376aa69f49413aea5d7106765ba113d05bcbdfb5b",
-      "type": "modify"
+      "digest": "caa13cdcccdbfd7664a3e1d376aa69f49413aea5d7106765ba113d05bcbdfb5b"
     },
     "face-meh-blank.svg": {
       "tag": "icon-face-meh-blank",
-      "digest": "8c71cd9fb68c0ec6ec3ae90d047476f4b8913f54265dbf0dd07b48eba8819ea6",
-      "type": "modify"
+      "digest": "8c71cd9fb68c0ec6ec3ae90d047476f4b8913f54265dbf0dd07b48eba8819ea6"
     },
     "face-meh.svg": {
       "tag": "icon-face-meh",
-      "digest": "945b885dd8b53399594a525468833e9fd43f9e1e7650ed64b359be093482c9c3",
-      "type": "modify"
+      "digest": "945b885dd8b53399594a525468833e9fd43f9e1e7650ed64b359be093482c9c3"
     },
     "face-rolling-eyes.svg": {
       "tag": "icon-face-rolling-eyes",
-      "digest": "f6c9f568fcacbb12276da489aaf1a3b431137e67583cbee21fa9ae75ef6f43a6",
-      "type": "modify"
+      "digest": "f6c9f568fcacbb12276da489aaf1a3b431137e67583cbee21fa9ae75ef6f43a6"
     },
     "face-sad-cry.svg": {
       "tag": "icon-face-sad-cry",
-      "digest": "c3cddde4f28afdeef8f803cf2bd6e73ba418751919b69defa3e4ce3fa221beb2",
-      "type": "modify"
+      "digest": "c3cddde4f28afdeef8f803cf2bd6e73ba418751919b69defa3e4ce3fa221beb2"
     },
     "face-sad-tear.svg": {
       "tag": "icon-face-sad-tear",
-      "digest": "25e75491e083e97672fd83da99e6ab5bd56d427a57fb97ecb0f49f8b861db294",
-      "type": "modify"
+      "digest": "25e75491e083e97672fd83da99e6ab5bd56d427a57fb97ecb0f49f8b861db294"
     },
     "face-smile-wink.svg": {
       "tag": "icon-face-smile-wink",
-      "digest": "676b2bad8880a69d8629414de34eec47c4eb047b6dbea43bc949d62d19887b61",
-      "type": "modify"
+      "digest": "676b2bad8880a69d8629414de34eec47c4eb047b6dbea43bc949d62d19887b61"
     },
     "face-smile-beam.svg": {
       "tag": "icon-face-smile-beam",
-      "digest": "a646bd88313e333f7d9fbefdaa80dbccecc2524b9b2cc272db69eb183bac8a81",
-      "type": "modify"
+      "digest": "a646bd88313e333f7d9fbefdaa80dbccecc2524b9b2cc272db69eb183bac8a81"
     },
     "face-smile.svg": {
       "tag": "icon-face-smile",
-      "digest": "ba0cab22367d0413f1469ace4df5c93afd9c3bfb598072912356ae8c1c2edcab",
-      "type": "modify"
+      "digest": "ba0cab22367d0413f1469ace4df5c93afd9c3bfb598072912356ae8c1c2edcab"
     },
     "face-surprise.svg": {
       "tag": "icon-face-surprise",
-      "digest": "89178edb339db4c61f7516cf529650b278d161a9da00d0c9782792cf7f59512e",
-      "type": "modify"
+      "digest": "89178edb339db4c61f7516cf529650b278d161a9da00d0c9782792cf7f59512e"
     },
     "face-tired.svg": {
       "tag": "icon-face-tired",
-      "digest": "84495a230001c5f1001854e1e856eb0f95a25b6a165d0d311d5b117bbc9c7ada",
-      "type": "modify"
+      "digest": "84495a230001c5f1001854e1e856eb0f95a25b6a165d0d311d5b117bbc9c7ada"
     },
     "file-code.svg": {
       "tag": "icon-file-code",
-      "digest": "dbfd27bde551633d9a36ce4d5eb3071d2260c5c495bdfbd21b3644575b773e0b",
-      "type": "modify"
+      "digest": "dbfd27bde551633d9a36ce4d5eb3071d2260c5c495bdfbd21b3644575b773e0b"
     },
     "file-audio.svg": {
       "tag": "icon-file-audio",
-      "digest": "976046154d9ff9b605e6003fa948b6bae2ccb8f01b3edd3e01d23ab6fdb50570",
-      "type": "modify"
+      "digest": "976046154d9ff9b605e6003fa948b6bae2ccb8f01b3edd3e01d23ab6fdb50570"
     },
     "file-image.svg": {
       "tag": "icon-file-image",
-      "digest": "26163ccef78036c85c3f4f65474a973986d583a2eacde775ff261059c05a33f9",
-      "type": "modify"
+      "digest": "26163ccef78036c85c3f4f65474a973986d583a2eacde775ff261059c05a33f9"
     },
     "file-excel.svg": {
       "tag": "icon-file-excel",
-      "digest": "d611442610333efa20a920ddde72610fa1d31645cd827f41478fa239e13f78ae",
-      "type": "modify"
+      "digest": "d611442610333efa20a920ddde72610fa1d31645cd827f41478fa239e13f78ae"
     },
     "file-lines.svg": {
       "tag": "icon-file-lines",
-      "digest": "75937bece7d674adc3e78673d4f46017f69d26f2e18e47646cab13dc47f6ee31",
-      "type": "modify"
+      "digest": "75937bece7d674adc3e78673d4f46017f69d26f2e18e47646cab13dc47f6ee31"
     },
     "file-pdf.svg": {
       "tag": "icon-file-pdf",
-      "digest": "70d491cd07779f7f4a861a53327ab913b85901b4f61755c9a7944f1bf0bd097b",
-      "type": "modify"
+      "digest": "70d491cd07779f7f4a861a53327ab913b85901b4f61755c9a7944f1bf0bd097b"
     },
     "file-powerpoint.svg": {
       "tag": "icon-file-powerpoint",
-      "digest": "97a684e0cd05ad241833710df94413d480dd6e2fec52a71945d01c52cb9ad6cc",
-      "type": "modify"
+      "digest": "97a684e0cd05ad241833710df94413d480dd6e2fec52a71945d01c52cb9ad6cc"
     },
     "file-video.svg": {
       "tag": "icon-file-video",
-      "digest": "11322c67464b0f1ed62590d79b6ac8f79e36add58f34ebc60322abdfcfb5580b",
-      "type": "modify"
+      "digest": "11322c67464b0f1ed62590d79b6ac8f79e36add58f34ebc60322abdfcfb5580b"
     },
     "file-word.svg": {
       "tag": "icon-file-word",
-      "digest": "8544b408318cfb428de47bda94c74b95c5cba2c95ec464bd157dd69b0b70882a",
-      "type": "modify"
+      "digest": "8544b408318cfb428de47bda94c74b95c5cba2c95ec464bd157dd69b0b70882a"
     },
     "file-zipper.svg": {
       "tag": "icon-file-zipper",
-      "digest": "3dc9dba223fb657a27a6cfac4f62e61ebbb0e579f695414c758da7497de028f1",
-      "type": "modify"
+      "digest": "3dc9dba223fb657a27a6cfac4f62e61ebbb0e579f695414c758da7497de028f1"
     },
     "file.svg": {
       "tag": "icon-file",
-      "digest": "63c0748f580f4be9dc9272baf5e5cffb2aa3f3d72b44ca70d292ead8bc969bef",
-      "type": "modify"
+      "digest": "63c0748f580f4be9dc9272baf5e5cffb2aa3f3d72b44ca70d292ead8bc969bef"
     },
     "flag.svg": {
       "tag": "icon-flag",
-      "digest": "dcf91fce06e5c46b6596fe160a54d32099c049f9fcae1e9693572cbbb681b756",
-      "type": "modify"
+      "digest": "dcf91fce06e5c46b6596fe160a54d32099c049f9fcae1e9693572cbbb681b756"
     },
     "floppy-disk.svg": {
       "tag": "icon-floppy-disk",
-      "digest": "df3b6969369b7d5d3e3c8ec967fcaebcbb4fafb81ac9c8dd75325cacf8b0560b",
-      "type": "modify"
+      "digest": "df3b6969369b7d5d3e3c8ec967fcaebcbb4fafb81ac9c8dd75325cacf8b0560b"
     },
     "folder-closed.svg": {
       "tag": "icon-folder-closed",
-      "digest": "b7356c8a1c6538b3b2bb20ced49314f2beab60af61edbff51af60265fb62aa06",
-      "type": "modify"
+      "digest": "b7356c8a1c6538b3b2bb20ced49314f2beab60af61edbff51af60265fb62aa06"
     },
     "folder-open.svg": {
       "tag": "icon-folder-open",
-      "digest": "4e8662ae514f638062938f4ff333c707a335002a73e4f4ed4b07ef5127f3e0ba",
-      "type": "modify"
+      "digest": "4e8662ae514f638062938f4ff333c707a335002a73e4f4ed4b07ef5127f3e0ba"
     },
     "folder.svg": {
       "tag": "icon-folder",
-      "digest": "4ce9d0185b80f21f8512fc8593bc8bc1b40bab32a1dfe120e0039757f2f92e9c",
-      "type": "modify"
+      "digest": "4ce9d0185b80f21f8512fc8593bc8bc1b40bab32a1dfe120e0039757f2f92e9c"
     },
     "font-awesome.svg": {
       "tag": "icon-font-awesome",
-      "digest": "88fe46575b69fbba2b9f2890e31b87983a3c5bcda1764174c74b5c43a1d7cde1",
-      "type": "modify"
+      "digest": "88fe46575b69fbba2b9f2890e31b87983a3c5bcda1764174c74b5c43a1d7cde1"
     },
     "futbol.svg": {
       "tag": "icon-futbol",
-      "digest": "d6bb3006266fc0509f2349e8033cacd8d446db08401e375695a6ce4d76a389cb",
-      "type": "modify"
+      "digest": "d6bb3006266fc0509f2349e8033cacd8d446db08401e375695a6ce4d76a389cb"
     },
     "gem.svg": {
       "tag": "icon-gem",
-      "digest": "3d30ba382c60624a56e941d033d3b0590684d188ad2f5af73bbac5ca6286e6aa",
-      "type": "modify"
+      "digest": "3d30ba382c60624a56e941d033d3b0590684d188ad2f5af73bbac5ca6286e6aa"
     },
     "hand-back-fist.svg": {
       "tag": "icon-hand-back-fist",
-      "digest": "cb8ef88f5f14c875deff4d486044fcb4a219c8356b0ce1ee5ee9babc37735430",
-      "type": "modify"
+      "digest": "cb8ef88f5f14c875deff4d486044fcb4a219c8356b0ce1ee5ee9babc37735430"
     },
     "hand-lizard.svg": {
       "tag": "icon-hand-lizard",
-      "digest": "5358dea45f79b0edf0fc372f046943348c6c83575ee62b20849b136bda42210a",
-      "type": "modify"
+      "digest": "5358dea45f79b0edf0fc372f046943348c6c83575ee62b20849b136bda42210a"
     },
     "hand-point-left.svg": {
       "tag": "icon-hand-point-left",
-      "digest": "3480184782abef5981d5de23180684795ed9d5ee99b96205e8a31ebc2190e1a9",
-      "type": "modify"
+      "digest": "3480184782abef5981d5de23180684795ed9d5ee99b96205e8a31ebc2190e1a9"
     },
     "hand-point-down.svg": {
       "tag": "icon-hand-point-down",
-      "digest": "454b1c0e1b8608768862c893e6a2ad19648f654241fc2e20144e44e9c9be02b2",
-      "type": "modify"
+      "digest": "454b1c0e1b8608768862c893e6a2ad19648f654241fc2e20144e44e9c9be02b2"
     },
     "hand-peace.svg": {
       "tag": "icon-hand-peace",
-      "digest": "d1f8237ea8e6ddc0a1ff2f8aebe118e262f8d560561054f5816ccf6ddc9d277c",
-      "type": "modify"
+      "digest": "d1f8237ea8e6ddc0a1ff2f8aebe118e262f8d560561054f5816ccf6ddc9d277c"
     },
     "hand-point-right.svg": {
       "tag": "icon-hand-point-right",
-      "digest": "35aa92aad9a23774ed309d942e22436bbba45c908e62c12fee67775df0fdd6f5",
-      "type": "modify"
+      "digest": "35aa92aad9a23774ed309d942e22436bbba45c908e62c12fee67775df0fdd6f5"
     },
     "hand-point-up.svg": {
       "tag": "icon-hand-point-up",
-      "digest": "30bfe55763a58f6eb88b5c29fd7f65b2649051f3252fe2c1757d7ffc1e467301",
-      "type": "modify"
+      "digest": "30bfe55763a58f6eb88b5c29fd7f65b2649051f3252fe2c1757d7ffc1e467301"
     },
     "hand-pointer.svg": {
       "tag": "icon-hand-pointer",
-      "digest": "a9d3cc06fe7193fc9320f4430303c27253e633f6f4b6809a8947567f3c9125a0",
-      "type": "modify"
+      "digest": "a9d3cc06fe7193fc9320f4430303c27253e633f6f4b6809a8947567f3c9125a0"
     },
     "hand-scissors.svg": {
       "tag": "icon-hand-scissors",
-      "digest": "0a4131455fb0d5e4d7057d9b7e7d5c8c71271fc34e3b15b97a9e15eccb042dd5",
-      "type": "modify"
+      "digest": "0a4131455fb0d5e4d7057d9b7e7d5c8c71271fc34e3b15b97a9e15eccb042dd5"
     },
     "hand-spock.svg": {
       "tag": "icon-hand-spock",
-      "digest": "334a5596999f301d08feeb01150c9925a393ffc81364987036ff7aa3ceda4a14",
-      "type": "modify"
+      "digest": "334a5596999f301d08feeb01150c9925a393ffc81364987036ff7aa3ceda4a14"
     },
     "hard-drive.svg": {
       "tag": "icon-hard-drive",
-      "digest": "6f93eba800ee25166a31b9f2c8dc87cce5d9703911126b62ac347d4daf80366f",
-      "type": "modify"
+      "digest": "6f93eba800ee25166a31b9f2c8dc87cce5d9703911126b62ac347d4daf80366f"
     },
     "hand.svg": {
       "tag": "icon-hand",
-      "digest": "a25fa685f6f32f6eed787721734a98979e16f1b47a54cb61b500cc4c8c5f312e",
-      "type": "modify"
+      "digest": "a25fa685f6f32f6eed787721734a98979e16f1b47a54cb61b500cc4c8c5f312e"
     },
     "handshake.svg": {
       "tag": "icon-handshake",
-      "digest": "d5fd14bf6afd34592c0e845c502aceded132f64d1c1f4c4f1e1b389930580b10",
-      "type": "modify"
+      "digest": "d5fd14bf6afd34592c0e845c502aceded132f64d1c1f4c4f1e1b389930580b10"
     },
     "heart.svg": {
       "tag": "icon-heart",
-      "digest": "97cbb77ddb37781f6f182bc96cc8f8cf1bf7f15f92c68d652850ed04d56b0dc9",
-      "type": "modify"
+      "digest": "97cbb77ddb37781f6f182bc96cc8f8cf1bf7f15f92c68d652850ed04d56b0dc9"
     },
     "hospital.svg": {
       "tag": "icon-hospital",
-      "digest": "300b27a182477fe171078c0ce6728bb34ef24d3f3ef39af8de417fe0a830842b",
-      "type": "modify"
+      "digest": "300b27a182477fe171078c0ce6728bb34ef24d3f3ef39af8de417fe0a830842b"
     },
     "hourglass-half.svg": {
       "tag": "icon-hourglass-half",
-      "digest": "8b11f16acf2a07db6a013112fb5f1f8895f496fc9286acf81951bcb7428ac999",
-      "type": "modify"
+      "digest": "8b11f16acf2a07db6a013112fb5f1f8895f496fc9286acf81951bcb7428ac999"
     },
     "hourglass.svg": {
       "tag": "icon-hourglass",
-      "digest": "525874261541b7c7e8ed3bb3e01010e942bde5a9f0ae1f877657483d13f56f76",
-      "type": "modify"
+      "digest": "525874261541b7c7e8ed3bb3e01010e942bde5a9f0ae1f877657483d13f56f76"
     },
     "id-badge.svg": {
       "tag": "icon-id-badge",
-      "digest": "2cb8255432ffef863db3960e014828de1ad4a866ff3fedcfbf1000a46af549f0",
-      "type": "modify"
+      "digest": "2cb8255432ffef863db3960e014828de1ad4a866ff3fedcfbf1000a46af549f0"
     },
     "id-card.svg": {
       "tag": "icon-id-card",
-      "digest": "4e0c9d1394b5a13356d9a50a7d13d83280b5a1dde5851582b4e8066614e7efc6",
-      "type": "modify"
+      "digest": "4e0c9d1394b5a13356d9a50a7d13d83280b5a1dde5851582b4e8066614e7efc6"
     },
     "images.svg": {
       "tag": "icon-images",
-      "digest": "f7884e732072feae8b86f709328ddb95b004186db93ebf123199e828db6f2104",
-      "type": "modify"
+      "digest": "f7884e732072feae8b86f709328ddb95b004186db93ebf123199e828db6f2104"
     },
     "image.svg": {
       "tag": "icon-image",
-      "digest": "6a913aecd3710534e4b16eb70b099d686625a30e0679c600914bf12b351a2f2d",
-      "type": "modify"
+      "digest": "6a913aecd3710534e4b16eb70b099d686625a30e0679c600914bf12b351a2f2d"
     },
     "keyboard.svg": {
       "tag": "icon-keyboard",
-      "digest": "c9ecf89f266e37b351764871b19b64e805e34bfec457931841b0c338c9279881",
-      "type": "modify"
+      "digest": "c9ecf89f266e37b351764871b19b64e805e34bfec457931841b0c338c9279881"
     },
     "lemon.svg": {
       "tag": "icon-lemon",
-      "digest": "fbcc35df3d2afc2347042ee8762bb405b779cfe5c70ea13f0f916ea87e4ac102",
-      "type": "modify"
+      "digest": "fbcc35df3d2afc2347042ee8762bb405b779cfe5c70ea13f0f916ea87e4ac102"
     },
     "life-ring.svg": {
       "tag": "icon-life-ring",
-      "digest": "6c2968a834358cb476a6ba0955505fabe14bdaa189428bdc65098809993ae6c7",
-      "type": "modify"
+      "digest": "6c2968a834358cb476a6ba0955505fabe14bdaa189428bdc65098809993ae6c7"
     },
     "lightbulb.svg": {
       "tag": "icon-lightbulb",
-      "digest": "cbbc1f5cb8310807247dccce0ac585ce8d08ec21010d75ef61b61649d4090d94",
-      "type": "modify"
+      "digest": "cbbc1f5cb8310807247dccce0ac585ce8d08ec21010d75ef61b61649d4090d94"
     },
     "map.svg": {
       "tag": "icon-map",
-      "digest": "fdcba9209f6b747ef678fbf79a92629ac8a0fdf6b3db8fd7d12f1f3ce0b2f70a",
-      "type": "modify"
+      "digest": "fdcba9209f6b747ef678fbf79a92629ac8a0fdf6b3db8fd7d12f1f3ce0b2f70a"
     },
     "message.svg": {
       "tag": "icon-message",
-      "digest": "617f70a41b6e8e72643df5358e0b17c564c96c3b398f68d54a026ab4ea1b5b97",
-      "type": "modify"
+      "digest": "617f70a41b6e8e72643df5358e0b17c564c96c3b398f68d54a026ab4ea1b5b97"
     },
     "money-bill-1.svg": {
       "tag": "icon-money-bill-1",
-      "digest": "1586a2ddd50630fe9895b6cda723affaf45a7a6a02630dda22de783bd5fc0159",
-      "type": "modify"
+      "digest": "1586a2ddd50630fe9895b6cda723affaf45a7a6a02630dda22de783bd5fc0159"
     },
     "moon.svg": {
       "tag": "icon-moon",
-      "digest": "0ba4731e5d66ee872d78a0694124f985cdf7ebfa4be2882c5742784a889695e4",
-      "type": "modify"
+      "digest": "0ba4731e5d66ee872d78a0694124f985cdf7ebfa4be2882c5742784a889695e4"
     },
     "newspaper.svg": {
       "tag": "icon-newspaper",
-      "digest": "45df2e9da28f7b0deadd478b6a47a6442f1fad9cc43d30a462a4079d9c49ced0",
-      "type": "modify"
+      "digest": "45df2e9da28f7b0deadd478b6a47a6442f1fad9cc43d30a462a4079d9c49ced0"
     },
     "object-group.svg": {
       "tag": "icon-object-group",
-      "digest": "75e34ca931bd53e88ec95124db2f6f69aa425621aab7f9994ed9f5122058e18d",
-      "type": "modify"
+      "digest": "75e34ca931bd53e88ec95124db2f6f69aa425621aab7f9994ed9f5122058e18d"
     },
     "object-ungroup.svg": {
       "tag": "icon-object-ungroup",
-      "digest": "00c3866c836ea10d63a862deb0b93c7e292b5c7cfd9d8aab7f512f447f771c9e",
-      "type": "modify"
+      "digest": "00c3866c836ea10d63a862deb0b93c7e292b5c7cfd9d8aab7f512f447f771c9e"
     },
     "note-sticky.svg": {
       "tag": "icon-note-sticky",
-      "digest": "ff77d3d4ed1d9613e46e2d7bfe6db7e9a6be555297b5c35584a6589f581add85",
-      "type": "modify"
+      "digest": "ff77d3d4ed1d9613e46e2d7bfe6db7e9a6be555297b5c35584a6589f581add85"
     },
     "paper-plane.svg": {
       "tag": "icon-paper-plane",
-      "digest": "2fe4a037112f6c193bf25c26f049d3d4d5406fc55f4c1d341821d2dd1d22f1a5",
-      "type": "modify"
+      "digest": "2fe4a037112f6c193bf25c26f049d3d4d5406fc55f4c1d341821d2dd1d22f1a5"
     },
     "paste.svg": {
       "tag": "icon-paste",
-      "digest": "d2f7f062c27cf9b6f06500a5179b1f0f25aebe84f2ca44f7ee10cb19cc790bd2",
-      "type": "modify"
+      "digest": "d2f7f062c27cf9b6f06500a5179b1f0f25aebe84f2ca44f7ee10cb19cc790bd2"
     },
     "pen-to-square.svg": {
       "tag": "icon-pen-to-square",
-      "digest": "1ba80125e3e8d352b12949aecb906713fb9d085d5d90a1a793e6344f86ad43b8",
-      "type": "modify"
+      "digest": "1ba80125e3e8d352b12949aecb906713fb9d085d5d90a1a793e6344f86ad43b8"
     },
     "rectangle-list.svg": {
       "tag": "icon-rectangle-list",
-      "digest": "511c317856bb3801bc081dbdf324d15c09eb7966801449ee2a82cd9a78f57162",
-      "type": "modify"
+      "digest": "511c317856bb3801bc081dbdf324d15c09eb7966801449ee2a82cd9a78f57162"
     },
     "rectangle-xmark.svg": {
       "tag": "icon-rectangle-xmark",
-      "digest": "ae99dbc1ebcd2e56146fe9bccabf9564e1d1d8b6573f359a9632e0306cb23e39",
-      "type": "modify"
+      "digest": "ae99dbc1ebcd2e56146fe9bccabf9564e1d1d8b6573f359a9632e0306cb23e39"
     },
     "registered.svg": {
       "tag": "icon-registered",
-      "digest": "ad6c0dbb30299ebe755fff94bc0e83a4503e15463a0a0f81ddd1a13e3ac4d52b",
-      "type": "modify"
+      "digest": "ad6c0dbb30299ebe755fff94bc0e83a4503e15463a0a0f81ddd1a13e3ac4d52b"
     },
     "share-from-square.svg": {
       "tag": "icon-share-from-square",
-      "digest": "4eca73fb047ce868df6b3433fd19181a17741c8f297f1c80c06e4cf47035d8f6",
-      "type": "modify"
+      "digest": "4eca73fb047ce868df6b3433fd19181a17741c8f297f1c80c06e4cf47035d8f6"
     },
     "snowflake.svg": {
       "tag": "icon-snowflake",
-      "digest": "dc70dbad9c2235e56391626c0e1602c1dd5c98a09c3222dacb8459e0c5db08d6",
-      "type": "modify"
+      "digest": "dc70dbad9c2235e56391626c0e1602c1dd5c98a09c3222dacb8459e0c5db08d6"
     },
     "square-caret-down.svg": {
       "tag": "icon-square-caret-down",
-      "digest": "95ac420cd867996ec33fe9453865357c0402c93a09e616ac48592916bdb4079c",
-      "type": "modify"
+      "digest": "95ac420cd867996ec33fe9453865357c0402c93a09e616ac48592916bdb4079c"
     },
     "square-caret-left.svg": {
       "tag": "icon-square-caret-left",
-      "digest": "c92962ada0211a7b03194b6a95e0df2682e8f95d731c8a34819b8cfdeff6ae30",
-      "type": "modify"
+      "digest": "c92962ada0211a7b03194b6a95e0df2682e8f95d731c8a34819b8cfdeff6ae30"
     },
     "square-caret-right.svg": {
       "tag": "icon-square-caret-right",
-      "digest": "fd5835f6c9cc9edf84e4b32501d571a3359399bae1b4233ae7e32f785fa10bb5",
-      "type": "modify"
+      "digest": "fd5835f6c9cc9edf84e4b32501d571a3359399bae1b4233ae7e32f785fa10bb5"
     },
     "square-caret-up.svg": {
       "tag": "icon-square-caret-up",
-      "digest": "27bacea9f81ddd05c0df1f2f5fa20303640e01d8aea41b284763264c8f39c65c",
-      "type": "modify"
+      "digest": "27bacea9f81ddd05c0df1f2f5fa20303640e01d8aea41b284763264c8f39c65c"
     },
     "square-check.svg": {
       "tag": "icon-square-check",
-      "digest": "9c444cc69c40633c3eda2976e99f6fe3733b9d2b8fb170f2c861e2ea5d32578d",
-      "type": "modify"
+      "digest": "9c444cc69c40633c3eda2976e99f6fe3733b9d2b8fb170f2c861e2ea5d32578d"
     },
     "square-full.svg": {
       "tag": "icon-square-full",
-      "digest": "77694a4027faec3005cd3adbf913167c2c3f111ded63d42e774c4667e9e7f802",
-      "type": "modify"
+      "digest": "77694a4027faec3005cd3adbf913167c2c3f111ded63d42e774c4667e9e7f802"
     },
     "square-minus.svg": {
       "tag": "icon-square-minus",
-      "digest": "7b9b215efb275c4022acae2cee4a2ef8c14a70bcf47af9641023a7a0bb5045d3",
-      "type": "modify"
+      "digest": "7b9b215efb275c4022acae2cee4a2ef8c14a70bcf47af9641023a7a0bb5045d3"
     },
     "square-plus.svg": {
       "tag": "icon-square-plus",
-      "digest": "bcfa8ded7e3516eaaf5565188fcb3300024480d19ba96191228b7ca86c484b4b",
-      "type": "modify"
+      "digest": "bcfa8ded7e3516eaaf5565188fcb3300024480d19ba96191228b7ca86c484b4b"
     },
     "star-half.svg": {
       "tag": "icon-star-half",
-      "digest": "684d722faf02cecb9d12c764fa1277a134629fa3a9ed2948f7276fd901c89052",
-      "type": "modify"
+      "digest": "684d722faf02cecb9d12c764fa1277a134629fa3a9ed2948f7276fd901c89052"
     },
     "square.svg": {
       "tag": "icon-square",
-      "digest": "d4c5270f91b2dd9c2f8add049787fc210260803186dd6efbd6de73243c226125",
-      "type": "modify"
+      "digest": "d4c5270f91b2dd9c2f8add049787fc210260803186dd6efbd6de73243c226125"
     },
     "star-half-stroke.svg": {
       "tag": "icon-star-half-stroke",
-      "digest": "ae173acb0f17f84a1720bc112fbab7605659c7524a8edafc5a05ea559cacf2bf",
-      "type": "modify"
+      "digest": "ae173acb0f17f84a1720bc112fbab7605659c7524a8edafc5a05ea559cacf2bf"
     },
     "star.svg": {
       "tag": "icon-star",
-      "digest": "f0d35d1b31baf2c6d52927aaf01c49c139a028d431c0f29c8055e085c5209770",
-      "type": "modify"
+      "digest": "f0d35d1b31baf2c6d52927aaf01c49c139a028d431c0f29c8055e085c5209770"
     },
     "thumbs-up.svg": {
       "tag": "icon-thumbs-up",
-      "digest": "eceac3a89d1ca1af46385aab4fba795c06f7ecbb46c80f372431106a7415ae7d",
-      "type": "modify"
+      "digest": "eceac3a89d1ca1af46385aab4fba795c06f7ecbb46c80f372431106a7415ae7d"
     },
     "thumbs-down.svg": {
       "tag": "icon-thumbs-down",
-      "digest": "83dd8aefdbf00c9cfe534053597783438b1df4f8cb6fb53330f7969c89d93a47",
-      "type": "modify"
+      "digest": "83dd8aefdbf00c9cfe534053597783438b1df4f8cb6fb53330f7969c89d93a47"
     },
     "sun.svg": {
       "tag": "icon-sun",
-      "digest": "14bc1606cdb574bf8a054473019b3468051f31b5c2240ebccf0615cf5fedc1cd",
-      "type": "modify"
+      "digest": "14bc1606cdb574bf8a054473019b3468051f31b5c2240ebccf0615cf5fedc1cd"
     },
     "trash-can.svg": {
       "tag": "icon-trash-can",
-      "digest": "10e2447c16e73f3491721b8b1f452f049b7a1843e2e14e5d73bc3b4c4c177db8",
-      "type": "modify"
+      "digest": "10e2447c16e73f3491721b8b1f452f049b7a1843e2e14e5d73bc3b4c4c177db8"
     },
     "user.svg": {
       "tag": "icon-user",
-      "digest": "4018fec9a00c9b679e7293f7ae3e5cebee87fbd1fd616232e7083b803dc570a0",
-      "type": "modify"
+      "digest": "4018fec9a00c9b679e7293f7ae3e5cebee87fbd1fd616232e7083b803dc570a0"
     },
     "window-maximize.svg": {
       "tag": "icon-window-maximize",
-      "digest": "69be41b263b2a0ba0f66f65c220e264656024b78a961e08e82a72748ef2818cb",
-      "type": "modify"
+      "digest": "69be41b263b2a0ba0f66f65c220e264656024b78a961e08e82a72748ef2818cb"
     },
     "window-restore.svg": {
       "tag": "icon-window-restore",
-      "digest": "0a01bf22e35efc879fbd76be63dd882d5718dcd5823d47cafc47311315049527",
-      "type": "modify"
+      "digest": "0a01bf22e35efc879fbd76be63dd882d5718dcd5823d47cafc47311315049527"
     },
     "window-minimize.svg": {
       "tag": "icon-window-minimize",
-      "digest": "1f7f6a93562ab8788c5b9791d0d5630e4f25f14145f8132be03bafd5749814b2",
-      "type": "modify"
+      "digest": "1f7f6a93562ab8788c5b9791d0d5630e4f25f14145f8132be03bafd5749814b2"
     }
   }
 }
