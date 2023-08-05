@@ -1,5 +1,5 @@
 {
-  "version": "0.0.7",
+  "version": "0.0.8",
   "records": {
     "access_time_24_regular.svg": {
       "tag": "icon-access-time-regular",
@@ -13697,22 +13697,22 @@
     },
     "text_number_list_rotate_270_24_regular.svg": {
       "tag": "icon-text-number-list-rotate-270-regular",
-      "digest": "29cb40614b47b75429fe47d63b158ed9e25d0e7cf53111baa4c0ec72b2c9a34c",
+      "digest": "197419860bbc8c47684d78d835f40e8336d4d21e8d31ad1199cd1390e7a7ca0f",
       "type": "modify"
     },
     "text_number_list_rotate_270_24_filled.svg": {
       "tag": "icon-text-number-list-rotate-270-filled",
-      "digest": "179d84a92239437add3fa45c38366b5350d2bd1e352819868e80ad0566e91104",
+      "digest": "bba8cab14263f6134fcc7e74a73321ef4cb88da8aa227e2467a6317875e25149",
       "type": "modify"
     },
     "text_number_list_rotate_90_24_filled.svg": {
       "tag": "icon-text-number-list-rotate-90-filled",
-      "digest": "992438a7beaae6e0bf8932bbfcb143c342cc448d33041c6db0729f69466fab82",
+      "digest": "aab6106126b95ff2e76c31dd0a3a93fbe338ca0e943ed0dfe896309c11a8a3b0",
       "type": "modify"
     },
     "text_number_list_rotate_90_24_regular.svg": {
       "tag": "icon-text-number-list-rotate-90-regular",
-      "digest": "e5f59965912dbf194fcba858020a23215f6fdd5fccc08bfc47949fd28b5c8bc7",
+      "digest": "0d988caef3556003cc38320ace584be3856ab947f9c982e7582b2a0d2247c9e3",
       "type": "modify"
     },
     "text_number_list_rtl_24_filled.svg": {

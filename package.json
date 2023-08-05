@@ -1,6 +1,6 @@
 {
   "name": "@tinijs/icons",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "The icon packages of the TiniJS framework.",
   "author": "Lam Nhan",
   "homepage": "https://lamnhan.com",
@@ -46,13 +46,13 @@
     "build:12:ant-twotone": "tini ui icon @tinijs/ant-twotone-icons _/@ant-design/icons-svg/inline-namespaced-svg/twotone && parcel build build/@tinijs/ant-twotone-icons/*.bundle.ts --dist-dir build/@tinijs/ant-twotone-icons --no-cache --no-source-maps --log-level warn",
     "preview:12:ant-twotone": "parcel build/@tinijs/ant-twotone-icons/index.html",
     "publish:12:ant-twotone": "cd build/@tinijs/ant-twotone-icons && npm publish --access public",
-    "build:13:fontawesome-brands": "tini ui icon @tinijs/fontawesome-brands-icons ./downloads/Font-Awesome-6.4.0/brands && parcel build build/@tinijs/fontawesome-brands-icons/*.bundle.ts --dist-dir build/@tinijs/fontawesome-brands-icons --no-cache --no-source-maps --log-level warn",
+    "build:13:fontawesome-brands": "tini ui icon @tinijs/fontawesome-brands-icons @/Font-Awesome-6.4.0/brands && parcel build build/@tinijs/fontawesome-brands-icons/*.bundle.ts --dist-dir build/@tinijs/fontawesome-brands-icons --no-cache --no-source-maps --log-level warn",
     "preview:13:fontawesome-brands": "parcel build/@tinijs/fontawesome-brands-icons/index.html",
     "publish:13:fontawesome-brands": "cd build/@tinijs/fontawesome-brands-icons && npm publish --access public",
-    "build:14:fontawesome-regular": "tini ui icon @tinijs/fontawesome-regular-icons ./downloads/Font-Awesome-6.4.0/regular && parcel build build/@tinijs/fontawesome-regular-icons/*.bundle.ts --dist-dir build/@tinijs/fontawesome-regular-icons --no-cache --no-source-maps --log-level warn",
+    "build:14:fontawesome-regular": "tini ui icon @tinijs/fontawesome-regular-icons @/Font-Awesome-6.4.0/regular && parcel build build/@tinijs/fontawesome-regular-icons/*.bundle.ts --dist-dir build/@tinijs/fontawesome-regular-icons --no-cache --no-source-maps --log-level warn",
     "preview:14:fontawesome-regular": "parcel build/@tinijs/fontawesome-regular-icons/index.html",
     "publish:14:fontawesome-regular": "cd build/@tinijs/fontawesome-regular-icons && npm publish --access public",
-    "build:15:fontawesome-solid": "tini ui icon @tinijs/fontawesome-solid-icons ./downloads/Font-Awesome-6.4.0/solid && parcel build build/@tinijs/fontawesome-solid-icons/*.bundle.ts --dist-dir build/@tinijs/fontawesome-solid-icons --no-cache --no-source-maps --log-level warn",
+    "build:15:fontawesome-solid": "tini ui icon @tinijs/fontawesome-solid-icons @/Font-Awesome-6.4.0/solid && parcel build build/@tinijs/fontawesome-solid-icons/*.bundle.ts --dist-dir build/@tinijs/fontawesome-solid-icons --no-cache --no-source-maps --log-level warn",
     "preview:15:fontawesome-solid": "parcel build/@tinijs/fontawesome-solid-icons/index.html",
     "publish:15:fontawesome-solid": "cd build/@tinijs/fontawesome-solid-icons && npm publish --access public",
     "lint": "gts lint",
@@ -75,12 +75,13 @@
     "@material-design-icons/svg": "^0.14.9",
     "@mdi/svg": "^7.2.96",
     "bootstrap-icons": "^1.10.5",
-    "ionicons": "^7.1.2",
-    "lit": "^3.0.0-pre.0"
+    "ionicons": "^7.1.2"
   },
   "devDependencies": {
+    "@tinijs/core": "file:../core/tinijs-core-0.1.0.tgz",
     "@types/node": "^20.4.2",
     "gts": "^4.0.1",
+    "lit": "^3.0.0-pre.0",
     "parcel": "^2.9.3",
     "typescript": "~5.1.6"
   }

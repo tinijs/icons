@@ -1,6 +1,7 @@
 .DS_Store
 .parcel-cache
-downloads
 node_modules
 build
 dist
+
+src/Font-Awesome-6.4.0
