@@ -2,6 +2,12 @@
 
 The icons packages of the TiniJS framework.
 
+## Build & publish
+
+- Step 1: Bump a version `npm version <number>`.
+- Step 2: Build packages `npm run build`.
+- Step 3: Publish packages (individually) `npm run publish:<id>:<name>`.
+
 ## Packages
 
 ### 1. Bootstrap
