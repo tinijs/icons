@@ -81,7 +81,7 @@
     "@tinijs/cli": "^0.1.0",
     "@tinijs/core": "^0.1.0",
     "@types/node": "^20.4.2",
-    "gts": "^4.0.1",
+    "gts": "^5.0.0",
     "lit": "^3.0.0-pre.0",
     "parcel": "^2.9.3",
     "typescript": "~5.1.6"
