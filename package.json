@@ -1,6 +1,6 @@
 {
   "name": "@tinijs/icons",
-  "version": "0.0.10",
+  "version": "0.1.1",
   "description": "The icon packages of the TiniJS framework.",
   "author": "Lam Nhan",
   "homepage": "https://lamnhan.com",
@@ -78,8 +78,8 @@
     "ionicons": "^7.1.2"
   },
   "devDependencies": {
-    "@tinijs/cli": "^0.1.0",
-    "@tinijs/core": "^0.1.0",
+    "@tinijs/cli": "^0.1.1",
+    "@tinijs/core": "^0.1.1",
     "@types/node": "^20.4.2",
     "gts": "^5.0.0",
     "lit": "^3.0.0-pre.0",
