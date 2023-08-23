@@ -1,0 +1,59 @@
+# Changelog v0.5.0
+
+- Package: `@tinijs/fluent-icons`
+- Build time: **Wed Aug 23 2023 23:27:41 GMT+0700 (Indochina Time)**
+
+## Modified
+- `icon-book-question-mark-filled`
+- `icon-book-question-mark-regular`
+- `icon-local-language-filled`
+- `icon-local-language-regular`
+- `icon-text-bold-filled`
+- `icon-text-bold-regular`
+- `icon-text-clear-formatting-filled`
+- `icon-text-clear-formatting-regular`
+- `icon-text-color-filled`
+- `icon-text-color-regular`
+- `icon-text-direction-horizontal-left-filled`
+- `icon-text-direction-horizontal-left-regular`
+- `icon-text-direction-horizontal-ltr-filled`
+- `icon-text-direction-horizontal-ltr-regular`
+- `icon-text-direction-horizontal-right-filled`
+- `icon-text-direction-horizontal-right-regular`
+- `icon-text-direction-horizontal-rtl-filled`
+- `icon-text-direction-horizontal-rtl-regular`
+- `icon-text-direction-rotate-270-right-filled`
+- `icon-text-direction-rotate-270-right-regular`
+- `icon-text-direction-rotate-90-ltr-regular`
+- `icon-text-direction-rotate-90-ltr-filled`
+- `icon-text-direction-rotate-90-right-regular`
+- `icon-text-direction-rotate-90-right-filled`
+- `icon-text-direction-vertical-filled`
+- `icon-text-direction-vertical-regular`
+- `icon-text-edit-style-filled`
+- `icon-text-edit-style-regular`
+- `icon-text-effects-filled`
+- `icon-text-effects-regular`
+- `icon-text-footnote-regular`
+- `icon-text-footnote-filled`
+- `icon-text-italic-filled`
+- `icon-text-italic-regular`
+- `icon-text-more-filled`
+- `icon-text-more-regular`
+- `icon-text-number-format-filled`
+- `icon-text-number-format-regular`
+- `icon-text-number-list-rotate-270-regular`
+- `icon-text-number-list-rotate-270-filled`
+- `icon-text-number-list-rotate-90-filled`
+- `icon-text-number-list-rotate-90-regular`
+- `icon-text-proofing-tools-regular`
+- `icon-text-proofing-tools-filled`
+- `icon-text-sort-ascending-filled`
+- `icon-text-sort-ascending-regular`
+- `icon-text-sort-descending-filled`
+- `icon-text-sort-descending-regular`
+- `icon-text-strikethrough-regular`
+- `icon-text-strikethrough-filled`
+- `icon-text-underline-filled`
+- `icon-text-underline-regular`
+
