@@ -78,8 +78,8 @@
     "ionicons": "^7.1.2"
   },
   "devDependencies": {
-    "@tinijs/cli": "^0.5.0",
-    "@tinijs/core": "^0.5.0",
+    "@tinijs/cli": "file:../cli/tinijs-cli-0.6.0.tgz",
+    "@tinijs/core": "file:../core/tinijs-core-0.6.0.tgz",
     "@types/node": "^20.4.2",
     "gts": "^5.0.0",
     "lit": "^3.0.0-pre.0",
