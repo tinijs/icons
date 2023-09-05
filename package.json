@@ -78,12 +78,13 @@
     "ionicons": "^7.1.2"
   },
   "devDependencies": {
-    "@tinijs/cli": "^0.8.0",
-    "@tinijs/core": "^0.8.0",
+    "@tinijs/cli": "file:../cli",
+    "@tinijs/core": "file:../core",
     "@types/node": "^20.4.2",
     "gts": "^5.0.0",
     "lit": "^3.0.0-pre.0",
     "parcel": "^2.9.3",
+    "tinijs": "file:../tinijs",
     "typescript": "~5.1.6"
   }
 }
