@@ -1,5 +1,5 @@
 {
-  "version": "0.10.0",
+  "version": "0.11.0",
   "records": {
     "account-book.svg": {
       "tag": "icon-account-book",
@@ -147,11 +147,13 @@
     },
     "close-circle.svg": {
       "tag": "icon-close-circle",
-      "digest": "7513b97c3da66acdefd00fc526f39352359d9d83675ab6592ca266292c2cc28f"
+      "digest": "8035b61bcbc1c36920b074d0a42ac3141ad9c7e8767cee1843ea141cfbeaacee",
+      "type": "modify"
     },
     "close-square.svg": {
       "tag": "icon-close-square",
-      "digest": "57842180c68608bca9f1a33652e7d41c3d561e87f90baec5b8a3b9601a88effb"
+      "digest": "9ea2cf310e0830cd92f3d99efc8257255a76915b7c1e2309dc328d5fd1072b3f",
+      "type": "modify"
     },
     "code-sandbox-circle.svg": {
       "tag": "icon-code-sandbox-circle",

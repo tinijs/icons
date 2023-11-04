@@ -1,5 +1,5 @@
 {
-  "version": "0.10.0",
+  "version": "0.11.0",
   "records": {
     "account-book.svg": {
       "tag": "icon-account-book",
@@ -295,7 +295,8 @@
     },
     "close-circle.svg": {
       "tag": "icon-close-circle",
-      "digest": "04882c22937d8e87162d4e8dbb87fb0d301709b47fb5f6f54c5f9cb127c81fde"
+      "digest": "e4fa4918e2b76d8aec5792ddc15e2d157e19506aa9176e5417f46b9edf945650",
+      "type": "modify"
     },
     "cloud-download.svg": {
       "tag": "icon-cloud-download",
@@ -303,11 +304,13 @@
     },
     "close-square.svg": {
       "tag": "icon-close-square",
-      "digest": "6186bc07a13a69266c532d8e9cf25a5d9fa1f593f03fb0efe4473925b73a13c8"
+      "digest": "80a680aa77f151862cc307bbc5fd53ec38c0671cf65b5424883321477a6862e7",
+      "type": "modify"
     },
     "close.svg": {
       "tag": "icon-close",
-      "digest": "be0031e7e91d8da4766980cb314b61d9b4baf1db6ec8dfbd8e94fdf878fe9576"
+      "digest": "66ab5c7d084ed5b5b90ede7d643e5212bde794a2722ef44cc3d4546838659e73",
+      "type": "modify"
     },
     "cloud-server.svg": {
       "tag": "icon-cloud-server",
@@ -563,7 +566,8 @@
     },
     "export.svg": {
       "tag": "icon-export",
-      "digest": "a59bf421bb2ba64d70a752dfc321fc8eebceb550b01267be91343d6677c78f19"
+      "digest": "d00cd827520da92f418f89fca4de09418921be6d8df728373bd456c329461727",
+      "type": "modify"
     },
     "experiment.svg": {
       "tag": "icon-experiment",
@@ -847,7 +851,8 @@
     },
     "import.svg": {
       "tag": "icon-import",
-      "digest": "c1ec55a6e5d8e0c45aa7b7baad408a395716ac1ed67f2a9a1259345a0176fd56"
+      "digest": "5a54f1903757f4a0d70b0f2f1e2b8081bcb49f5f33ca71bf22258600dac46419",
+      "type": "modify"
     },
     "ie.svg": {
       "tag": "icon-ie",
@@ -1139,7 +1144,8 @@
     },
     "plus.svg": {
       "tag": "icon-plus",
-      "digest": "6df31e65dab61cac007c93db2e5d90ae7e118be342d9994791232d457b93b71d"
+      "digest": "9601ef03a9aad1c010d0d9e83a93c7715e7579b7e915d098f283d078531f5438",
+      "type": "modify"
     },
     "pound-circle.svg": {
       "tag": "icon-pound-circle",
