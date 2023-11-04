@@ -70,23 +70,23 @@
     "url": "https://github.com/tinijs/icons/issues"
   },
   "dependencies": {
-    "@ant-design/icons-svg": "^4.2.1",
-    "@fluentui/svg-icons": "^1.1.198",
-    "@material-design-icons/svg": "^0.14.9",
-    "@mdi/svg": "^7.2.96",
-    "bootstrap-icons": "^1.10.5",
-    "ionicons": "^7.1.2"
+    "@ant-design/icons-svg": "^4.3.1",
+    "@fluentui/svg-icons": "^1.1.222",
+    "@material-design-icons/svg": "^0.14.13",
+    "@mdi/svg": "^7.3.67",
+    "bootstrap-icons": "^1.11.1",
+    "ionicons": "^7.2.1"
   },
   "devDependencies": {
-    "@lit-labs/react": "^2.0.2",
-    "@tinijs/cli": "^0.10.0",
+    "@lit/react": "^1.0.1",
+    "@tinijs/cli": "file:../cli/tinijs-cli-0.10.0.tgz",
     "@tinijs/core": "^0.10.0",
-    "@types/node": "^20.4.2",
-    "gts": "^5.0.0",
-    "lit": "^3.0.0-pre.0",
-    "parcel": "^2.9.3",
+    "@types/node": "^20.8.10",
+    "gts": "^5.2.0",
+    "lit": "^3.0.2",
+    "parcel": "^2.10.2",
     "react": "^18.2.0",
     "tinijs": "^0.10.0",
-    "typescript": "~5.1.6"
+    "typescript": "~5.2.2"
   }
 }
