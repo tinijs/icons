@@ -2,13 +2,6 @@
 
 The icons packages of the TiniJS framework.
 
-## Build & publish
-
-- Step 1: Check for the latest version of `npm i -D @tinijs/cli@latest`
-- Step 2: Bump a version `npm version <number>`.
-- Step 3: Build packages `npm run build`.
-- Step 4: Publish packages (individually) `npm run publish:<id>:<name>`.
-
 ## Packages
 
 ### 1. Bootstrap
@@ -101,6 +94,13 @@ The icons packages of the TiniJS framework.
 
 - Install: `npm i @tinijs/fontawesome-solid-icons`
 - Usage detail: <https://ui.tinijs.dev/icons/fontawesome-solid>
+
+## Build & publish
+
+- Step 1: Check for the latest version of `npm i -D @tinijs/cli@latest`
+- Step 2: Bump a version `npm version <number>`.
+- Step 3: Build packages `npm run build`.
+- Step 4: Publish packages (individually) `npm run publish:<id>:<name>`.
 
 ## License
 
