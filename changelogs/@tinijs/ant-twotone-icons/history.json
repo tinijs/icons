@@ -1,537 +1,670 @@
 {
-  "version": "0.11.0",
+  "version": "0.12.0",
   "records": {
     "alert.svg": {
       "tag": "icon-alert",
-      "digest": "9d7fe8db15c5c47601e3fc40103cc2f14c9815d80eeb9f67a1a2eeddc471dcde"
+      "digest": "3e8b7ede79c5081b85f70c45605837684822c1031c330321248adc0a565f1491",
+      "type": "modify"
     },
     "appstore.svg": {
       "tag": "icon-appstore",
-      "digest": "072e3d05848444767d2a2b816feeefb4ca7e9e08d4bc32e7b894dcc8ac39b2c1"
+      "digest": "6cc1105a510c4cb6c2efdf182d122d64eaa8910269bb7f0bc7bea738508aaab4",
+      "type": "modify"
     },
     "account-book.svg": {
       "tag": "icon-account-book",
-      "digest": "a6ebb9a9e3b289b7e87c5339acfd6ce95e09eee7194f09d34776ed93514605ae"
+      "digest": "6b3b919725995c1517ea6671aede8ee56310992472f8da38bd645a06a24a7a82",
+      "type": "modify"
     },
     "api.svg": {
       "tag": "icon-api",
-      "digest": "cb1e0563d84c970bd399f5baa8562bfc28208854f9cec2ace332a336e642ab8a"
+      "digest": "b5ad688f1ad2d0366121b0e96199e6e74d89510ea9deb45d275eabae7659eab9",
+      "type": "modify"
     },
     "bank.svg": {
       "tag": "icon-bank",
-      "digest": "31f9331fea04cfba67ff9bf8d9605e7a701a6a9ef459ef55f91999c2716f9118"
+      "digest": "30be38c42ec5108454e51fef7982bc40b80b26c88d274df67c6c93e1ba445462",
+      "type": "modify"
     },
     "audio.svg": {
       "tag": "icon-audio",
-      "digest": "730620b998d62f6b66e9b8558ac0d7860d98e3cb8a6e4fc1770bdfa8cff1d597"
+      "digest": "7e0484849f876e3095005732480362b401bf673c82929537b3a29f9102595aae",
+      "type": "modify"
     },
     "bell.svg": {
       "tag": "icon-bell",
-      "digest": "3d8e207ee8f79100ab5e7afb2e6032d7481bf835bd7e0c28f3fe6b65fa07439e"
+      "digest": "8e7eb9ee0302135ae7d76fadd9cf3925bf535cbb5e78d46968538a5fafbcb35e",
+      "type": "modify"
     },
     "bug.svg": {
       "tag": "icon-bug",
-      "digest": "1f92cf1b54fa55e343ee80c67d355eb7f5b4e59e8ccca867314b86f16ea7de5b"
+      "digest": "f066260bc0dd1646c246e3cd10062b9ed156eebf8fed36a8aa7c9ce9b3da9d46",
+      "type": "modify"
     },
     "book.svg": {
       "tag": "icon-book",
-      "digest": "d09c15eaba413323bed8c8c3c08ed3db9bb9254e1eb1ca8dbe9d217cee5767e6"
+      "digest": "9af7fdb5fddb08118804c49c642be2dbaab05c0b3297e54e06443f057725801c",
+      "type": "modify"
     },
     "box-plot.svg": {
       "tag": "icon-box-plot",
-      "digest": "161892dda1c00126cbcdcbaae211474bcea13825f03d9b8a7d0667501407d46c"
+      "digest": "18d2e6eff9bf3e2a7ad6bda3d71f50730e7ff9033ef950c495a40d6bc0fce826",
+      "type": "modify"
     },
     "build.svg": {
       "tag": "icon-build",
-      "digest": "8abcecdbd8df21892f4d744817b540581748801cb1b7a95857b4e06470cbd784"
+      "digest": "86316f2f68ba6792d74703d131880fe3e3a282e4b3045c82bc8d1f7a04d7bafe",
+      "type": "modify"
     },
     "bulb.svg": {
       "tag": "icon-bulb",
-      "digest": "5c0aaecd5b903d76abe380b9e3520e1836b7c274f6d770736c49b1d1f6c3fc2e"
+      "digest": "3bcf5afdc6d87a253adbe2669107b3e83707c77c23d81b4b3b3e2193406053a1",
+      "type": "modify"
     },
     "calculator.svg": {
       "tag": "icon-calculator",
-      "digest": "397d4e8241a4f9e104468490c64f286e49b0b3ef026fb20242305e74041b1456"
+      "digest": "cfee16ca1a6c28ee86c49321fe8d94a496d6de1336e6a006180e0d0e576b9c9f",
+      "type": "modify"
     },
     "camera.svg": {
       "tag": "icon-camera",
-      "digest": "a6a01869e34ce1c2ec43c0c273717a48752d4fe42fecd0ea8bb9f69d67af1ae1"
+      "digest": "07b312d037401b3ca73e0cd9c69c71e893cd1e1aaf61a7568a7ec892edfd0c49",
+      "type": "modify"
     },
     "calendar.svg": {
       "tag": "icon-calendar",
-      "digest": "52a6ee5d1b63ec3092a42a64554f071d9fdbace91d939d5e13589a4ad56da986"
+      "digest": "4edb5105d00c17e1373736a165ac17d4d085aa72cf4fdfb3383381d1de076915",
+      "type": "modify"
     },
     "car.svg": {
       "tag": "icon-car",
-      "digest": "53d5811eb9777eaa99aab668758c34b7a76002cf7547e225f61db538979af59a"
+      "digest": "586f56053fa6c8ff2d78c443be2b9b886021b6912f8ae2072d3d4212d9c12cc4",
+      "type": "modify"
     },
     "carry-out.svg": {
       "tag": "icon-carry-out",
-      "digest": "87fbf82d5967ac5e54a7a0b72d4d9f0ae84c0ca8935bb04c86dc3df7ad942e01"
+      "digest": "9150f1179a134cd8750ed226f5e56dfd57e2d4f9533ac6a2a24afde9d8517fbe",
+      "type": "modify"
     },
     "check-square.svg": {
       "tag": "icon-check-square",
-      "digest": "348db035b4110583de024d4f120d0a3d8a5cf0f07b60a37125f5badcac091cb6"
+      "digest": "98b2ea5488660a18ce221c16ddd508eec43739d681096eefec9f7e32afb421b9",
+      "type": "modify"
     },
     "check-circle.svg": {
       "tag": "icon-check-circle",
-      "digest": "0ab827de4db925bf162709b65b4b84aacac06af5909a8eff06eacd68aeb7374a"
+      "digest": "145eb7354ef6bcf8d3e84841238cf83355b6e8e8bab73d8586ae42524b175568",
+      "type": "modify"
     },
     "ci.svg": {
       "tag": "icon-ci",
-      "digest": "1afe6e5ba5a39624a812bae0f16170a7124be934082b8dd3b2c38c6b9d2236e4"
+      "digest": "9e04c70c4e62f636df7c7c6058cc7516a892e76c7178ad642ffeb547a2883f8e",
+      "type": "modify"
     },
     "ci-circle.svg": {
       "tag": "icon-ci-circle",
-      "digest": "1afe6e5ba5a39624a812bae0f16170a7124be934082b8dd3b2c38c6b9d2236e4"
+      "digest": "9e04c70c4e62f636df7c7c6058cc7516a892e76c7178ad642ffeb547a2883f8e",
+      "type": "modify"
     },
     "clock-circle.svg": {
       "tag": "icon-clock-circle",
-      "digest": "c6be2aba854a0927cb250fd550a07a598fc8235669f9ce95299c602e55fd8be0"
+      "digest": "c504bb067182a57a8158c1cae4f91c8d7a9791e21d2b5bcff8591f5ca0f580a6",
+      "type": "modify"
     },
     "close-circle.svg": {
       "tag": "icon-close-circle",
-      "digest": "166bd84905570d621afb379144dfb5662107e5ce2d2fcd01c8a4328d7c4a0531"
+      "digest": "5efa8846f8e0b0ee838a9422e68391817404739394abd60b32a9927f3de698e1",
+      "type": "modify"
     },
     "close-square.svg": {
       "tag": "icon-close-square",
-      "digest": "f565374626796af1787fd0e7494c07164ca3484f134e41259a6540b5ec13e0c8"
+      "digest": "2897a46882a3a7634554edb512ea23fde42a6f65389abb36aa1378dc0eadbd57",
+      "type": "modify"
     },
     "code.svg": {
       "tag": "icon-code",
-      "digest": "ad6d414a1b7aa155926b73872ea11caf3d7c32e0a544ff27894aacc9edd45e2f"
+      "digest": "94b860f57b0762de0fb1ed7c302089194cd77dde6793c163ea2ead7e88888799",
+      "type": "modify"
     },
     "compass.svg": {
       "tag": "icon-compass",
-      "digest": "23c5bcec573504cd94d87c1c1da91a88fa2ba58f5104b551225b4d0acfc1659b"
+      "digest": "901e2bd45ced12e97d3a808f6946403055e46c6f2db7de53a66035a01a293fdb",
+      "type": "modify"
     },
     "contacts.svg": {
       "tag": "icon-contacts",
-      "digest": "22a3b56ed399312e0902e24c11be76cba6cfec26d3b18bb9b8abff3a85389f01"
+      "digest": "9123d1f25b99932059aa60ba448f070789dcf5e28986fed508935b7d9006e372",
+      "type": "modify"
     },
     "container.svg": {
       "tag": "icon-container",
-      "digest": "b03fff4a9a6b4a8b01572f09c414ab630ba83f2385d45929e7a84ade41388ebd"
+      "digest": "95c059943de209209b0947cc66d66b583dabe4bdd627de730f2f77811ce519b1",
+      "type": "modify"
     },
     "cloud.svg": {
       "tag": "icon-cloud",
-      "digest": "2ab4d11af4bbfcec8ac12fb9b0ae272e0f0908d8434825dc62c404d6fe8f0be9"
+      "digest": "103dba45c84e5c14a3e801406b5da63dc6ba8b0e1d007ce4a26e6e1a344fcbb0",
+      "type": "modify"
     },
     "control.svg": {
       "tag": "icon-control",
-      "digest": "fec2fb7b801d96d4741a524584dc98b487313eefc76fba4deeeb06d1fc85d080"
+      "digest": "4d1246a3c7ee17886d2b87e8536a625532778d58f96d91d8caa629fc25c86fa7",
+      "type": "modify"
     },
     "copy.svg": {
       "tag": "icon-copy",
-      "digest": "ebdd61696223f5a85eaebd9c95281c59cb9a8e49fa64bd29dc4f5fc93bdbf09b"
+      "digest": "c34db40257f721f5c3746c77adce93be6331ff46e65808329b0ce7c3d82b0d4c",
+      "type": "modify"
     },
     "copyright-circle.svg": {
       "tag": "icon-copyright-circle",
-      "digest": "814c0b11b5a4ae87dc4c57dcee068b2df39e8febcfa041047fb2b8477e248f3b"
+      "digest": "bc1ac8a1c9fbc93acca7d486700dea23b1845778bd631f46dfb8f4d11fdac793",
+      "type": "modify"
     },
     "copyright.svg": {
       "tag": "icon-copyright",
-      "digest": "814c0b11b5a4ae87dc4c57dcee068b2df39e8febcfa041047fb2b8477e248f3b"
+      "digest": "bc1ac8a1c9fbc93acca7d486700dea23b1845778bd631f46dfb8f4d11fdac793",
+      "type": "modify"
     },
     "credit-card.svg": {
       "tag": "icon-credit-card",
-      "digest": "32e15f02f4037ceeef42cd82e9c3892b2d8ea27333da24fee142c28f6f9299b6"
+      "digest": "e63b76b47dfc497db88bdd181f5f5f860d06c0e3f7ce1171092e99d98dde39a3",
+      "type": "modify"
     },
     "crown.svg": {
       "tag": "icon-crown",
-      "digest": "f629d32b19ad736992fa0106318157a1c6e67a339e58f465349e069d5bc42733"
+      "digest": "01c2b3a7ac925f405c20a547054a81ea85b5c3d3e0f858095ce6fe429b78e177",
+      "type": "modify"
     },
     "customer-service.svg": {
       "tag": "icon-customer-service",
-      "digest": "aca71c66ef92f5d67ee60d4265a420879a9250fe6ca847d21e6ae41ab53457c8"
+      "digest": "c27e6616735df30ccb0f4ec496c3eefbe9bc488fa5de2fc81aaee1a1178ca1c8",
+      "type": "modify"
     },
     "dashboard.svg": {
       "tag": "icon-dashboard",
-      "digest": "b7e1e78d75807ad1c5f4384a3527ee11ef0d51a52c9acd27c96d0aaa6152d8f0"
+      "digest": "5e38b5cf262797d5b7a6c0716367eb9f39373dc23cf2469942562df6531ba99e",
+      "type": "modify"
     },
     "delete.svg": {
       "tag": "icon-delete",
-      "digest": "078216046c69f6a65295a1ebcc471a84424e71b8e02e69212efce1351a518169"
+      "digest": "c87bf7ec8200f67c00865eb6fc92ffe823718a7cc276218b447ecf54cfbb96fe",
+      "type": "modify"
     },
     "database.svg": {
       "tag": "icon-database",
-      "digest": "d47bf3923e17ba8d7b6c2a2c0eeb6f8b0499b1e5aca78d55b3b45b30ce737ad9"
+      "digest": "ef011827a05ff2c855edacc29e9cc13885f404901ade1c1fed3f0061d7e45013",
+      "type": "modify"
     },
     "dislike.svg": {
       "tag": "icon-dislike",
-      "digest": "649830bdbbaa25b80a35a37e5b0767b78c96833248d65c77ca140f4642a1b305"
+      "digest": "4a19406c042d61fcde7944a7e4a0d16cd1c0ce4ab4506d488eaabc4a077ff327",
+      "type": "modify"
     },
     "diff.svg": {
       "tag": "icon-diff",
-      "digest": "8dfbbccb22000759825ff93ea235238911c21be6aae0c4c28b579bed5f80e198"
+      "digest": "ff44c3c9c15280552bdb67082bb6ed743127825186ccef8bd34db0bb4881d4cc",
+      "type": "modify"
     },
     "dollar.svg": {
       "tag": "icon-dollar",
-      "digest": "c8004ef0384f043b681680af75a3eb95564c2bc826ad03c89c62b015adff85d4"
+      "digest": "cd6d01e22dc2a0a32238627c7549f862d4059b2e60c453687c2a5484954b133d",
+      "type": "modify"
     },
     "dollar-circle.svg": {
       "tag": "icon-dollar-circle",
-      "digest": "c8004ef0384f043b681680af75a3eb95564c2bc826ad03c89c62b015adff85d4"
+      "digest": "cd6d01e22dc2a0a32238627c7549f862d4059b2e60c453687c2a5484954b133d",
+      "type": "modify"
     },
     "down-circle.svg": {
       "tag": "icon-down-circle",
-      "digest": "5ebf18c5e87e217ea21628e7e025581f7b98d1d818f50213a43b9acb5cf31914"
+      "digest": "0ad6b30fccfa1316b01d4514b9f6c178e5f6b666503894d9f3f2200b8bb422a9",
+      "type": "modify"
     },
     "edit.svg": {
       "tag": "icon-edit",
-      "digest": "4bbb5041f3a39e8924610f973c21c0f111b0824466f03b70b8575e976dc15f43"
+      "digest": "961fb84664888f19c8035ef0a4e4391a1104afabe3ad49e7e16bd772f39dc577",
+      "type": "modify"
     },
     "environment.svg": {
       "tag": "icon-environment",
-      "digest": "319df4dbbaeb544a9fb765e864bb080c9333e5397cfd0b6414d377b48a190d74"
+      "digest": "b430b043c51fc4e057252c4bc65f6b97076cac0bc3128886218e6c9625d22d8d",
+      "type": "modify"
     },
     "down-square.svg": {
       "tag": "icon-down-square",
-      "digest": "99d635f79c15d4e15f244975ffe66636e8b81914e855c0b450c2ab03597c22de"
+      "digest": "e72898e185f5a4bcd73193baf7579f232f308739553f6a3a6c2b2816f393030b",
+      "type": "modify"
     },
     "experiment.svg": {
       "tag": "icon-experiment",
-      "digest": "652759aca3eab5b2bc3916377d79f8edf2e34d13265c0d4d11511367f59e22bc"
+      "digest": "3a8c59245e6d5f0162244b006999c59490f11be22fb26984fbbc87f3314d3c63",
+      "type": "modify"
     },
     "exclamation-circle.svg": {
       "tag": "icon-exclamation-circle",
-      "digest": "8bb92e389f5cc063b5bc2f06c0b427642243ca6f1408392f7f452b3631325834"
+      "digest": "d4d6f881d76f8229410fc724551ac628fb97c6542d3400ff3c7b7c2ac6a7d7c3",
+      "type": "modify"
     },
     "euro-circle.svg": {
       "tag": "icon-euro-circle",
-      "digest": "37128cdcebc4517d1d95c4dfe45e13d9b4ea73bb8cd3e972b8dbe20509c3a86a"
+      "digest": "5d61f3e81d7151ba00b21172325946bf9fe0b6f76cde8c469080905ad28a8842",
+      "type": "modify"
     },
     "euro.svg": {
       "tag": "icon-euro",
-      "digest": "37128cdcebc4517d1d95c4dfe45e13d9b4ea73bb8cd3e972b8dbe20509c3a86a"
+      "digest": "5d61f3e81d7151ba00b21172325946bf9fe0b6f76cde8c469080905ad28a8842",
+      "type": "modify"
     },
     "file-excel.svg": {
       "tag": "icon-file-excel",
-      "digest": "b9d79f495535db06b05722b1f36d4ec279c1882fa5cc6dcb708a20ed2c2042d9"
+      "digest": "06c53d67bfcfd729b09625922000cc6399eb962cad56f7707198ef33622c4286",
+      "type": "modify"
     },
     "eye.svg": {
       "tag": "icon-eye",
-      "digest": "9a34910b95be14e4450d567bd83311793151a8250dbf3b9e8922f1df0446c123"
+      "digest": "f9bb9a965113f22f116d105aed688754df24f32e4b2e33b025584cc8e1052696",
+      "type": "modify"
     },
     "eye-invisible.svg": {
       "tag": "icon-eye-invisible",
-      "digest": "7578a037ff349756bd08dbf984887420d6d261c67a1437cdccba60f08505745c"
+      "digest": "f0fb3c94086aad388627137128f97116d7c3e7c1771f29315e4a75cf527da9f5",
+      "type": "modify"
     },
     "file-add.svg": {
       "tag": "icon-file-add",
-      "digest": "538bf7bfd35a85f6a3b5ff34c847947830b81f3123da8f490a8586ef1baf0695"
+      "digest": "68b307f611e040a8596f74bc863a021c5d59ea8a9cffae5a95e12d0a3246a03d",
+      "type": "modify"
     },
     "file-exclamation.svg": {
       "tag": "icon-file-exclamation",
-      "digest": "f1ec74af8782e6a6d06177f4d9d1d1033b4e5795a776f45b7b0a41529742cb71"
+      "digest": "67a1e6444f09d928c85692fb61931f43071e25aab0446b8e9017fd7f51d0bce0",
+      "type": "modify"
     },
     "file-image.svg": {
       "tag": "icon-file-image",
-      "digest": "c1b7e66b2d458a92979cff1920140f8fe2f47242423e03a48b9d641221f2fa92"
+      "digest": "dafd15c4e53b1b5e55f48e5f54b0385a25a17fdd21ec73b638966e8fcc692c14",
+      "type": "modify"
     },
     "file-markdown.svg": {
       "tag": "icon-file-markdown",
-      "digest": "47c8b4c940033d75bbb0e87276302ab7b7391eef5ec13a15eeee6f5b7f322388"
+      "digest": "d2366ce72ddfd88fafbba8f5b802cb13092861c20b52a4a8919b9717a64779f8",
+      "type": "modify"
     },
     "file-pdf.svg": {
       "tag": "icon-file-pdf",
-      "digest": "8af97208e7c710c86e0dad762e9b20a8a6f927672f66e4fc009b8b90ca49d30b"
+      "digest": "a0ebe418989d377453b42c9e421178950ce6207e54e943edda14b2dda59e22f0",
+      "type": "modify"
     },
     "file-text.svg": {
       "tag": "icon-file-text",
-      "digest": "cc68a4ee312148dc5aa12edcf4e849dc76b06532dd9dda6e1133b3e332d05ec1"
+      "digest": "db3802c7b4ac632f2a9625a2327a50d1b8f33421070ba8c965de1b36ab65e9c4",
+      "type": "modify"
     },
     "file-ppt.svg": {
       "tag": "icon-file-ppt",
-      "digest": "00982885b3178a9042064734c79a46556608618a9d6df44d5a30cb6ac18aeb86"
+      "digest": "b36cda0a63ef31b1813d80c1cf5eb543d4fd37d0829e9a98245e4a43272e201a",
+      "type": "modify"
     },
     "file-unknown.svg": {
       "tag": "icon-file-unknown",
-      "digest": "6fb483a6617b41b4128e8adad59ad12cda955dc590ea0304604c747836ce010d"
+      "digest": "45996043eb99bd43e91b3c48bd7cf7e40ce85fd44175072085785ca1673b4529",
+      "type": "modify"
     },
     "file-word.svg": {
       "tag": "icon-file-word",
-      "digest": "2c9604fe1ba40718edaebb700615fb2a9aef20f4751d553b84211831cdbb6ac6"
+      "digest": "7e1e66baa81ccac396503d96a274b5a8d46715a73d8afacc058168d75e61feb9",
+      "type": "modify"
     },
     "filter.svg": {
       "tag": "icon-filter",
-      "digest": "1e765f57bbd6ae2f56e6cc1381370e238a0f0feb0e0c31a3d37be8d49fb6cc99"
+      "digest": "af3292f402d37580e851fb089112988c7cbd0676234f4cb7578fb39852b1275d",
+      "type": "modify"
     },
     "file-zip.svg": {
       "tag": "icon-file-zip",
-      "digest": "9fc6273f81ce9e5c8b5ffe1168ec100ed6b89556d50b36c7241a3679a03c64e8"
+      "digest": "12b6893858a21af81ffc67e55d5e5819e0d290203e8c9a248cc7700785994fb7",
+      "type": "modify"
     },
     "file.svg": {
       "tag": "icon-file",
-      "digest": "cf3e0b9f80bdc98810a6ccca451dcee6405c3b0c0827d349f9b87b06b2eabdee"
+      "digest": "015da41460eea448b48d52fbf3103d7dcaecae7318557e59e9770b63ecc36770",
+      "type": "modify"
     },
     "fire.svg": {
       "tag": "icon-fire",
-      "digest": "4cf19bbfe2135e05dbd37b1f768c3a7e7e75bc42955a102f52510f21352ab840"
+      "digest": "5ad391871db25e783b597a62989c52d5b38c9a68b403245a8026501918d6f9e1",
+      "type": "modify"
     },
     "folder-add.svg": {
       "tag": "icon-folder-add",
-      "digest": "d8063080de1556abf58f5314003a15173cdd9cba1a682dbf09cab0793c409f28"
+      "digest": "f8b08cf2abf5c82c260d720e1e6d91537d7be188fb4b67adc7375a492d6a265f",
+      "type": "modify"
     },
     "flag.svg": {
       "tag": "icon-flag",
-      "digest": "eddc04a0aaac782a825d3e2651532055970296134dba80e56b847e8ca110d228"
+      "digest": "ebc92f92415ae2b624e680d3ae1d1447098bfedaf3ee86301f089bb7dbac5124",
+      "type": "modify"
     },
     "folder-open.svg": {
       "tag": "icon-folder-open",
-      "digest": "2ca444b1198950bb8217b2459a35407d6aadaa70fd84dfa4d5ce37df95446457"
+      "digest": "01f1d99a4809767702ae833df2cd0ab245c53ed4414fdeb8690f638fc8f671d5",
+      "type": "modify"
     },
     "frown.svg": {
       "tag": "icon-frown",
-      "digest": "12095a465c32f5ed6863e24b91d82b719757ab2938845d187caed04ecbb805f8"
+      "digest": "5ec3f29b00902d5ec34f4c24104fffd81c7bdf7a54fbd84c963b591b3c0be8af",
+      "type": "modify"
     },
     "fund.svg": {
       "tag": "icon-fund",
-      "digest": "fd98616ae56ad19977ca375219cf14955766ef1a63121cb5c7a5f2861c138ca7"
+      "digest": "3abbf4d2437f7776fd8ae946964f5720b1de331a26d98d6dc3802b354c3fb4d0",
+      "type": "modify"
     },
     "funnel-plot.svg": {
       "tag": "icon-funnel-plot",
-      "digest": "98a95d94fddc7881f6e6c5c7c0527b70754d7f707524e60e28c40f213a172918"
+      "digest": "1d96bba36201b3be9083d1b7c1d267773d85dae2364bceae7a8bac386450d501",
+      "type": "modify"
     },
     "folder.svg": {
       "tag": "icon-folder",
-      "digest": "930136cf3feba36c40150515d346870fdc12f6639ce529d51afe82a0fed7e316"
+      "digest": "ea5a73e7150d6c68dc7d67d253ff5b69f8a30053aa8ad460cdc772c85568ccd3",
+      "type": "modify"
     },
     "gift.svg": {
       "tag": "icon-gift",
-      "digest": "bf0e99d07e2fd91001225c9c44c33a3c34f572d1b6fff012243393e49bf8cfe5"
+      "digest": "30ceed28340cd2393c0980c3f181e5798d2aaea89c080d3a3d73bf3508627cf6",
+      "type": "modify"
     },
     "gold.svg": {
       "tag": "icon-gold",
-      "digest": "17c6713954e85928b205af097adff2dd8d01fdc107deb439c902a7bf75e084e2"
+      "digest": "df9f41e9086274fa36411823e396b2896cb7f4992a1c70ea39a74035b5d94fb1",
+      "type": "modify"
     },
     "hdd.svg": {
       "tag": "icon-hdd",
-      "digest": "17f21a2127e13a732cd0b2ef28affb7434c19f341154d7cc257cbce381f6fdce"
+      "digest": "7c49bb8646e75f200c4c549ea8f97af7c189b768f70aa4c83e980204543180e1",
+      "type": "modify"
     },
     "heart.svg": {
       "tag": "icon-heart",
-      "digest": "833ef83595c11f6b3b644a0a823564635bef51febaf8db5c62ace4c321a900b0"
+      "digest": "df3933e751f6ff95990b6db58de431f7400d690ee267de187b35c01e9c2b4f19",
+      "type": "modify"
     },
     "highlight.svg": {
       "tag": "icon-highlight",
-      "digest": "06213b60e6083080b57cbefc2f8b0274ca5f24cae0d33ece079fb9c983382e2f"
+      "digest": "54e46c2f7779f8a2dfde00da781a93c53fab021aea16507ed54054529bca1a8c",
+      "type": "modify"
     },
     "hourglass.svg": {
       "tag": "icon-hourglass",
-      "digest": "7df2e110244c8d5b66ea8bda4c72a5609747660d8b70664cd66023ef0277592d"
+      "digest": "42f56f55a4dbc37716bf011282b9765bfd9f63880765f0df98bc73be929df18b",
+      "type": "modify"
     },
     "home.svg": {
       "tag": "icon-home",
-      "digest": "1d4919f2cafa6b8015a879a4a5d521e6e8d50731248ae7f70d847a00ef850dfc"
+      "digest": "9b25f5ce14b622864405db8529f1296adf811ad31739504508a35c6a9ead5e01",
+      "type": "modify"
     },
     "html5.svg": {
       "tag": "icon-html5",
-      "digest": "cfe331e409d04b71987159adaf90e02c21da8e56ed9feb7ca38b4dceb1a54fde"
+      "digest": "bf2236b67f7889f53fe149aedf90f605e106931a33f20b1b1c4ea8a2756db0cb",
+      "type": "modify"
     },
     "idcard.svg": {
       "tag": "icon-idcard",
-      "digest": "0e9c9d90476de1717451a891752302e428b9176d52b3efc1fcb48f1a4a193aab"
+      "digest": "d59eaea85f95902f1c26486a44a621f0a5d03c5bba63847e3dfc3382332ff344",
+      "type": "modify"
     },
     "info-circle.svg": {
       "tag": "icon-info-circle",
-      "digest": "08460bb22f8a62a31ffbfcff4e43c0b41a1705f23b14c133a32bd914b56dda1d"
+      "digest": "e013ffa771948481cb0efe10028f4a551c3d1bf98e69f18a80f7f7382ed5e2d4",
+      "type": "modify"
     },
     "insurance.svg": {
       "tag": "icon-insurance",
-      "digest": "e62c79dec6fb4b8935f726b548e59c7f2117eab551d618629091bd414904c1dc"
+      "digest": "91f61122d2906f4d726b134273b5c486800ebd075611c532e5f97011b1b5b7a6",
+      "type": "modify"
     },
     "interaction.svg": {
       "tag": "icon-interaction",
-      "digest": "350f0ad404222684639cb00fdc3157003d2bd3beea2be84fc2ad26f16507cbcb"
+      "digest": "71456a5aec0e57fbfe31e96c090cfbc1ae6c5e776a6f13ca8d35ecc8c845b645",
+      "type": "modify"
     },
     "layout.svg": {
       "tag": "icon-layout",
-      "digest": "81b9adf4061ef1d26aa5159236ac1be9e782c8a18a4047a035d79e29d45b293c"
+      "digest": "32c0effe6d57944574e9a442c4d9b5fdce2a92a5c7801772349e9185500c7382",
+      "type": "modify"
     },
     "left-circle.svg": {
       "tag": "icon-left-circle",
-      "digest": "79fc82f5344a97da121a87f3a1a5be525ba3f44c517d8af4aba73112cfa6daf2"
+      "digest": "d74b9d776a171571df40544b602a9913b22086df8e72568d73076c339ce344b4",
+      "type": "modify"
     },
     "left-square.svg": {
       "tag": "icon-left-square",
-      "digest": "8ead08a7cb927a1d72514c052045ca337b9acbbe6f62aa750be5148ac03b0d67"
+      "digest": "210affae13032bfcd5aa61c7ad6f265cdf827d0e0593fd08c3407e2c4e7b4e50",
+      "type": "modify"
     },
     "like.svg": {
       "tag": "icon-like",
-      "digest": "6d03afc180438b01c3881798d29113656a7b023776ec8b2369beaa4c4eeb487e"
+      "digest": "5affe07fa382ae65a4b348a62adc1a6db82a9b7bdfbd381f06bbcb3aaf315998",
+      "type": "modify"
     },
     "lock.svg": {
       "tag": "icon-lock",
-      "digest": "e83cd6bb0a7d9b3c2330ecbf0e6edcb30aaf945c9a27e473abd768248348a1e0"
+      "digest": "e88bd4067bfc80eb3851ec14ddf3eba30136af987c4c5d33bfeab8eca3f82edc",
+      "type": "modify"
     },
     "mail.svg": {
       "tag": "icon-mail",
-      "digest": "3535e34b86809ed1cc9743b92f4942ddf14be502d2900eb23de6738873aec4ac"
+      "digest": "3bcadf2b9e69c474e8d4bf0192b9e3394745a5be20560972de7377fc16ef5cc2",
+      "type": "modify"
     },
     "medicine-box.svg": {
       "tag": "icon-medicine-box",
-      "digest": "87b746c6e8b3ff9c54721536db36075e5015c967e7b1747754fa7b77867fd2fe"
+      "digest": "80ffe6924af0100abe555987b529568a74260c430b3c33fcf6159ae7683bbacc",
+      "type": "modify"
     },
     "meh.svg": {
       "tag": "icon-meh",
-      "digest": "9eebfd5587e962c63762066536d8ef0c5ce42f9aafe0159a5d7d0b39189b2464"
+      "digest": "1bfd27e4dd3606a71dbbb70e18fb1d3199db9bd433372f8c065725ee7599ac84",
+      "type": "modify"
     },
     "message.svg": {
       "tag": "icon-message",
-      "digest": "b604e30decb82661211133e1c4ee97f067feb17fc5902b847ced9b62c47344f8"
+      "digest": "c7632ccb2f4f2412b19cffeacdbd26e458b866e050232619e92e62a223aaf1ac",
+      "type": "modify"
     },
     "minus-circle.svg": {
       "tag": "icon-minus-circle",
-      "digest": "a83d942483197af509a7444523cc3991a63abe2fd6f978659523f7e80cd2016a"
+      "digest": "ef1070d2dc771aac8580f4d9b0a56d1572b7ea10b6e9e9e5e6f1d88171f604e3",
+      "type": "modify"
     },
     "minus-square.svg": {
       "tag": "icon-minus-square",
-      "digest": "b7f65ba8b633b53f490aa789b68f2e4e3f8dd4e0448e89e5d7800f40b5dad4c2"
+      "digest": "7fcadb29913bbade4bc9459865ea2abff9eac82acacf516c0b071aeada3402e0",
+      "type": "modify"
     },
     "mobile.svg": {
       "tag": "icon-mobile",
-      "digest": "f1367d867b7ce4b43f681f44517599bae3cd63fe3e76cda7f9b64c2aff1e0f5e"
+      "digest": "2ee0e640cfa16cfa6f81337b45ee7f89874cd52f6e2bcaa86d7442eac2a3b219",
+      "type": "modify"
     },
     "pause-circle.svg": {
       "tag": "icon-pause-circle",
-      "digest": "e07ca043057a92530c5ece0916b0bcc1eb08d250f2f1909e0d59d9d7572e997c"
+      "digest": "31152f66ad400714094a21763847c0ac63ab96c3173547d4cf8136ee739a6dfd",
+      "type": "modify"
     },
     "notification.svg": {
       "tag": "icon-notification",
-      "digest": "d2544a06f9169ce0642a15ccfbf9b9d83a7bd264b758b00238df02385743825a"
+      "digest": "07769f40fbb9e337a9c2027c6e357f2c822683bbee7b55d32187e0ea61b8a84a",
+      "type": "modify"
     },
     "money-collect.svg": {
       "tag": "icon-money-collect",
-      "digest": "c6b34181ffc7c3b08ab4637c43a74066be6211589056fce28a174726c6cbc37e"
+      "digest": "4ccffa8fcc72a5ca5810a2b7ff1bfb37fa1828a471375b8771de84acc6648092",
+      "type": "modify"
     },
     "phone.svg": {
       "tag": "icon-phone",
-      "digest": "ec59424097b50f36e70e673dbe7b8666ffaf99674451031257b7ed6df8192373"
+      "digest": "76603d28e50d15dd19c8b648d3dc939e55f64cdd1648c97b0f14e25d869b7f3f",
+      "type": "modify"
     },
     "picture.svg": {
       "tag": "icon-picture",
-      "digest": "45d18b9ec79963c4731816374c50fa76753db25c20e007406f59f835111be57c"
+      "digest": "90c6c984643c125eebcf5f03d64bec252baf56430b01719d3cb165e4a4aeaba1",
+      "type": "modify"
     },
     "pie-chart.svg": {
       "tag": "icon-pie-chart",
-      "digest": "1ac18e63812c8d518522212b971e08ce2a055ee45acbb9938c0e4817c32d05b3"
+      "digest": "33c6adfd204fffd97912111715f9a358663584ab7f805df45a2b25e18c692a8a",
+      "type": "modify"
     },
     "play-circle.svg": {
       "tag": "icon-play-circle",
-      "digest": "f6f1e535af29c87ab6d82daf5d41711ebf0bd445d1dbf03bfb095293fee9d1df"
+      "digest": "047122135c45fed3771de56226887adda34dce00bd52907493dbca317bb21058",
+      "type": "modify"
     },
     "play-square.svg": {
       "tag": "icon-play-square",
-      "digest": "4faa156d1ebb004fa357d486ee1db126abee28e3a539f7fc0f754b05af8bed0c"
+      "digest": "40f7ee3490895f68d11fa94830b6f93f36a40a0870b4078c31402d0a7c8af00f",
+      "type": "modify"
     },
     "plus-circle.svg": {
       "tag": "icon-plus-circle",
-      "digest": "97bc252f465b40b008eb53cafa5da01cf164a5be5745bac7d3ddc18122bf9f86"
+      "digest": "c89d708676f3622809003cc83f26e0f10d267d630207b8e9c559db3ca0a0b2c9",
+      "type": "modify"
     },
     "plus-square.svg": {
       "tag": "icon-plus-square",
-      "digest": "26ed95f754cf9eb797517333238282b22f753aa29ebb06329aab88b0d2743120"
+      "digest": "819fc51af60c8c29eac7453c240687e2ce0bc1c1b83c98b93ec262f7f7182cf8",
+      "type": "modify"
     },
     "pound-circle.svg": {
       "tag": "icon-pound-circle",
-      "digest": "9c8f23bddd07b2f505192ec3cdad139e5cfcb6883933120e3a22382b8717e43e"
+      "digest": "8526d2223fd6f75e9b969204df26cb878f150bf8da89cdecde7f0b2a4d185314",
+      "type": "modify"
     },
     "profile.svg": {
       "tag": "icon-profile",
-      "digest": "6e02354a5ba44c53727ffa41e02706ac27a11f62192900bfc62ff01f48fd2914"
+      "digest": "3118f79753adfa96cc215957fcb3c131a427fa5acc946d0b0d21a250aee2e789",
+      "type": "modify"
     },
     "project.svg": {
       "tag": "icon-project",
-      "digest": "a604e333220a35d5a0acdd17251b3dfe47af3df67be1f5c79d7afe0a5fbd465a"
+      "digest": "39e3e4c3496e1c12408abe3908aa6d14a5cfe0c98f32c4997ec61814ab4c36e4",
+      "type": "modify"
     },
     "property-safety.svg": {
       "tag": "icon-property-safety",
-      "digest": "e1ac80fbb5aad7cb3cedd19005b79782f18a8f104012f8ece63856b9a884ee59"
+      "digest": "da4301ecd1f48d573fbbfc6f50acaf898ffb79af4011e06d659e77e08ad77f8a",
+      "type": "modify"
     },
     "pushpin.svg": {
       "tag": "icon-pushpin",
-      "digest": "80cdeb3c11eb8454a8b1ea5b2c5ab802f7f6cb6849196b951c4f826757c1589f"
+      "digest": "5886773a54992dfd984177daa4e4e6ef2e2f40bacdce100cc0e49b95e42fe7c4",
+      "type": "modify"
     },
     "question-circle.svg": {
       "tag": "icon-question-circle",
-      "digest": "d77d3a53d2586c9d01ddcb726f9aede22ae9442368d504d5a302910d778fbf2c"
+      "digest": "47689874844abe2c6f1133633027dd281844ff03b02d13e24f1beea45d5548eb",
+      "type": "modify"
     },
     "printer.svg": {
       "tag": "icon-printer",
-      "digest": "259a0bec988d3cd7bf7705ab59f614a4fe6b7bca15918671768fd37cd1e21325"
+      "digest": "99ff2c533e3b8c48eee4aa41f73a5d79fb012e271f0de1c3852e643d6cc60b83",
+      "type": "modify"
     },
     "reconciliation.svg": {
       "tag": "icon-reconciliation",
-      "digest": "0c71058c0a9f15af291894093fd6a62fcd7a0fa2dfa70f0b99c5ac222022f1c3"
+      "digest": "6b09a91dcf591211f204db1d1d2bc8c5d2e9a945dfa80be9ba11f9ad91b5cba2",
+      "type": "modify"
     },
     "red-envelope.svg": {
       "tag": "icon-red-envelope",
-      "digest": "3737aa833145bcd5f31fdece3c7fc8ed0699e589e00a4b94ddd06365464a4cec"
+      "digest": "7c00c0e5590cccffe49050f9a33d0ca473d662ffa91eac6131d8411f72f4e4d2",
+      "type": "modify"
     },
     "rest.svg": {
       "tag": "icon-rest",
-      "digest": "7afb7696995db73524507894af6779a09e49aeb8b08a063ab461a93fe66d8b3e"
+      "digest": "772c1fa644434fc015029c587f8fd27b6f0d6eb7f73c907703ed3c7ffe6e8ff3",
+      "type": "modify"
     },
     "right-circle.svg": {
       "tag": "icon-right-circle",
-      "digest": "9557f99b4fcca4db5eb90c36bdfea57d47cf63ea5326812c13ef2bafbdf56119"
+      "digest": "ab486b2a153a569585a8eb8fe12e9ee4b9c5c9c8f7cb0b902ef65436b2520e0a",
+      "type": "modify"
     },
     "rocket.svg": {
       "tag": "icon-rocket",
-      "digest": "6286b5f3c6a4395e143045a86bd81fa91b85fa73368a5247f2aeb6959eeb0777"
+      "digest": "831e761b0d09019639a079cbcc906061a3deb0ccf13df38d7c6cfc3050618c21",
+      "type": "modify"
     },
     "right-square.svg": {
       "tag": "icon-right-square",
-      "digest": "53ca56a5b51248c7a8e13c200893ca121c6bc49b95b407fb1c30c036d59793d6"
+      "digest": "08b5a17d16e7ef461842ba85989c2ed13991160a57356a11c9f9207674e380dc",
+      "type": "modify"
     },
     "safety-certificate.svg": {
       "tag": "icon-safety-certificate",
-      "digest": "36981bba0b593d45bae8d792c462ca70d257bf4476eed4977e926451ff3e1b61"
+      "digest": "1323c014008c6cf15d53be1ead4a20805bd10a416df36f227a4a535bba204011",
+      "type": "modify"
     },
     "security-scan.svg": {
       "tag": "icon-security-scan",
-      "digest": "d9708a755ec96032a7b0fbb5f79df72df8f6e267e451f8b7a239f49d109a1530"
+      "digest": "6a8aab9626be165f381863b561ee5211a180c314d4aa4370a04abdca01b71a97",
+      "type": "modify"
     },
     "schedule.svg": {
       "tag": "icon-schedule",
-      "digest": "e0a05ae51f4a64df8fe623384950466b2745676bd76929285ba10ef4b0667c68"
+      "digest": "acdc16a202d69083a2c14094827aba5febe2ffa83d3207e32cbf0dde5ac574b0",
+      "type": "modify"
     },
     "setting.svg": {
       "tag": "icon-setting",
-      "digest": "a1aa8d84d7e762f9b8a3cf27a8c3e16951effc8d08e9e802358bc395f1780555"
+      "digest": "3643dceafa430ffbebebf1b99501aebd1632b51f96347dc2a8e8f7540574f49b",
+      "type": "modify"
     },
     "save.svg": {
       "tag": "icon-save",
-      "digest": "8d3d31625693008648ebf06045c7ef64460a329f3fa97a6379b79b760e984811"
+      "digest": "3650092c4cc7cfa6a351e37909cd5e1ca39f2d97b518ff40551f1d23fd40aed4",
+      "type": "modify"
     },
     "shop.svg": {
       "tag": "icon-shop",
-      "digest": "08b970e4f7069e1222d3d9a996ca0395b618e722ed2633220366b3391f3f7a60"
+      "digest": "809e3d129e80b355aef162fe6f6b8d689a91e4ee0571d24658b805068d7329e0",
+      "type": "modify"
     },
     "shopping.svg": {
       "tag": "icon-shopping",
-      "digest": "664ed968941e4fe88a5c692617776dc3ec7cb86d197d67db2ee3bf4f694e53a1"
+      "digest": "c107e8d82ace55e04ec7edb908d0a35bf763f9363174997161bb58120ac565c6",
+      "type": "modify"
     },
     "skin.svg": {
       "tag": "icon-skin",
-      "digest": "39e8c2c355b025402ce9fd080a861718cac0994952ee7da91a479771be935d59"
+      "digest": "4c9cf18a14776842b038aa5a5d42929248891b95a80c6c397e75add8e34ffb4a",
+      "type": "modify"
     },
     "smile.svg": {
       "tag": "icon-smile",
-      "digest": "de84dd34beeb32a5f59274237d3b8b76087325f737c5c962e1ce8b39bd02289d"
+      "digest": "08a344fc18b0d65c369f46b880a6c94f004b0870f94303468d17cb5df71c6846",
+      "type": "modify"
     },
     "sliders.svg": {
       "tag": "icon-sliders",
-      "digest": "95e7ea99623db08d10e22b9b854bdaf8b8cb8899b6713cfe81496e5b983c98f1"
+      "digest": "68f02c1dcd8f11cbb11d78c608fd90616d68018886344785939aabb51eccba5f",
+      "type": "modify"
     },
     "snippets.svg": {
       "tag": "icon-snippets",
-      "digest": "441bb62577348bcdb6acb9990034c632fdcda8cc8f0b94f336d64455a67ec68d"
+      "digest": "e5ccbb6c44a950c54948670fc370c4e75f96a834167fbd62a1103379006ff653",
+      "type": "modify"
     },
     "sound.svg": {
       "tag": "icon-sound",
-      "digest": "b2d37279818a2e35fca0ec309cfe6324d51860a154fdd80a79eea0d62b5ca81c"
+      "digest": "8d7894df801a8865ff8e19f36b25253b3112380bd9bf36a6b93acf9336f8bcb0",
+      "type": "modify"
     },
     "star.svg": {
       "tag": "icon-star",
@@ -539,67 +672,83 @@
     },
     "switcher.svg": {
       "tag": "icon-switcher",
-      "digest": "197a8342cf74b5d94991c747fda0b2103ed0278c279ebe530b0185a7ab4d8fac"
+      "digest": "7ad5877a466cf306257f29ca64affe777c0e50348a089e809c86f0255183e369",
+      "type": "modify"
     },
     "stop.svg": {
       "tag": "icon-stop",
-      "digest": "89238456cfe58837931bf58762b0efa20ca27c366bdec06643e006a904f8cd40"
+      "digest": "b99b0e2b406da986970ece1b0d7c1809ca8ef237ffaaecdcdb4dfc5506a80b87",
+      "type": "modify"
     },
     "tag.svg": {
       "tag": "icon-tag",
-      "digest": "27a64f0029bd0da16ae15bd464b6259d48eb706f5956811d8b39662bc8cd4322"
+      "digest": "8b86085499b89e35868ce625b15396a6978b8069fe20613322ee0c04cdb918e6",
+      "type": "modify"
     },
     "thunderbolt.svg": {
       "tag": "icon-thunderbolt",
-      "digest": "dc7ad99f691dc279c91f7848e6e8ca1ad39ba5aa0d50998eb3e7b2ba71c58946"
+      "digest": "c8a3fe4659e4af4bf5812e4d830b0328b6213e9da9d50fc7cf689416d818fc24",
+      "type": "modify"
     },
     "tool.svg": {
       "tag": "icon-tool",
-      "digest": "b69b3afecaf199db68c460479cdaf6f7a38551a943801cbff8a2d157f0ce661a"
+      "digest": "0ee6fb8d1124a70fa50d2d96ef04fc935e6cc6a2535c188580e8eb5d137a8c57",
+      "type": "modify"
     },
     "tablet.svg": {
       "tag": "icon-tablet",
-      "digest": "a5449bbad097ad28d7e11b55cb7e4eb0eeb30d023652868fc36d4eb3fc0df6c8"
+      "digest": "413b5e80adc8132f8e7cd8e73e6a054748886f4f0cf787f21b9d752c063d4232",
+      "type": "modify"
     },
     "trademark-circle.svg": {
       "tag": "icon-trademark-circle",
-      "digest": "665032659f9f0b3524451ea8dad361775b5dd9d8a9d4e21b2a71b38537c7b400"
+      "digest": "6ecc5f34684df5693289eb2bafcd560aeff343d5459fca728072dc94f1012f1a",
+      "type": "modify"
     },
     "tags.svg": {
       "tag": "icon-tags",
-      "digest": "862e0bd680f799c53dffb04f2a118678b14693d8ca7529caccbad5381055aa83"
+      "digest": "1fd8be25f12cf348784aaf07d81af915b980e1d0f65c2a49891f2ee240bff6e3",
+      "type": "modify"
     },
     "trophy.svg": {
       "tag": "icon-trophy",
-      "digest": "0c34d5e3d6262a4d53a0b41b73c4d9328e38281e017bbf2cb3ee50b668f8ed4b"
+      "digest": "0646b8ecb7d4088b9c77cdd399a7761e04b9e5c1fc775845b78a3f14331f7643",
+      "type": "modify"
     },
     "unlock.svg": {
       "tag": "icon-unlock",
-      "digest": "d910aa3f00735833d2b86e69aae1974074095c16f7f0243e5dea427701856001"
+      "digest": "e0dab064b4f1c791d9cb3f26a1fe3bd989b97dc13453747a1bfa387d4d282b9a",
+      "type": "modify"
     },
     "up-circle.svg": {
       "tag": "icon-up-circle",
-      "digest": "c4f97f15f0ab36bcbd8a5d013933d4617dadc52be3b8db2ec1f81ce915aef773"
+      "digest": "af7fbda5dbfc4e3bdc8c1f514404d16e80f0950b2ed421e8a5f9e475c60d34b3",
+      "type": "modify"
     },
     "usb.svg": {
       "tag": "icon-usb",
-      "digest": "5e82751651b87017d3d1b4cf394bc8462992389d1c62e68a7f2c939f5b29d338"
+      "digest": "68ffd62bc95c01e08a6739694d988bdcc9fbb5c55bc01080866fbefbc5c67501",
+      "type": "modify"
     },
     "wallet.svg": {
       "tag": "icon-wallet",
-      "digest": "f2e955e519b2f4de3e2c677c3cc3c530a71b969ad3a4b067a8e72721d899bd74"
+      "digest": "be81151e49af706e9c9d7b073ba494bc1bfcc303614fe22294e19ec402709163",
+      "type": "modify"
     },
     "video-camera.svg": {
       "tag": "icon-video-camera",
-      "digest": "4789196143a0e37584d7d697eaaf6dfb5f17074b86e7c30c3ff087a2e52934e2"
+      "digest": "2ff40f905f4aa52c0e3712dbfb3d3f1ebe9bbba1a00f0ec3a28d1fb14256fcd7",
+      "type": "modify"
     },
     "warning.svg": {
       "tag": "icon-warning",
-      "digest": "f4453da4275f8f9f44e18c424fd1a0fa81114e5d562af53b9ab26969b0f5b245"
+      "digest": "ace3427e31578c43963275116d92d9ab18f0fed7355d2133b56b8522a7c18fa2",
+      "type": "modify"
     },
     "up-square.svg": {
       "tag": "icon-up-square",
-      "digest": "965f4467c9061bacf7b539063e4ab93d39199753cf67451d7ce2dffb81687f89"
+      "digest": "c06f79425ccada67b33bc6ca7023cf3299ee93a15dba692da3db679f973d04a4",
+      "type": "modify"
     }
   }
 }
