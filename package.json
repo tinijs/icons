@@ -71,22 +71,22 @@
   },
   "dependencies": {
     "@ant-design/icons-svg": "^4.3.1",
-    "@fluentui/svg-icons": "^1.1.222",
+    "@fluentui/svg-icons": "^1.1.223",
     "@material-design-icons/svg": "^0.14.13",
     "@mdi/svg": "^7.3.67",
-    "bootstrap-icons": "^1.11.1",
+    "bootstrap-icons": "^1.11.2",
     "ionicons": "^7.2.1"
   },
   "devDependencies": {
-    "@lit/react": "^1.0.1",
+    "@lit/react": "^1.0.2",
     "@tinijs/cli": "file:../cli/tinijs-cli-0.11.0.tgz",
     "@tinijs/core": "^0.11.0",
-    "@types/node": "^20.8.10",
+    "@types/node": "^20.9.4",
     "gts": "^5.2.0",
-    "lit": "^3.0.2",
-    "parcel": "^2.10.2",
+    "lit": "^3.1.0",
+    "parcel": "^2.10.3",
     "react": "^18.2.0",
     "tinijs": "^0.11.0",
-    "typescript": "~5.2.2"
+    "typescript": "~5.3.2"
   }
 }
