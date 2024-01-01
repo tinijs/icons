@@ -71,11 +71,11 @@
   },
   "dependencies": {
     "@ant-design/icons-svg": "^4.3.1",
-    "@fluentui/svg-icons": "^1.1.223",
+    "@fluentui/svg-icons": "^1.1.224",
     "@material-design-icons/svg": "^0.14.13",
-    "@mdi/svg": "^7.3.67",
+    "@mdi/svg": "^7.4.47",
     "bootstrap-icons": "^1.11.2",
-    "ionicons": "^7.2.1"
+    "ionicons": "^7.2.2"
   },
   "devDependencies": {
     "@lit/react": "^1.0.2",
