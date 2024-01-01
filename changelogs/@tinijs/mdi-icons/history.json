@@ -1,5 +1,5 @@
 {
-  "version": "0.13.0",
+  "version": "0.14.0",
   "records": {
     "abacus.svg": {
       "tag": "icon-abacus",
@@ -4095,11 +4095,13 @@
     },
     "book-open-blank-variant.svg": {
       "tag": "icon-book-open-blank-variant",
-      "digest": "5fe61274756707137859767300b5abaee9e8bb318011acda01659faa5799fcc8"
+      "digest": "5bc18ff7fcc9585fd71e3908015697f00c3b7124c46d64666cf9415ef9e9eb8a",
+      "type": "modify"
     },
     "book-open-variant.svg": {
       "tag": "icon-book-open-variant",
-      "digest": "e627c0cf7a75c6e226ded1f38f87df6a674ee73f24c68392bad485cd9426d86c"
+      "digest": "d281d1594e9a95e0435742207286d6747d190b93f0cd617edc894a1707a62879",
+      "type": "modify"
     },
     "book-open-page-variant-outline.svg": {
       "tag": "icon-book-open-page-variant-outline",
@@ -16359,7 +16361,8 @@
     },
     "lasso.svg": {
       "tag": "icon-lasso",
-      "digest": "028597d00e759502092326ad96bb68ff079e461e8a6c5aa71033ba13a5b8ffe7"
+      "digest": "3922af69058ad0c18cd4b2972a445c170beeb58cc00c32d4817ddc1d7f7d3d37",
+      "type": "modify"
     },
     "laravel.svg": {
       "tag": "icon-laravel",
@@ -17031,7 +17034,8 @@
     },
     "logout.svg": {
       "tag": "icon-logout",
-      "digest": "6148036275eb36a98d84d487095eb6b24fae7c67f50007dfe4db9048e445228d"
+      "digest": "2af7757cdb90c403865d2e36674d9407316f73dddc86f86132f65458463a5e5e",
+      "type": "modify"
     },
     "longitude.svg": {
       "tag": "icon-longitude",
@@ -29468,6 +29472,406 @@
     "wave-arrow-down.svg": {
       "tag": "icon-wave-arrow-down",
       "digest": "6bc24be8dd71bab81a773662ee232672b2dc1d84a6a3e1071337c6a80075aaf2"
+    },
+    "account-box-edit-outline.svg": {
+      "tag": "icon-account-box-edit-outline",
+      "digest": "7d004f326f88a20d1997c6d92714f47616130c25a9446848d48319ce264f6fd7",
+      "type": "add"
+    },
+    "account-box-minus-outline.svg": {
+      "tag": "icon-account-box-minus-outline",
+      "digest": "6dccadd91d6a4ac5bb411ae96f66965dc8a1901a696da03988f4950155958c68",
+      "type": "add"
+    },
+    "account-box-plus-outline.svg": {
+      "tag": "icon-account-box-plus-outline",
+      "digest": "37a5214b9cd3401a6999db23d1cd9ad45fd9ef983436f43d86c15f7fa88f80dd",
+      "type": "add"
+    },
+    "book-open-blank-variant-outline.svg": {
+      "tag": "icon-book-open-blank-variant-outline",
+      "digest": "f32c1db1aca482bc75cbf17e354ab640324586ed3fc292f7adce98b1d2f59299",
+      "type": "add"
+    },
+    "book-open-variant-outline.svg": {
+      "tag": "icon-book-open-variant-outline",
+      "digest": "92ff3ad7fe7193e23bddc133426602932c3a6078f4eee2472c7e8719863a9375",
+      "type": "add"
+    },
+    "chart-box-multiple-outline.svg": {
+      "tag": "icon-chart-box-multiple-outline",
+      "digest": "e92e921a9988425a59d54c926aef7f41832bf61980f38a223bac5570f6fd3bb1",
+      "type": "add"
+    },
+    "chart-box-multiple.svg": {
+      "tag": "icon-chart-box-multiple",
+      "digest": "158522590b63d0dc5f194d0db0d5b2e8c6c040f7ddf7470279120090f1c23a8c",
+      "type": "add"
+    },
+    "diaper-outline.svg": {
+      "tag": "icon-diaper-outline",
+      "digest": "e49b61d5728d4e663c237c3d8882ef711d4fc8d11869171dbad822b53729b415",
+      "type": "add"
+    },
+    "download-multiple-outline.svg": {
+      "tag": "icon-download-multiple-outline",
+      "digest": "92acf77c4746f4e4bbdfb6e16227967411e25ad0cc3d8e1dad97263b334bfa76",
+      "type": "add"
+    },
+    "ethernet-off.svg": {
+      "tag": "icon-ethernet-off",
+      "digest": "182d5c527fa806897a99b2deb9a4972aa6a3e83fa01cfc1e5ecb1da9dbb11fb3",
+      "type": "add"
+    },
+    "invoice-arrow-left-outline.svg": {
+      "tag": "icon-invoice-arrow-left-outline",
+      "digest": "fe09cb024f24daa142feb03e40241047876e1caba9aafc2e1f0394529baccb7d",
+      "type": "add"
+    },
+    "invoice-arrow-left.svg": {
+      "tag": "icon-invoice-arrow-left",
+      "digest": "d648cf1224d31e41f558e7a76f1bb6ed0621de31b74d129828a2b589155b67ed",
+      "type": "add"
+    },
+    "invoice-arrow-right-outline.svg": {
+      "tag": "icon-invoice-arrow-right-outline",
+      "digest": "a787c1b95a39007ff1ab6a4f134743a8410de8e053080b38cfc80538412d919a",
+      "type": "add"
+    },
+    "invoice-arrow-right.svg": {
+      "tag": "icon-invoice-arrow-right",
+      "digest": "7e446b653adab1e8c91d2a55ba312911f78a5f330ecb8cc2ea68a858267b539f",
+      "type": "add"
+    },
+    "invoice-check-outline.svg": {
+      "tag": "icon-invoice-check-outline",
+      "digest": "332b1d5a90d92ebcdf8218d7ab3d3e8929efb18f1cc2b322262e809d09e5db5a",
+      "type": "add"
+    },
+    "invoice-check.svg": {
+      "tag": "icon-invoice-check",
+      "digest": "3e3721730a459c4b56594bc16e0d1963e9749309aaa89a586d31685548fa7dc7",
+      "type": "add"
+    },
+    "invoice-clock-outline.svg": {
+      "tag": "icon-invoice-clock-outline",
+      "digest": "4e4cb04c9738c4c249dc9a40c01236cb46a816607a1f829bde03b863fe5a2d3a",
+      "type": "add"
+    },
+    "invoice-clock.svg": {
+      "tag": "icon-invoice-clock",
+      "digest": "95c3c335b836dfdafb51b634d19b216c89ceff03f50415bf46dbdddabc9db9c4",
+      "type": "add"
+    },
+    "invoice-edit-outline.svg": {
+      "tag": "icon-invoice-edit-outline",
+      "digest": "a3b6bcbfa9874f137bf03ebadf527596de9887a5f8463d34912756dfc3ae9da2",
+      "type": "add"
+    },
+    "invoice-edit.svg": {
+      "tag": "icon-invoice-edit",
+      "digest": "37822de304d776fd20e367bfd49964ef91da642700051a40b4be7c5737196065",
+      "type": "add"
+    },
+    "invoice-export-outline.svg": {
+      "tag": "icon-invoice-export-outline",
+      "digest": "520a76275afc27acfae9459223de37aedfa381fff0d0c9aa9dab8978cb6b6f0a",
+      "type": "add"
+    },
+    "invoice-fast-outline.svg": {
+      "tag": "icon-invoice-fast-outline",
+      "digest": "ec9658d39ec32c30b34538655fb9b6f28d9de2079eb8ebf307c00d3d6fdffcdb",
+      "type": "add"
+    },
+    "invoice-fast.svg": {
+      "tag": "icon-invoice-fast",
+      "digest": "8e216e9d9f9597506f90cbb90112875f6c5f8bfae0f37dddff558d135bc4da4a",
+      "type": "add"
+    },
+    "invoice-import-outline.svg": {
+      "tag": "icon-invoice-import-outline",
+      "digest": "a4dd088239e08090d5114439cfa8736c4c8ca51985ecc12fe43c5fb9dc1178be",
+      "type": "add"
+    },
+    "invoice-import.svg": {
+      "tag": "icon-invoice-import",
+      "digest": "f914fd7c8acc85b978825dd51a517022245bdbd4aa791675dd9d47e26f001598",
+      "type": "add"
+    },
+    "invoice-list-outline.svg": {
+      "tag": "icon-invoice-list-outline",
+      "digest": "90f2c83c63124a6b75f9fecb1874317bbf0a3cf88bcd8a469dd1cbd77a952b4c",
+      "type": "add"
+    },
+    "invoice-list.svg": {
+      "tag": "icon-invoice-list",
+      "digest": "c68f0475d015b2b2f255502c784d3dfdc1ce5606ac18a4d262892b1aa9f117ae",
+      "type": "add"
+    },
+    "invoice-minus-outline.svg": {
+      "tag": "icon-invoice-minus-outline",
+      "digest": "563dfd2794572edebb540ae86d2cb975217d4aec71c87b5d9217413bb6a15a36",
+      "type": "add"
+    },
+    "invoice-multiple-outline.svg": {
+      "tag": "icon-invoice-multiple-outline",
+      "digest": "43e353311104e98d48a1b662ae04c1997a1ed1acdc928021a99364f427ba3e6a",
+      "type": "add"
+    },
+    "invoice-minus.svg": {
+      "tag": "icon-invoice-minus",
+      "digest": "34e3bb368ebc5f3157d6593cf02d9667de16dd370097aa4f232bdc110e36358e",
+      "type": "add"
+    },
+    "invoice-outline.svg": {
+      "tag": "icon-invoice-outline",
+      "digest": "f3dfec92ceed4f147b8ddcdeea5aacf44d2113664fcc9c25ba3366e13b10adce",
+      "type": "add"
+    },
+    "invoice-multiple.svg": {
+      "tag": "icon-invoice-multiple",
+      "digest": "5fcc398ab7da1ddd56434ed3396298bf5904f86a5a7c17325c069e7906bf5d5d",
+      "type": "add"
+    },
+    "invoice-plus-outline.svg": {
+      "tag": "icon-invoice-plus-outline",
+      "digest": "23a910ffe28a44e08bfb0f61d9bd4647ee53f3f385e2e9562a27b081c7c93bd5",
+      "type": "add"
+    },
+    "invoice-plus.svg": {
+      "tag": "icon-invoice-plus",
+      "digest": "f995ee5e29f7d9a98bde3f2669f50de9002d3f5bb538246c71a1377d2cc3f0d3",
+      "type": "add"
+    },
+    "invoice-remove.svg": {
+      "tag": "icon-invoice-remove",
+      "digest": "23e352a9c458c764c58999e3481e9436aac73e02af78e3a799642f90f1b02144",
+      "type": "add"
+    },
+    "invoice-remove-outline.svg": {
+      "tag": "icon-invoice-remove-outline",
+      "digest": "18890869fa339e8de11b7b7dde21ee76b52782eec1c223399a63bc8fae3afd77",
+      "type": "add"
+    },
+    "invoice-send.svg": {
+      "tag": "icon-invoice-send",
+      "digest": "5c6790b404c833310de881ca759010af55d77432a6a1be2183f008430f336771",
+      "type": "add"
+    },
+    "invoice-send-outline.svg": {
+      "tag": "icon-invoice-send-outline",
+      "digest": "5f1305b56a2a83343914364b5eb3a951f5a419290645790aaaf309e37e577f4c",
+      "type": "add"
+    },
+    "invoice-text-arrow-left.svg": {
+      "tag": "icon-invoice-text-arrow-left",
+      "digest": "edfbe9bad1ad840e831468f2c467f3a7e3918c47ed60e57997c8851f48e9b9e4",
+      "type": "add"
+    },
+    "invoice-text-arrow-left-outline.svg": {
+      "tag": "icon-invoice-text-arrow-left-outline",
+      "digest": "755e4b6a28aeccc90d347a5722fb0bda9d80d60718e102416412030abe06034b",
+      "type": "add"
+    },
+    "invoice-text-arrow-right.svg": {
+      "tag": "icon-invoice-text-arrow-right",
+      "digest": "475fde9a998e62c07dfdfa4fdf6c8bc260e716ddae4ca2c0b69b96ce5113488f",
+      "type": "add"
+    },
+    "invoice-text-arrow-right-outline.svg": {
+      "tag": "icon-invoice-text-arrow-right-outline",
+      "digest": "29c72dd3d38c57ce6428fcfe6e173ec6b5d9bde056fe158f54698c735fc84d08",
+      "type": "add"
+    },
+    "invoice-text-check-outline.svg": {
+      "tag": "icon-invoice-text-check-outline",
+      "digest": "d702162a26ede9ef7fdd57ed741da71ff5eb7ae8a92d757f8aa23823a4dd8c2b",
+      "type": "add"
+    },
+    "invoice-text-check.svg": {
+      "tag": "icon-invoice-text-check",
+      "digest": "f1aa98959f4479820ee285a3f749713f21ccf26ad141098ab7309af5eeba7fbf",
+      "type": "add"
+    },
+    "invoice-text-clock-outline.svg": {
+      "tag": "icon-invoice-text-clock-outline",
+      "digest": "ebd4f85fc1303ee550cf739402f74a88725739203f240fddd7aa150490287a8d",
+      "type": "add"
+    },
+    "invoice-text-clock.svg": {
+      "tag": "icon-invoice-text-clock",
+      "digest": "aa807fd26993c69a258674c267f4c772685d5273c3602bdf24f9de739f8cf498",
+      "type": "add"
+    },
+    "invoice-text-edit-outline.svg": {
+      "tag": "icon-invoice-text-edit-outline",
+      "digest": "f3c71d8edfe3788d0ae7d97702174d681b7aa9fb3fc6a78c542ba4b9dcf49f35",
+      "type": "add"
+    },
+    "invoice-text-edit.svg": {
+      "tag": "icon-invoice-text-edit",
+      "digest": "26677d21d66e16eb651956dfe20e2071535e482846fafe0c059e08ed1ad3f3b0",
+      "type": "add"
+    },
+    "invoice-text-fast.svg": {
+      "tag": "icon-invoice-text-fast",
+      "digest": "9cd7074fb3de7e420080b2fa432befbcc58b6e4dab01e5525ed12354b8ed1677",
+      "type": "add"
+    },
+    "invoice-text-fast-outline.svg": {
+      "tag": "icon-invoice-text-fast-outline",
+      "digest": "2ae4e159e13e3907ad7d8ab419aabc647fdf6d17863f263ba3419e67f27c6351",
+      "type": "add"
+    },
+    "invoice-text-minus-outline.svg": {
+      "tag": "icon-invoice-text-minus-outline",
+      "digest": "d98f13596f12688b74b4fb64f6b8f32a98cb7296aa28727fb3c16a5c6e92f7f6",
+      "type": "add"
+    },
+    "invoice-text-minus.svg": {
+      "tag": "icon-invoice-text-minus",
+      "digest": "b2c6d1aafbd90874edbc159abfb8f4ec8febb430e58acb9deb6a421105961e34",
+      "type": "add"
+    },
+    "invoice-text-multiple-outline.svg": {
+      "tag": "icon-invoice-text-multiple-outline",
+      "digest": "75d185cdf3224f58ed944d97c3c7a38a031d76310515587b11e0272bb902e2d5",
+      "type": "add"
+    },
+    "invoice-text-multiple.svg": {
+      "tag": "icon-invoice-text-multiple",
+      "digest": "e12f99fab14f0d482102f3efcc663afce2cee114721b4e633d92f8a5d1d880c3",
+      "type": "add"
+    },
+    "invoice-text-outline.svg": {
+      "tag": "icon-invoice-text-outline",
+      "digest": "e9be3adc0206f5707d74e8f947fb96cc24baae5e43fb14a70f2b89d8b81f51ed",
+      "type": "add"
+    },
+    "invoice-text-plus-outline.svg": {
+      "tag": "icon-invoice-text-plus-outline",
+      "digest": "047213a2c091a8856a83ae2a22497a05fe8af3c2a3ce1e198415475de3dd0095",
+      "type": "add"
+    },
+    "invoice-text-plus.svg": {
+      "tag": "icon-invoice-text-plus",
+      "digest": "a0f026fa61f8e1e6229bb63c62781f2262635a7b7f41d821771441c503616edb",
+      "type": "add"
+    },
+    "invoice-text-remove-outline.svg": {
+      "tag": "icon-invoice-text-remove-outline",
+      "digest": "4099c1cea554f6588843201a5bd38414d669399ce353c1b846022a5869aac21d",
+      "type": "add"
+    },
+    "invoice-text-remove.svg": {
+      "tag": "icon-invoice-text-remove",
+      "digest": "975c71ee1fc28eb7a97fbe64f61996527244c87d234244ebb45e3e78567a2122",
+      "type": "add"
+    },
+    "invoice-text-send-outline.svg": {
+      "tag": "icon-invoice-text-send-outline",
+      "digest": "8dcacfff768b8d3eb7f03912957ccecbfaf221e15981113156fba57a3d993601",
+      "type": "add"
+    },
+    "invoice-text-send.svg": {
+      "tag": "icon-invoice-text-send",
+      "digest": "c18aa24dbbd89b076bed66b53b0e7517d57669acf0bfb39fc591d278325da881",
+      "type": "add"
+    },
+    "invoice-text.svg": {
+      "tag": "icon-invoice-text",
+      "digest": "7ba28d9d33fa72d7aaa9c52002c12a5493124a180f9c0ccc988d250a163dbd3f",
+      "type": "add"
+    },
+    "invoice.svg": {
+      "tag": "icon-invoice",
+      "digest": "90041d44f3b1e45707ea612d917842fbb2f96da55d2df095666eb7bb00cd265c",
+      "type": "add"
+    },
+    "mouse-left-click-outline.svg": {
+      "tag": "icon-mouse-left-click-outline",
+      "digest": "2ea3bcdd6bdef7593484d2b8fc70cf392695b105ab58ccf3d4cba5d61ec9df21",
+      "type": "add"
+    },
+    "mouse-left-click.svg": {
+      "tag": "icon-mouse-left-click",
+      "digest": "10576884ca5d18fa907b26771db0424ebb56ecc8b480a3812d2d2d9e3635fb92",
+      "type": "add"
+    },
+    "mouse-outline.svg": {
+      "tag": "icon-mouse-outline",
+      "digest": "136bd067ac12d69c4b97d55cd5b74b40c7762b0c367d38d575f48ae0f1b0cba9",
+      "type": "add"
+    },
+    "mouse-right-click-outline.svg": {
+      "tag": "icon-mouse-right-click-outline",
+      "digest": "0c5a6179dd1fab83af95e5f808c7c1bd0613336a741e81e0f316cb8f93054033",
+      "type": "add"
+    },
+    "mouse-right-click.svg": {
+      "tag": "icon-mouse-right-click",
+      "digest": "0dc31d67e9922344ff91b1da5b84b205c7a8ebbdbd6ea1157283bfa54e30334e",
+      "type": "add"
+    },
+    "mouse-scroll-wheel.svg": {
+      "tag": "icon-mouse-scroll-wheel",
+      "digest": "9f1c09480d884a840dc3b79c3dd90c2cab582b75b851c6645e74676ec1dd4708",
+      "type": "add"
+    },
+    "progress-tag.svg": {
+      "tag": "icon-progress-tag",
+      "digest": "0beff6d0476b0d5399173d59621ac8c43aaa94297fa930d7cc5ac4b6b720f66e",
+      "type": "add"
+    },
+    "swap-horizontal-hidden.svg": {
+      "tag": "icon-swap-horizontal-hidden",
+      "digest": "3a250f58ea29eec97621bb1a59eb2bb495ffdb0259ee1fb0c9fd2911f79d7122",
+      "type": "add"
+    },
+    "underwear-outline.svg": {
+      "tag": "icon-underwear-outline",
+      "digest": "cf8f46263ae10aed7e58d5e025a908c2b8f07da98390c3a9456dcacce6a5c48a",
+      "type": "add"
+    },
+    "upload-box.svg": {
+      "tag": "icon-upload-box",
+      "digest": "e4f5d1facb7e8a9d25cf3ba20e03698ffd26fcfb5c97fb84cc7f011ff051c43f",
+      "type": "add"
+    },
+    "upload-box-outline.svg": {
+      "tag": "icon-upload-box-outline",
+      "digest": "5eb208f0317bd2da3b57ae50377cfde80bf065faf606acfc2d2937fb82e4885f",
+      "type": "add"
+    },
+    "upload-circle-outline.svg": {
+      "tag": "icon-upload-circle-outline",
+      "digest": "1428845f298a90c1602a1d65e96f64fb8f5796c115b2d268f14716f4b9a5fa13",
+      "type": "add"
+    },
+    "upload-circle.svg": {
+      "tag": "icon-upload-circle",
+      "digest": "d28169d59c840a0d7bb88ee2c6b3102dc3233a4041ba0f5aa7a215972393c89f",
+      "type": "add"
+    },
+    "upload-multiple-outline.svg": {
+      "tag": "icon-upload-multiple-outline",
+      "digest": "0ef55c0562eb006d38903e03fdcf68131bcd3aea16c18bc636cbe8f908bcc6a1",
+      "type": "add"
+    },
+    "weather-moonset-up.svg": {
+      "tag": "icon-weather-moonset-up",
+      "digest": "b16c510b6dee1b7afa16a28a068d970a24427c1dd8d849021fa34f23ede4d2a4",
+      "type": "add"
+    },
+    "weather-moonset-down.svg": {
+      "tag": "icon-weather-moonset-down",
+      "digest": "8eccb67776c3888fffed0b6f543ba31a19c2680c63a420f7f3d09ea812a9264a",
+      "type": "add"
+    },
+    "weather-moonset.svg": {
+      "tag": "icon-weather-moonset",
+      "digest": "333a80dee8399621b375a7162d1b22eca60b0f57975875700ae7d079f5b9595c",
+      "type": "add"
     }
   }
 }
