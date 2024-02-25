@@ -25,6 +25,7 @@ The icons packages of the TiniJS framework.
     - [8. Heroicons](#8-heroicons)
       - [Solid](#solid-1)
       - [Outline](#outline)
+    - [9. Tabler](#9-tabler)
   - [Development](#development)
     - [Setup](#setup)
     - [Build \& publish](#build--publish)
@@ -136,6 +137,12 @@ The icons packages of the TiniJS framework.
 
 - Install: `npm i @tinijs/hero-outline-icons`
 - Usage detail: <https://ui.tinijs.dev/icons/hero-outline>
+
+### 9. Tabler
+
+- Install: `npm i @tinijs/tabler-icons`
+- Usage detail: <https://ui.tinijs.dev/icons/tabler>
+- License: **MIT** - [Github](https://github.com/tabler/tabler-icons)
 
 ## Development
 
