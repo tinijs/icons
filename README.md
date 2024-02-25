@@ -30,6 +30,10 @@ The icons packages of the TiniJS framework.
     - [11. Simple](#11-simple)
     - [12. Line Awesome](#12-line-awesome)
     - [13. css.gg](#13-cssgg)
+    - [14. boxicons](#14-boxicons)
+      - [Logos](#logos)
+      - [Regular](#regular-1)
+      - [Solid](#solid-2)
   - [Development](#development)
     - [Setup](#setup)
     - [Build \& publish](#build--publish)
@@ -171,6 +175,25 @@ The icons packages of the TiniJS framework.
 - Install: `npm i @tinijs/cssgg-icons`
 - Usage detail: <https://ui.tinijs.dev/icons/cssgg>
 - License: **MIT** - [Github](https://github.com/astrit/css.gg)
+
+### 14. boxicons
+
+- License: **CC BY 4.0** - [Github](https://github.com/atisawd/boxicons)
+
+#### Logos
+
+- Install: `npm i @tinijs/box-logos-icons`
+- Usage detail: <https://ui.tinijs.dev/icons/box-logos>
+
+#### Regular
+
+- Install: `npm i @tinijs/box-regular-icons`
+- Usage detail: <https://ui.tinijs.dev/icons/box-regular>
+
+#### Solid
+
+- Install: `npm i @tinijs/box-solid-icons`
+- Usage detail: <https://ui.tinijs.dev/icons/box-solid>
 
 ## Development
 

@@ -3,3 +3,9 @@
 node_modules
 build
 dist
+hooks/**/*.js
+src/**/*.js
+test/**/*.js
+*.map
+*.d.ts
+*.tgz

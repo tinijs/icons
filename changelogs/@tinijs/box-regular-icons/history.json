@@ -1,0 +1,4075 @@
+{
+  "version": "0.16.0",
+  "records": {
+    "bx-abacus.svg": {
+      "tag": "icon-abacus",
+      "digest": "49aeb09d1fb3392c7765ba2cbdcc96f236d0f6704ad5f4e736ed1fdc7665ec3d",
+      "type": "add"
+    },
+    "bx-accessibility.svg": {
+      "tag": "icon-accessibility",
+      "digest": "de4ab2b9938d02bc5beb6c6c223738a9567137ef4ef0427ee85a587e3308cd5a",
+      "type": "add"
+    },
+    "bx-add-to-queue.svg": {
+      "tag": "icon-add-to-queue",
+      "digest": "d8c99cc76f84624bab3834374560f857bd51d62064a9df1f9126a2d1a4632ecd",
+      "type": "add"
+    },
+    "bx-adjust.svg": {
+      "tag": "icon-adjust",
+      "digest": "20062b5b687d495e21d39424cf8395742df50773d44fb17c855c3537ed482a8f",
+      "type": "add"
+    },
+    "bx-alarm-add.svg": {
+      "tag": "icon-alarm-add",
+      "digest": "57fcd795cd8fe674df8b2250606c78be85f9897af669d5d43332b3ac118852de",
+      "type": "add"
+    },
+    "bx-alarm-exclamation.svg": {
+      "tag": "icon-alarm-exclamation",
+      "digest": "e9f0e0c203c77ee184b75bcd1de965f75b0764d14aea5f9fd4180b76c3c119ce",
+      "type": "add"
+    },
+    "bx-alarm-off.svg": {
+      "tag": "icon-alarm-off",
+      "digest": "c4207c5250db3a61c3001b564f45d981605443e99416600897ad05cfb23dea29",
+      "type": "add"
+    },
+    "bx-alarm-snooze.svg": {
+      "tag": "icon-alarm-snooze",
+      "digest": "3c76db18cd6fd61d88e746934c00bafdca2c7c1a661bcc68ad66932b77e20d55",
+      "type": "add"
+    },
+    "bx-alarm.svg": {
+      "tag": "icon-alarm",
+      "digest": "ee34196256614f8a81eefaaff01a01dde6d8591c4d709b19177dc8184fef776a",
+      "type": "add"
+    },
+    "bx-album.svg": {
+      "tag": "icon-album",
+      "digest": "9d88055bd692f4f065e885e8fe4e5c177efae71ab3cc3f1b38da765b14221231",
+      "type": "add"
+    },
+    "bx-align-justify.svg": {
+      "tag": "icon-align-justify",
+      "digest": "dc2a6610456ba1750980a54fc2df21d4e8abe14ac9c0a718aba4635ef32e4e22",
+      "type": "add"
+    },
+    "bx-align-left.svg": {
+      "tag": "icon-align-left",
+      "digest": "6eafc5da697ab909d825e786ae03d70e0c8a3badef266c8d85f97d218f1b1522",
+      "type": "add"
+    },
+    "bx-align-middle.svg": {
+      "tag": "icon-align-middle",
+      "digest": "225418a044c511f48fb5283dbbbed1dc223c8f4357c972b09273b88a2826845a",
+      "type": "add"
+    },
+    "bx-analyse.svg": {
+      "tag": "icon-analyse",
+      "digest": "bf84535d793b14e3a54625a0f64cb47f28532413b8c396b6cc880bc6ee9efe08",
+      "type": "add"
+    },
+    "bx-align-right.svg": {
+      "tag": "icon-align-right",
+      "digest": "ba8a3b313a7af15bdfa25ad2f6785adcb25c8041e959e079cd88c456cf62de5b",
+      "type": "add"
+    },
+    "bx-angry.svg": {
+      "tag": "icon-angry",
+      "digest": "d2e8eaec8daf2a24ad5f488efbc498a175824e78518e9df149b4dbe60ccaf616",
+      "type": "add"
+    },
+    "bx-aperture.svg": {
+      "tag": "icon-aperture",
+      "digest": "644c97bc2f56c7361d32c50b56a565e61ea203a22cbdc89f0b3cc3169c8abf81",
+      "type": "add"
+    },
+    "bx-arch.svg": {
+      "tag": "icon-arch",
+      "digest": "ef9de4621108494073a5c5141fb13a9a278b85762d166adb28a49ec409020984",
+      "type": "add"
+    },
+    "bx-archive-in.svg": {
+      "tag": "icon-archive-in",
+      "digest": "d3458b402010f150a5d5add9c4a9f89d94526b4e4ee57f3154345a4c525d0ccc",
+      "type": "add"
+    },
+    "bx-archive-out.svg": {
+      "tag": "icon-archive-out",
+      "digest": "9b8f9b8ffa3464abe025f1c8ff2891a8f7eaeafbb8650290edcc528c206142b3",
+      "type": "add"
+    },
+    "bx-arrow-back.svg": {
+      "tag": "icon-arrow-back",
+      "digest": "ed9f7cfe0efdfced7492e2a5a8e77e1b350aa09417a5af914ddd9585f1aca952",
+      "type": "add"
+    },
+    "bx-area.svg": {
+      "tag": "icon-area",
+      "digest": "ec6eab660abf08732b1cb58149c39dd2b4d67d78031af77343d144874fe17e45",
+      "type": "add"
+    },
+    "bx-archive.svg": {
+      "tag": "icon-archive",
+      "digest": "7fcb31f27ea26beaba04d82014a885566d10dc99079e44209fbe77cef6b7c0fb",
+      "type": "add"
+    },
+    "bx-arrow-from-bottom.svg": {
+      "tag": "icon-arrow-from-bottom",
+      "digest": "489c0e430bbc6efa63d7a6ed752266ed444ebd85f299bfbeec69c14061c283db",
+      "type": "add"
+    },
+    "bx-anchor.svg": {
+      "tag": "icon-anchor",
+      "digest": "9467d0ab28e7ad8b5555a2eacf6f779e666cd248d68e74d36986078872b36b73",
+      "type": "add"
+    },
+    "bx-arrow-from-left.svg": {
+      "tag": "icon-arrow-from-left",
+      "digest": "b2b161ad16de0c31565caa8e4ebe1e95a89f3bac6f72384fe8ff0990d534de37",
+      "type": "add"
+    },
+    "bx-arrow-from-right.svg": {
+      "tag": "icon-arrow-from-right",
+      "digest": "70831a3218869cb52d571de94ea0585d1f03d9c185f599ff95c8f523061791cc",
+      "type": "add"
+    },
+    "bx-arrow-from-top.svg": {
+      "tag": "icon-arrow-from-top",
+      "digest": "bd07218fc6287a54b2d6d14569e2771b253982e73ae5ebc489979140a910eea3",
+      "type": "add"
+    },
+    "bx-arrow-to-left.svg": {
+      "tag": "icon-arrow-to-left",
+      "digest": "7f223b223279a264d56e52b1c926d8fdd0c72760e798f547205318536711514e",
+      "type": "add"
+    },
+    "bx-arrow-to-right.svg": {
+      "tag": "icon-arrow-to-right",
+      "digest": "7acde833df9eeac0fbba18668390776a81072512c22a8054ecc430c9e4a714f2",
+      "type": "add"
+    },
+    "bx-arrow-to-bottom.svg": {
+      "tag": "icon-arrow-to-bottom",
+      "digest": "1f612cf588635091c8502a4c4189934a688ca4928af09d210712ecdaaffac5d7",
+      "type": "add"
+    },
+    "bx-arrow-to-top.svg": {
+      "tag": "icon-arrow-to-top",
+      "digest": "2f70822e4fd3c72102e59d166ec7223177aedaf1dc9c3553ba9ccfd4a29c40bf",
+      "type": "add"
+    },
+    "bx-at.svg": {
+      "tag": "icon-at",
+      "digest": "3c9fd98329ea69f071607b5516594634bd27a1fce5e2c9aa031ae0cd5799ed44",
+      "type": "add"
+    },
+    "bx-atom.svg": {
+      "tag": "icon-atom",
+      "digest": "22d62e613f86487dc150531af419039ed3e778013c1abd580ad48d1a859778f8",
+      "type": "add"
+    },
+    "bx-award.svg": {
+      "tag": "icon-award",
+      "digest": "f6ceef0381a2cb651392a2e494f100bca2328a247f295ba8104a08df2a3658b5",
+      "type": "add"
+    },
+    "bx-baguette.svg": {
+      "tag": "icon-baguette",
+      "digest": "0e8f3b3e12ecced9b01f280da03c70a4ca41e0381d3bd3410a9ea960b4ba40cc",
+      "type": "add"
+    },
+    "bx-badge.svg": {
+      "tag": "icon-badge",
+      "digest": "5f294245cdc7ee51476197dd69eef533f12fa386030d87baa99731bc09571369",
+      "type": "add"
+    },
+    "bx-badge-check.svg": {
+      "tag": "icon-badge-check",
+      "digest": "b03791e898f5d3b81176db15423d9f6e5054a8b945a3a31393aca94cf218a33e",
+      "type": "add"
+    },
+    "bx-bar-chart-alt.svg": {
+      "tag": "icon-bar-chart-alt",
+      "digest": "82b11d071aec3539cb766c7dce1309e6ab0c40cc086ecf0d8852f4723b2909dc",
+      "type": "add"
+    },
+    "bx-band-aid.svg": {
+      "tag": "icon-band-aid",
+      "digest": "82f1f551c4afb9e8b70ca0b4a94f3ee87e58abb1fbdfe4d0037aa3e63edd9eb6",
+      "type": "add"
+    },
+    "bx-bar-chart-alt-2.svg": {
+      "tag": "icon-bar-chart-alt-2",
+      "digest": "29d338b13da8bfd998f5268df7bbbea6a3686136d4e5b5e154dff8ac2ebc13f5",
+      "type": "add"
+    },
+    "bx-ball.svg": {
+      "tag": "icon-ball",
+      "digest": "7ead0d2533f1d844186a1983d4152bfa15f347150152af25e51394b23f6d5d4b",
+      "type": "add"
+    },
+    "bx-bar-chart-square.svg": {
+      "tag": "icon-bar-chart-square",
+      "digest": "b1a7d9fca87b3fc4694ec6b11ad1acdbf21f0049599527f174833a4167cc4494",
+      "type": "add"
+    },
+    "bx-barcode-reader.svg": {
+      "tag": "icon-barcode-reader",
+      "digest": "7d65a0aa8f7627185273209decb6e46aef171d2f188049e4a540f6a280196252",
+      "type": "add"
+    },
+    "bx-bar-chart.svg": {
+      "tag": "icon-bar-chart",
+      "digest": "4a18004b25b78827497e2bdd1dbaf9a4d9b496680a44995a776a10245b5dc31e",
+      "type": "add"
+    },
+    "bx-barcode.svg": {
+      "tag": "icon-barcode",
+      "digest": "a578c7e74c2be32890937383f14d12a59f7cd435c9e90d2b96b4fac9b32e6861",
+      "type": "add"
+    },
+    "bx-baseball.svg": {
+      "tag": "icon-baseball",
+      "digest": "a77954c2ab499cf5c5979c8e6c691d35940028a85e34eda7a0ee84b6fe5338db",
+      "type": "add"
+    },
+    "bx-basket.svg": {
+      "tag": "icon-basket",
+      "digest": "5b27b04d66f4470f63f2b7c95a5b10cffb2fa50cd3ab5d9c3ec5ecaeea8746ee",
+      "type": "add"
+    },
+    "bx-basketball.svg": {
+      "tag": "icon-basketball",
+      "digest": "f43035f285970c811b486e7b8bccfc43b8b9ddc69d58cf3cef2404712f20b8f2",
+      "type": "add"
+    },
+    "bx-bath.svg": {
+      "tag": "icon-bath",
+      "digest": "b63d5681fae3804454ea8b94f376e73341c5a142cfbfdea316b0a029d7992432",
+      "type": "add"
+    },
+    "bx-been-here.svg": {
+      "tag": "icon-been-here",
+      "digest": "d9ad076c6a559a3cc44140a3757d55d586e8a21b48a3ce0e7358d77f2665655e",
+      "type": "add"
+    },
+    "bx-bed.svg": {
+      "tag": "icon-bed",
+      "digest": "720ca6bc727df3504111549c4792870b3d8db1e9117a897c203ec59f1bc49b0a",
+      "type": "add"
+    },
+    "bx-battery.svg": {
+      "tag": "icon-battery",
+      "digest": "e01041ee24ecbda9562e69404f35d9078cb34faf8905d51a9385d8b60af90523",
+      "type": "add"
+    },
+    "bx-beer.svg": {
+      "tag": "icon-beer",
+      "digest": "556963a98e901bb6d0bcccaf151aad081c8c1c1f1b6f3ec016dfe2b52284f116",
+      "type": "add"
+    },
+    "bx-bell-plus.svg": {
+      "tag": "icon-bell-plus",
+      "digest": "82c74164fec209f3bc3cde4a47249090784f3129f45a529e550e57af526a5d9a",
+      "type": "add"
+    },
+    "bx-bell-minus.svg": {
+      "tag": "icon-bell-minus",
+      "digest": "a1a04ce0bb1ca167e14b808deea4b68a02dc342ea45064a78db82218257d01e4",
+      "type": "add"
+    },
+    "bx-bell-off.svg": {
+      "tag": "icon-bell-off",
+      "digest": "5c0a4454d01c98785b8f71068f12da6429f190b9abb29ddb81b488bde2ecec5b",
+      "type": "add"
+    },
+    "bx-bell.svg": {
+      "tag": "icon-bell",
+      "digest": "3c0d9ef3beef5f7d5d06e7135a279ec5c2d4b4df615755db26eea3be61ca75d7",
+      "type": "add"
+    },
+    "bx-blanket.svg": {
+      "tag": "icon-blanket",
+      "digest": "eb8c7d314586c344822c25c637788b574b1c426edd2460fadfc9bc29fc35600b",
+      "type": "add"
+    },
+    "bx-bitcoin.svg": {
+      "tag": "icon-bitcoin",
+      "digest": "c578542c823bd0506d29eef05a78f0694a4d2a36d8043a14c305cb15c6f61813",
+      "type": "add"
+    },
+    "bx-bible.svg": {
+      "tag": "icon-bible",
+      "digest": "05630509398d96897092ab463124d66d785b87d4459fae7a43ae74ed3f5044fc",
+      "type": "add"
+    },
+    "bx-bluetooth.svg": {
+      "tag": "icon-bluetooth",
+      "digest": "7c520ea121135014c937b48a98a850f438165ca9e4ff399b35b167c8df333896",
+      "type": "add"
+    },
+    "bx-bold.svg": {
+      "tag": "icon-bold",
+      "digest": "384ab9fc10d439c24f83621c8963f4d70863d269f6da3e4de09608c002b044b8",
+      "type": "add"
+    },
+    "bx-body.svg": {
+      "tag": "icon-body",
+      "digest": "ed3a2712bd66949f40d785cf648587a991f0d167e8c27e57752d49148c02a7c5",
+      "type": "add"
+    },
+    "bx-block.svg": {
+      "tag": "icon-block",
+      "digest": "b63667a7ce817f10ec19a14056a5814611b1a18432958fcf743febd6a3501f9d",
+      "type": "add"
+    },
+    "bx-bomb.svg": {
+      "tag": "icon-bomb",
+      "digest": "4a9e95e81ff6495af2ace6f461eaf56ea95f9fc108aa823cce6208f9844057cb",
+      "type": "add"
+    },
+    "bx-bolt-circle.svg": {
+      "tag": "icon-bolt-circle",
+      "digest": "ba17fb599aa23bf7c47fbb6a8e9901760f368946bd68554e8679d62a9d5fe588",
+      "type": "add"
+    },
+    "bx-book-add.svg": {
+      "tag": "icon-book-add",
+      "digest": "5d452d355a22bf69a1b05ef1b3571b9b58e8c4576640d5f36ed8696451c82585",
+      "type": "add"
+    },
+    "bx-bone.svg": {
+      "tag": "icon-bone",
+      "digest": "439379695ca6428b5e88adf8aa8d365f10723296d4215d7241fb4fe47053fedd",
+      "type": "add"
+    },
+    "bx-bong.svg": {
+      "tag": "icon-bong",
+      "digest": "227d27f4c70f253d3e86bd2f7d01cc2bd3bbb9c685b882c7495fa95b924764f7",
+      "type": "add"
+    },
+    "bx-book-content.svg": {
+      "tag": "icon-book-content",
+      "digest": "e8b2946a002cd3971949da9fb49893312fc2c07dae96e2bcca787f40c41e6ab6",
+      "type": "add"
+    },
+    "bx-book-alt.svg": {
+      "tag": "icon-book-alt",
+      "digest": "737e5b39de9dee97b8e6414345cfe8d075de6e98d3c39f6078eda0318a1e5d89",
+      "type": "add"
+    },
+    "bx-book-bookmark.svg": {
+      "tag": "icon-book-bookmark",
+      "digest": "fa42208d58419b9d02d1f83351cdce383ca1f7dc9ae699dac240e2b09a5f1bff",
+      "type": "add"
+    },
+    "bx-book-heart.svg": {
+      "tag": "icon-book-heart",
+      "digest": "6172b1db0da9dad1953ac2e235a5d973efbb3255a5ddda46b9168d4278608440",
+      "type": "add"
+    },
+    "bx-book.svg": {
+      "tag": "icon-book",
+      "digest": "25f07ade3d808e6676e849f06a66f585f1c5347eb2da2ce22c26e083e37276ff",
+      "type": "add"
+    },
+    "bx-book-open.svg": {
+      "tag": "icon-book-open",
+      "digest": "364a8f8ca9ce31895e918c461facea55def5a1dbbe00761ddd9c5b3fb0f206c1",
+      "type": "add"
+    },
+    "bx-book-reader.svg": {
+      "tag": "icon-book-reader",
+      "digest": "07212d77aa4fae6128df498b8b4c883405b1aab012c5df28650a59eccae87e79",
+      "type": "add"
+    },
+    "bx-bookmark-alt-minus.svg": {
+      "tag": "icon-bookmark-alt-minus",
+      "digest": "34314992641e8eb6d8779b84de790e1d721811dce269d67a703291c581f1c90f",
+      "type": "add"
+    },
+    "bx-bookmark-heart.svg": {
+      "tag": "icon-bookmark-heart",
+      "digest": "b8ede0d1c249bed884200ec7c299d1157c5f2743595933cc694b655660b711b5",
+      "type": "add"
+    },
+    "bx-bookmark-alt-plus.svg": {
+      "tag": "icon-bookmark-alt-plus",
+      "digest": "f8f7550d9287aa34975fb21ed7453f750273a69524e49ffe03bb404129e4012b",
+      "type": "add"
+    },
+    "bx-bookmark-alt.svg": {
+      "tag": "icon-bookmark-alt",
+      "digest": "76009407df486fc9548367415bbdf9a783fa86eb11acba15acfe1b3f7fc414e9",
+      "type": "add"
+    },
+    "bx-bookmark-minus.svg": {
+      "tag": "icon-bookmark-minus",
+      "digest": "d270098b9363c7cc742be948f568e212e7bea721c1e9f98671fb65728aa81e9d",
+      "type": "add"
+    },
+    "bx-bookmark-plus.svg": {
+      "tag": "icon-bookmark-plus",
+      "digest": "0871af9824cd24a1290feb5f19beeac1abbb70a44515492ab4de4d49d29c4435",
+      "type": "add"
+    },
+    "bx-bookmarks.svg": {
+      "tag": "icon-bookmarks",
+      "digest": "ec413616857958d07fcacdb050028573011fa46d4c8dfad08e4a89faf344b816",
+      "type": "add"
+    },
+    "bx-bookmark.svg": {
+      "tag": "icon-bookmark",
+      "digest": "475dedb0ec83294e6c37ac32e5d2c03593b1dc962e7fa79487ef9282ab12e6d9",
+      "type": "add"
+    },
+    "bx-border-left.svg": {
+      "tag": "icon-border-left",
+      "digest": "6a2527fd0fa6735317658dad5ca302fa0f68caeb83444000d14680e9aa6534af",
+      "type": "add"
+    },
+    "bx-border-none.svg": {
+      "tag": "icon-border-none",
+      "digest": "f18b404993c56d557e0a02e53f384bf9c320cdde3b626179aa31d2e1617e9c36",
+      "type": "add"
+    },
+    "bx-border-outer.svg": {
+      "tag": "icon-border-outer",
+      "digest": "cafb4418534fcaa9ade14088646ad01639f8273111325bba300dce167a826b22",
+      "type": "add"
+    },
+    "bx-border-radius.svg": {
+      "tag": "icon-border-radius",
+      "digest": "df7b3e8085a2762b3dfb263a998488c1e620b908152f828d0aa582349324abea",
+      "type": "add"
+    },
+    "bx-border-bottom.svg": {
+      "tag": "icon-border-bottom",
+      "digest": "fc12792139d9676bc2652f78084d46fa29fc9934c69719ed13d9d37fb9460e03",
+      "type": "add"
+    },
+    "bx-border-inner.svg": {
+      "tag": "icon-border-inner",
+      "digest": "eddc99a312a09b66346ce052ef581e2c52c79e15388c615b7a32f24783c34acc",
+      "type": "add"
+    },
+    "bx-border-all.svg": {
+      "tag": "icon-border-all",
+      "digest": "15f9371f9be0a5bcb92aeea989154432ebd671bf0490fd829c680728b7cc6550",
+      "type": "add"
+    },
+    "bx-border-right.svg": {
+      "tag": "icon-border-right",
+      "digest": "d67008de141821eab7de9df5cb40cd27f44d1636bd58c6310a07abd7f0cbc459",
+      "type": "add"
+    },
+    "bx-bowl-rice.svg": {
+      "tag": "icon-bowl-rice",
+      "digest": "8019c8906692f11f3ea150d5011f382cc6f958819c07123d956560cf9d618c13",
+      "type": "add"
+    },
+    "bx-border-top.svg": {
+      "tag": "icon-border-top",
+      "digest": "1c65b0490361bddb34e66e81973107e792d24747ead9b70156b76a7acd242c7d",
+      "type": "add"
+    },
+    "bx-bot.svg": {
+      "tag": "icon-bot",
+      "digest": "3b5954f6c5ab3f1b9c43cc15ed58d62f39db125bd43f270f9b957285d8a5d594",
+      "type": "add"
+    },
+    "bx-bowling-ball.svg": {
+      "tag": "icon-bowling-ball",
+      "digest": "30f8f38dec183c4c80055ddd829d16de3680acffbafd00008a65b1da520bd650",
+      "type": "add"
+    },
+    "bx-bowl-hot.svg": {
+      "tag": "icon-bowl-hot",
+      "digest": "82caa3ae495bc4d7dcb8e3e36c4c22930b275721de657fb2d88ecef6771f2d49",
+      "type": "add"
+    },
+    "bx-brain.svg": {
+      "tag": "icon-brain",
+      "digest": "81ca4011e347a8ace009777e5ade6469075bac3ae303df42780f2f9b74818e89",
+      "type": "add"
+    },
+    "bx-bracket.svg": {
+      "tag": "icon-bracket",
+      "digest": "067f9b1439518f3ee817f9976a73b0d34134314bd1fdcb368674cfa0c27ea04e",
+      "type": "add"
+    },
+    "bx-box.svg": {
+      "tag": "icon-box",
+      "digest": "ebedf8decf1bd523508d47a9f3960c238240e75f57bcfe50d9a1dac321af49a9",
+      "type": "add"
+    },
+    "bx-braille.svg": {
+      "tag": "icon-braille",
+      "digest": "021c89fb554959639d47ab8d5c11b6fd7fac46cf130b7160b2941a7a15cc5699",
+      "type": "add"
+    },
+    "bx-brightness-half.svg": {
+      "tag": "icon-brightness-half",
+      "digest": "13d9579344414de10b5ed7577da81e4c8b329f56d4ed5f6a435325fc1bf44d58",
+      "type": "add"
+    },
+    "bx-briefcase.svg": {
+      "tag": "icon-briefcase",
+      "digest": "cd2064a3e4ed924e31a6304a2fc4a12b04a2075c0174a1c34ec31ebcf3f9d32d",
+      "type": "add"
+    },
+    "bx-briefcase-alt-2.svg": {
+      "tag": "icon-briefcase-alt-2",
+      "digest": "b0071c42ad4128c4d503e36fd09988937766486eff7124e6ddde832e18141b12",
+      "type": "add"
+    },
+    "bx-briefcase-alt.svg": {
+      "tag": "icon-briefcase-alt",
+      "digest": "47cd9989dff7124a1641a6f8de28ec3ab4c7c3ed401c0650d92a9119b6672042",
+      "type": "add"
+    },
+    "bx-brush.svg": {
+      "tag": "icon-brush",
+      "digest": "ba76392840152e41c457575978361ca9514a920d745bc3ec0a5a1b9f7f10dca2",
+      "type": "add"
+    },
+    "bx-broadcast.svg": {
+      "tag": "icon-broadcast",
+      "digest": "8fd7561bab6bf22448e32eda11b39cffd1008058c7dd3fc88a67e5ca1bdd3650",
+      "type": "add"
+    },
+    "bx-brightness.svg": {
+      "tag": "icon-brightness",
+      "digest": "3c568d6bbb0fb233b04e681e4730d3daed31d3c3f1748133df76db113d005cd9",
+      "type": "add"
+    },
+    "bx-brush-alt.svg": {
+      "tag": "icon-brush-alt",
+      "digest": "68ff4bcf3bf64e60bed0ee9c2fb9400ff044e42edad433b1a609d6d5c9c244e1",
+      "type": "add"
+    },
+    "bx-bug-alt.svg": {
+      "tag": "icon-bug-alt",
+      "digest": "627361c786bec7cdc0119299975587498b54b35d4d53b54fc4f50ebd5253b0c2",
+      "type": "add"
+    },
+    "bx-bug.svg": {
+      "tag": "icon-bug",
+      "digest": "cfdee75b6df34f5434a09e6280d7d5bfa81b8ab2767d88f6c9970045bd3ab4ba",
+      "type": "add"
+    },
+    "bx-building-house.svg": {
+      "tag": "icon-building-house",
+      "digest": "7732c0d32cfde2813a810eaf9e80148490891b0e4fcc6849c915c7d2c12298d8",
+      "type": "add"
+    },
+    "bx-bulb.svg": {
+      "tag": "icon-bulb",
+      "digest": "0a17e4c5673a87091b4ce9661fe1cadb76671b6dac3cc3854556c20110a85e4d",
+      "type": "add"
+    },
+    "bx-building.svg": {
+      "tag": "icon-building",
+      "digest": "b5aff79c71a6d336c2d9a9e340be54678a347df03f8ce758781da459a1626d13",
+      "type": "add"
+    },
+    "bx-buildings.svg": {
+      "tag": "icon-buildings",
+      "digest": "2fdcbd5bdb1b067890cf6c53a711f68355b7fb50ecd3ef51c2582fb4de8a038b",
+      "type": "add"
+    },
+    "bx-bullseye.svg": {
+      "tag": "icon-bullseye",
+      "digest": "c5e4375fbe232f4220d8e70f96412736dd8ca0ef71b0a9f08c21d46ac062e590",
+      "type": "add"
+    },
+    "bx-buoy.svg": {
+      "tag": "icon-buoy",
+      "digest": "610d39bcb0eee463c02f5ca0ffedf43543307ed0c6c64a2b13d7f3ef2fe4386d",
+      "type": "add"
+    },
+    "bx-bus.svg": {
+      "tag": "icon-bus",
+      "digest": "36acba19b8508338c5660b8921f92412f92746a9edfcdb3dd097b97138306e6b",
+      "type": "add"
+    },
+    "bx-bus-school.svg": {
+      "tag": "icon-bus-school",
+      "digest": "98db5cab01cc9f85ed99f79a67686ddaaaebf50b7109935c7fffe950e5a283f0",
+      "type": "add"
+    },
+    "bx-cable-car.svg": {
+      "tag": "icon-cable-car",
+      "digest": "396c5e8b9a94136dd1fbb2bc5679936dd09ab80051cc832d3cd3204b3f27bc23",
+      "type": "add"
+    },
+    "bx-cabinet.svg": {
+      "tag": "icon-cabinet",
+      "digest": "4df3a2dae71269f6b9cde26a3c77579e1cbc48647c85178460b45286a3b2a9ab",
+      "type": "add"
+    },
+    "bx-cake.svg": {
+      "tag": "icon-cake",
+      "digest": "f95b96eeb381d60087118cbd9b88222b6ae3ed12f479c9fe25f37a43952f75b9",
+      "type": "add"
+    },
+    "bx-calculator.svg": {
+      "tag": "icon-calculator",
+      "digest": "b5955800bf5c02d20cd80ca5ea349289b9f0d6106348476b777974b4cf124703",
+      "type": "add"
+    },
+    "bx-calendar-check.svg": {
+      "tag": "icon-calendar-check",
+      "digest": "54cc8edd6f2d11aa2e2d489eb47c652198875edf255e570bc2595dab9bc78c99",
+      "type": "add"
+    },
+    "bx-calendar-edit.svg": {
+      "tag": "icon-calendar-edit",
+      "digest": "bb43a362cdc477b5ddeb3cbce68d33a2bcf6e499c2b67b94e24b6454833327bf",
+      "type": "add"
+    },
+    "bx-calendar-alt.svg": {
+      "tag": "icon-calendar-alt",
+      "digest": "06c766a7525b8282f4a44e5637c8e07096b5b80b6831a5a742f1adb90f94d1a3",
+      "type": "add"
+    },
+    "bx-calendar-event.svg": {
+      "tag": "icon-calendar-event",
+      "digest": "3f9025f85169d2aeda21897fefbc998497e0c033d31d8f6cbaffa75ca6181514",
+      "type": "add"
+    },
+    "bx-calendar-exclamation.svg": {
+      "tag": "icon-calendar-exclamation",
+      "digest": "a926058c1f4bcfc80eceba2434c8df9277d182efa3ffa61f85008366a79680d5",
+      "type": "add"
+    },
+    "bx-calendar-minus.svg": {
+      "tag": "icon-calendar-minus",
+      "digest": "ad88dd64bdc21dd5b89b909ff78843e69c670278ba0b0d639b9bae3066f15b62",
+      "type": "add"
+    },
+    "bx-calendar-heart.svg": {
+      "tag": "icon-calendar-heart",
+      "digest": "1c8c36794e1af820fb36bb3a2967f6789363d14914065cc9c56a5144da58aa39",
+      "type": "add"
+    },
+    "bx-calendar-plus.svg": {
+      "tag": "icon-calendar-plus",
+      "digest": "a01040a77fbf7ff7c8a622401846e141881a04db5df5a1d31931cefebd78dfcf",
+      "type": "add"
+    },
+    "bx-calendar-x.svg": {
+      "tag": "icon-calendar-x",
+      "digest": "5b501628cc1a12696a10ddddb296020817eb8957e32337763e9409750f2e2b68",
+      "type": "add"
+    },
+    "bx-calendar-week.svg": {
+      "tag": "icon-calendar-week",
+      "digest": "14adf50b86503d8931db7a998d5748c13ba41d4caeaa061afc0b51245916eb68",
+      "type": "add"
+    },
+    "bx-calendar-star.svg": {
+      "tag": "icon-calendar-star",
+      "digest": "6ec995125a4e50b595c99ca064c48caf4ecd910c092d88669d4ddc7a8ac67acd",
+      "type": "add"
+    },
+    "bx-calendar.svg": {
+      "tag": "icon-calendar",
+      "digest": "027ff3080f4ebaff84d844b0f3ad6ff6e724c462db8bb8dac9593c623c446141",
+      "type": "add"
+    },
+    "bx-camera-home.svg": {
+      "tag": "icon-camera-home",
+      "digest": "c9fcf96688cc62e8e5c3b7197f43e76fe9879706fc5b12a73c9789fe0d5efae5",
+      "type": "add"
+    },
+    "bx-camera-movie.svg": {
+      "tag": "icon-camera-movie",
+      "digest": "0b1e9c20fab7f89cef1b0aa0192e4d692b2a75274dee814c9a5ea9d9d90a9fe8",
+      "type": "add"
+    },
+    "bx-camera.svg": {
+      "tag": "icon-camera",
+      "digest": "9d90f09b1c9d52920b1036b9a804cb16de3adb1699e5b373acac0a618de837d6",
+      "type": "add"
+    },
+    "bx-camera-off.svg": {
+      "tag": "icon-camera-off",
+      "digest": "ebce943998b27c8a667c95fd358f66ddc5c699bd05c36c53894ec81cad658521",
+      "type": "add"
+    },
+    "bx-candles.svg": {
+      "tag": "icon-candles",
+      "digest": "89642785b2bd42879f63398a8fc270f779503fa61d22f771f9c4b1c209d89daa",
+      "type": "add"
+    },
+    "bx-capsule.svg": {
+      "tag": "icon-capsule",
+      "digest": "a956e0c206615b396daf1e9981fdd5aca4b997b2d88f53c8e18819a22c9372dd",
+      "type": "add"
+    },
+    "bx-car.svg": {
+      "tag": "icon-car",
+      "digest": "f4b34659c92295a82c484cf03f8c73f3b3236792945e2d4b16033b8eafb8b537",
+      "type": "add"
+    },
+    "bx-captions.svg": {
+      "tag": "icon-captions",
+      "digest": "bc6a35bf9c70c1c4fea9fa12c4524a24fd1cb20b22597568ccd541a475058c39",
+      "type": "add"
+    },
+    "bx-caret-down-square.svg": {
+      "tag": "icon-caret-down-square",
+      "digest": "c42bdee38815f12b38ea94362a6bc816d4e46b6d78c43b210b7e063ab5aa24e3",
+      "type": "add"
+    },
+    "bx-card.svg": {
+      "tag": "icon-card",
+      "digest": "cff312330b7cab165f751724bcde2a976da14a68c42dd2308f9991294b92b96b",
+      "type": "add"
+    },
+    "bx-caret-down-circle.svg": {
+      "tag": "icon-caret-down-circle",
+      "digest": "45ddbfce000fa58002427d0f1d96cf1ad44bc5008dd65cf72d5d566733385c79",
+      "type": "add"
+    },
+    "bx-caret-down.svg": {
+      "tag": "icon-caret-down",
+      "digest": "7197cef81a447854310a7df7ab50e5c47c7c69a504c0cc573bc2d8dbace28c45",
+      "type": "add"
+    },
+    "bx-caret-left-circle.svg": {
+      "tag": "icon-caret-left-circle",
+      "digest": "f119121a02fb1ba797938cb1d5980fcd6337170c085faa7c211041a6534a0606",
+      "type": "add"
+    },
+    "bx-caret-left-square.svg": {
+      "tag": "icon-caret-left-square",
+      "digest": "e133ad7720ec0e3985dc46f43a92cbea5279219522305317e129fdea59c90565",
+      "type": "add"
+    },
+    "bx-caret-left.svg": {
+      "tag": "icon-caret-left",
+      "digest": "9946ec5150baefa49b9dc00c198039f36379ad2adeca96b2ae29d7215084a93c",
+      "type": "add"
+    },
+    "bx-caret-right-circle.svg": {
+      "tag": "icon-caret-right-circle",
+      "digest": "0aeeec2bde1fb7ed6aaccde274b575d6e25d22b6f0eb53273d9f344ffafce70b",
+      "type": "add"
+    },
+    "bx-caret-right-square.svg": {
+      "tag": "icon-caret-right-square",
+      "digest": "acd04929c43c08f0dccfb77ae07d4ee5177629dd6b7fcc727215464d5f4332cc",
+      "type": "add"
+    },
+    "bx-caret-right.svg": {
+      "tag": "icon-caret-right",
+      "digest": "3f4ca9d53c08b9fbdb31596e618dd33aeaf9a2890d261bc37789b9546dbba4cc",
+      "type": "add"
+    },
+    "bx-caret-up-circle.svg": {
+      "tag": "icon-caret-up-circle",
+      "digest": "6fd09173298de9d375068a1b8f75e283baae6e481e62b2724588ad77fe81ad93",
+      "type": "add"
+    },
+    "bx-caret-up-square.svg": {
+      "tag": "icon-caret-up-square",
+      "digest": "d9f88f5fea4caec9f49d5f192797b049ffe55943e39c7800dd9b13ddcdaaeb77",
+      "type": "add"
+    },
+    "bx-carousel.svg": {
+      "tag": "icon-carousel",
+      "digest": "d781c649253d93d0fde228b4bb3658f172e7a6c56a0dbc3c33bce9f623909138",
+      "type": "add"
+    },
+    "bx-cart-add.svg": {
+      "tag": "icon-cart-add",
+      "digest": "8c7ae0c7442392ad9543f99c202a22802bdeb710644061be10395284a0a517c1",
+      "type": "add"
+    },
+    "bx-caret-up.svg": {
+      "tag": "icon-caret-up",
+      "digest": "f0143394f9bc7a5c2c8e9f478920522f170b79a5224fab553aa077e100c925d2",
+      "type": "add"
+    },
+    "bx-cart-alt.svg": {
+      "tag": "icon-cart-alt",
+      "digest": "58157546e0fd7d36e6dbbf5908cca623d7fbbc6649fa9c609b95b130fc96fbc6",
+      "type": "add"
+    },
+    "bx-cart.svg": {
+      "tag": "icon-cart",
+      "digest": "a8f2b5f9ac4b6bade35d12c593501959317d57f11a23ad6a887589877e9c81d9",
+      "type": "add"
+    },
+    "bx-cart-download.svg": {
+      "tag": "icon-cart-download",
+      "digest": "751ff0ae9a6d4678953c50b11640447c5c043735d620a886debe6275f423e719",
+      "type": "add"
+    },
+    "bx-cast.svg": {
+      "tag": "icon-cast",
+      "digest": "8d4c20211b3b44b4d7eb6b49a3fc34f63e110e7808f986456868c7c50964a8a1",
+      "type": "add"
+    },
+    "bx-category.svg": {
+      "tag": "icon-category",
+      "digest": "c903934a692f093d8199ba0392637a5dd729faeb8d3473d06ba01af7f28b2d2e",
+      "type": "add"
+    },
+    "bx-cctv.svg": {
+      "tag": "icon-cctv",
+      "digest": "90c66b7f4bb2f1092dd202bce3c745cf3de8cd141be55dabeff22202679fd38e",
+      "type": "add"
+    },
+    "bx-certification.svg": {
+      "tag": "icon-certification",
+      "digest": "adf2701c4727df2c6b4cae443189d6be1089c38134eca127889d95617b936502",
+      "type": "add"
+    },
+    "bx-chair.svg": {
+      "tag": "icon-chair",
+      "digest": "0dc66627572f9101e07db5f18f1bd723b13ee6890a067861de9d41e1cdbfa4f4",
+      "type": "add"
+    },
+    "bx-category-alt.svg": {
+      "tag": "icon-category-alt",
+      "digest": "461b34c883ba70c1a929144cbb13307fac6b771799cb35d8fb25ebd0b5f2848e",
+      "type": "add"
+    },
+    "bx-chalkboard.svg": {
+      "tag": "icon-chalkboard",
+      "digest": "466bb770045cd78d7a3cbf6efdea6c14e2694eb61be729df5a53e50f04dafb23",
+      "type": "add"
+    },
+    "bx-chart.svg": {
+      "tag": "icon-chart",
+      "digest": "431d620b3af1f48fccd2ddd55d78d9cc78a0f9401ff2deeeed8e4279a4b9f12b",
+      "type": "add"
+    },
+    "bx-chat.svg": {
+      "tag": "icon-chat",
+      "digest": "b6e0b242c50692bdd952a6851b6693daacfa531fac7cbd6274bf84fb34d9e4bf",
+      "type": "add"
+    },
+    "bx-check-circle.svg": {
+      "tag": "icon-check-circle",
+      "digest": "f17d3bbbd78597b51cab5f76f94373500e96800d6a3131461d82e980b56af83f",
+      "type": "add"
+    },
+    "bx-check-double.svg": {
+      "tag": "icon-check-double",
+      "digest": "81af12a63dfc6b6209fadf3c83b89ed5982e8197bc57419978d917e330c8aa96",
+      "type": "add"
+    },
+    "bx-check-shield.svg": {
+      "tag": "icon-check-shield",
+      "digest": "6583908c4da9406132a7fd4369c514aaea0cc86a8ae9df20c51dc200dc1f8eb7",
+      "type": "add"
+    },
+    "bx-check-square.svg": {
+      "tag": "icon-check-square",
+      "digest": "acc65a8dbfa003fe9fedca2de3f098a81d06ae8588543e02070c4826773bbeb6",
+      "type": "add"
+    },
+    "bx-check.svg": {
+      "tag": "icon-check",
+      "digest": "11d84c4dfea10286f6422c642a1738be3d10e708952aa0d1a43ca3dc1c96c71f",
+      "type": "add"
+    },
+    "bx-checkbox-minus.svg": {
+      "tag": "icon-checkbox-minus",
+      "digest": "c0934a8b11da42849ebb50395fb30561c2a8731974580be66f930df7428c38cc",
+      "type": "add"
+    },
+    "bx-checkbox-checked.svg": {
+      "tag": "icon-checkbox-checked",
+      "digest": "356664209e814ab7691b1a233b2c4028e9ac509821759896c5e0a2936b408602",
+      "type": "add"
+    },
+    "bx-checkbox.svg": {
+      "tag": "icon-checkbox",
+      "digest": "78932fbf362ea12e8c29b9a9a86bb103b2dd575289b790ff96bfcac1fdbb424c",
+      "type": "add"
+    },
+    "bx-chevron-down-circle.svg": {
+      "tag": "icon-chevron-down-circle",
+      "digest": "e7d2fd9607d929997c53ed3351987ac17131aff16dcfdbc22b341b2951f50142",
+      "type": "add"
+    },
+    "bx-checkbox-square.svg": {
+      "tag": "icon-checkbox-square",
+      "digest": "2dd2ae20007bcef8e9c56784d62955017fb56b08e77b0bf7e731886a0922ff9a",
+      "type": "add"
+    },
+    "bx-cheese.svg": {
+      "tag": "icon-cheese",
+      "digest": "6c2391e30bd70f105890bae1ce8fbcf3bbaf4c5e0ff3ddc18eb9872290662659",
+      "type": "add"
+    },
+    "bx-chevron-left-circle.svg": {
+      "tag": "icon-chevron-left-circle",
+      "digest": "6c41be54b912c7adfe19179675211d17721f78f88c833f8da34a12e91e7eea3d",
+      "type": "add"
+    },
+    "bx-chevron-down-square.svg": {
+      "tag": "icon-chevron-down-square",
+      "digest": "2d785b70a0e027f78edfe2fe670dab15b1f7ee4a9ab79b06c01312b3ea17613b",
+      "type": "add"
+    },
+    "bx-chevron-down.svg": {
+      "tag": "icon-chevron-down",
+      "digest": "0aeb22da91f4cb18da57e9ef383a4d3e9cc0e3f751778918e939ef863500b547",
+      "type": "add"
+    },
+    "bx-chevron-left-square.svg": {
+      "tag": "icon-chevron-left-square",
+      "digest": "38543ac0964310c80e60a21106d1d4e50342d22caad6726e7740154b541aef1e",
+      "type": "add"
+    },
+    "bx-chevron-left.svg": {
+      "tag": "icon-chevron-left",
+      "digest": "204b3a4cfccdbe1468709e59b7d5bcbaf6ac029c49ea22741d5418d118c33075",
+      "type": "add"
+    },
+    "bx-chevron-right-circle.svg": {
+      "tag": "icon-chevron-right-circle",
+      "digest": "891b653eece239ef4999a577293042830ad06169660227bf43ecf5cd85167045",
+      "type": "add"
+    },
+    "bx-chevron-right.svg": {
+      "tag": "icon-chevron-right",
+      "digest": "27075a92847acea7bf20035242c36c68a020aeb4a5b32ff9c891f5bf735e1bcf",
+      "type": "add"
+    },
+    "bx-chevron-up-circle.svg": {
+      "tag": "icon-chevron-up-circle",
+      "digest": "8ed83d318d9d0535a674ad8ab12f77f48c6ead24ba665316976565e5b531be98",
+      "type": "add"
+    },
+    "bx-chevron-right-square.svg": {
+      "tag": "icon-chevron-right-square",
+      "digest": "66dae1c5456929a13de8709dfaeeecf13538dc1f9203ab59a5b716aa875440da",
+      "type": "add"
+    },
+    "bx-chevron-up.svg": {
+      "tag": "icon-chevron-up",
+      "digest": "232f13da5a43327f3d193502747c8e58d4978ab87e48106b0e1652536172cab7",
+      "type": "add"
+    },
+    "bx-chevron-up-square.svg": {
+      "tag": "icon-chevron-up-square",
+      "digest": "00e22fbb614f024af880061e0a85ef76b6ea2a546cbc23ab6c83b88df11d6952",
+      "type": "add"
+    },
+    "bx-chevrons-down.svg": {
+      "tag": "icon-chevrons-down",
+      "digest": "6a52c5754273d2beab16ed07f61545a4f29dc190f2631658b5519e9d14fff8f7",
+      "type": "add"
+    },
+    "bx-chevrons-left.svg": {
+      "tag": "icon-chevrons-left",
+      "digest": "2b7fda7d7112fa8d70d38b58929fe7a35724f2f00b73c534145f03c28187211a",
+      "type": "add"
+    },
+    "bx-chevrons-right.svg": {
+      "tag": "icon-chevrons-right",
+      "digest": "88eeae03a1eeef24c7d0a6ecf14540dfc7fa70887d682f30352d1c28d458a655",
+      "type": "add"
+    },
+    "bx-chevrons-up.svg": {
+      "tag": "icon-chevrons-up",
+      "digest": "c03239409485c37a8e0b59a201c42015720394183ca4762f17c938460b933309",
+      "type": "add"
+    },
+    "bx-child.svg": {
+      "tag": "icon-child",
+      "digest": "87d52b91f585581d3fe84bc01e76f3031710c38607c024d5ffedb6b2badd826f",
+      "type": "add"
+    },
+    "bx-church.svg": {
+      "tag": "icon-church",
+      "digest": "d9562052872d9da5dc41ac1929d4b0fa76df2871ee69800a40bf699ce3b26188",
+      "type": "add"
+    },
+    "bx-chip.svg": {
+      "tag": "icon-chip",
+      "digest": "293592764e034729b83a278b9da4b67cc9b20cc60b3bfe129653811e76579926",
+      "type": "add"
+    },
+    "bx-circle-half.svg": {
+      "tag": "icon-circle-half",
+      "digest": "6334f4121d2a3b1a7c7bbc9fda535b6e0b340936b39fcc259dcced44f5dc8151",
+      "type": "add"
+    },
+    "bx-circle-quarter.svg": {
+      "tag": "icon-circle-quarter",
+      "digest": "43fd38da4bbffb9f2362a18b9b918a5155cdf6e2fc5bf846bbfb2edd9df53dce",
+      "type": "add"
+    },
+    "bx-circle-three-quarter.svg": {
+      "tag": "icon-circle-three-quarter",
+      "digest": "52e2ff1c4120003f29ec65f4a597d7eab2798f4476c36f207d809344d99a6fa9",
+      "type": "add"
+    },
+    "bx-circle.svg": {
+      "tag": "icon-circle",
+      "digest": "aed8ca5ddfa7012cbc65452695eb23d805b03cdf74d7d17fcf0be7c47eda8950",
+      "type": "add"
+    },
+    "bx-clinic.svg": {
+      "tag": "icon-clinic",
+      "digest": "bc3737e1e1cc785ca4011a520e22c994e39d740a225c4104f1b0a45038fcd859",
+      "type": "add"
+    },
+    "bx-clipboard.svg": {
+      "tag": "icon-clipboard",
+      "digest": "66732f73177c2932447f00c1707761387987e5a90099760c960a8706a16f55ba",
+      "type": "add"
+    },
+    "bx-closet.svg": {
+      "tag": "icon-closet",
+      "digest": "529333f7c1fae55dd4e55e477e9d85a4b67a423665f80a74ca3555d7c7efe0dd",
+      "type": "add"
+    },
+    "bx-cloud-download.svg": {
+      "tag": "icon-cloud-download",
+      "digest": "5eb7650cc0999b040dc2bf3997e75cbdd04da28b5804a1116f46d0eeeb170f8a",
+      "type": "add"
+    },
+    "bx-cloud-drizzle.svg": {
+      "tag": "icon-cloud-drizzle",
+      "digest": "ec1a94aa58320384441e3934792367b172001bc3fbd628d09a8cb14bf4d5be92",
+      "type": "add"
+    },
+    "bx-cloud-light-rain.svg": {
+      "tag": "icon-cloud-light-rain",
+      "digest": "c10984201d1d30e83347e017e75b74ef6521a83a8a96151d3082f99bff338aaa",
+      "type": "add"
+    },
+    "bx-cloud-lightning.svg": {
+      "tag": "icon-cloud-lightning",
+      "digest": "7f93c9dfb476f133a31c6fe3e167632619f9438f87f436fdeef01c710de93464",
+      "type": "add"
+    },
+    "bx-cloud-rain.svg": {
+      "tag": "icon-cloud-rain",
+      "digest": "c30159f0788abc4f8008c29a5c6eee2630e19b935bf99f5c262d944eff4a7027",
+      "type": "add"
+    },
+    "bx-cloud-snow.svg": {
+      "tag": "icon-cloud-snow",
+      "digest": "3d5681add845ac4321992ed59d09a1075fa412908fbdfd39f2a6c65d7b0593b0",
+      "type": "add"
+    },
+    "bx-cloud-upload.svg": {
+      "tag": "icon-cloud-upload",
+      "digest": "fbd000597a3caed3117f37fa4d90bbe3b2f586434b0da0bb664877e0b03d0fe4",
+      "type": "add"
+    },
+    "bx-cloud.svg": {
+      "tag": "icon-cloud",
+      "digest": "149380a2a6a3b262d1cf234c9241db0b3a33167517a3fc4ced986111fb94f456",
+      "type": "add"
+    },
+    "bx-code-alt.svg": {
+      "tag": "icon-code-alt",
+      "digest": "d8b5ea0875ceca6c60a172776a944ae07122c10960bbda54e42f84d869a376c5",
+      "type": "add"
+    },
+    "bx-code-block.svg": {
+      "tag": "icon-code-block",
+      "digest": "d3864f1e66d5db13e5223321b069ecaa2d7611627d29ed6a908697c1e717694d",
+      "type": "add"
+    },
+    "bx-code.svg": {
+      "tag": "icon-code",
+      "digest": "173b7dc7fd0c725b8c577fb283ae962f674c30963088dde0f28200bc65ac5cae",
+      "type": "add"
+    },
+    "bx-code-curly.svg": {
+      "tag": "icon-code-curly",
+      "digest": "f908bd6cacee307b7a214f3c9b1e7d887b4a4025d1c7262406ea22d8e583486c",
+      "type": "add"
+    },
+    "bx-coffee-togo.svg": {
+      "tag": "icon-coffee-togo",
+      "digest": "ff83fe96d2ef2ffd65243a8456157868388e27044c1e69c3e12b535c2f630479",
+      "type": "add"
+    },
+    "bx-coffee.svg": {
+      "tag": "icon-coffee",
+      "digest": "e3315b258f7ddfe0c68dd0fdd1cae0dbd713f3ab78346760e5379e18a37da418",
+      "type": "add"
+    },
+    "bx-cog.svg": {
+      "tag": "icon-cog",
+      "digest": "e959895bce36c8944ad94c0cb6731f9dfc72c65e52275d7e312db3c294bdd44d",
+      "type": "add"
+    },
+    "bx-coin-stack.svg": {
+      "tag": "icon-coin-stack",
+      "digest": "5356827b19afa1b173ef5d24e929c025b207b679b6ffc2872cff1efd79c493b7",
+      "type": "add"
+    },
+    "bx-coin.svg": {
+      "tag": "icon-coin",
+      "digest": "76837b73e6144877db8b4b177a7e249db83d62ab4b5284669f82d2cffa7c5107",
+      "type": "add"
+    },
+    "bx-collapse-alt.svg": {
+      "tag": "icon-collapse-alt",
+      "digest": "8283a9161497afec7da821cc7ef954406588ed9c69e3b35ea4193fc69016d56c",
+      "type": "add"
+    },
+    "bx-collapse-horizontal.svg": {
+      "tag": "icon-collapse-horizontal",
+      "digest": "496c772d55254bb5e519413ee4d303c0001d8595cfd85d2d0bd629fb8262b268",
+      "type": "add"
+    },
+    "bx-collapse.svg": {
+      "tag": "icon-collapse",
+      "digest": "a3968b77ae9793ebd92e5950ada044e2a291ed6cf99958db2c9fd66a81691e58",
+      "type": "add"
+    },
+    "bx-collapse-vertical.svg": {
+      "tag": "icon-collapse-vertical",
+      "digest": "2e88fe4a71567787f7060d6e7bbc14fb67c23fa8d0d1f1ed5e45c2bcb0bae15c",
+      "type": "add"
+    },
+    "bx-collection.svg": {
+      "tag": "icon-collection",
+      "digest": "e314732b81758ef7299bc354acd4dfe50df4ece51054a3f34ed7f86ada9f743f",
+      "type": "add"
+    },
+    "bx-color-fill.svg": {
+      "tag": "icon-color-fill",
+      "digest": "c8cbad70ab789016880392bbb41a72de7f12d91e05536a311ddf9f5d18506556",
+      "type": "add"
+    },
+    "bx-color.svg": {
+      "tag": "icon-color",
+      "digest": "13bf5c018e812eea1fdd608b97703ee993354ac2aa8e3f7295abcc27e1b783f7",
+      "type": "add"
+    },
+    "bx-command.svg": {
+      "tag": "icon-command",
+      "digest": "9a5f104ac2faf2025e731f7dc604c42f5114c972f1f8e59f50b8cbc69bbb43ea",
+      "type": "add"
+    },
+    "bx-columns.svg": {
+      "tag": "icon-columns",
+      "digest": "0fedce2d5df33e47a4627535c182f89b9e3a9452301a13c80139e7c33a6d703e",
+      "type": "add"
+    },
+    "bx-comment-add.svg": {
+      "tag": "icon-comment-add",
+      "digest": "e17430307db3e70de07a8ccb4e59f6ff84f7e9c6a0db8bc7fe3c46a4142d4da2",
+      "type": "add"
+    },
+    "bx-comment-check.svg": {
+      "tag": "icon-comment-check",
+      "digest": "ac1b730d419ab5cbb8a814f692e735162ab9796f169b923831e31077646340c1",
+      "type": "add"
+    },
+    "bx-comment-detail.svg": {
+      "tag": "icon-comment-detail",
+      "digest": "0172e28abf07cfb40850782de7be0a2bb6212f23d94c7f5f6444cce953dd356e",
+      "type": "add"
+    },
+    "bx-comment-dots.svg": {
+      "tag": "icon-comment-dots",
+      "digest": "44238e284182cd43222b3fa97d024de0b24f13707ade4818f3ab02cf3bc7fe59",
+      "type": "add"
+    },
+    "bx-comment-edit.svg": {
+      "tag": "icon-comment-edit",
+      "digest": "f1a5c9500d037e19b71aa999598291e9dc26b767c73d0aff01d2a8e39e580b66",
+      "type": "add"
+    },
+    "bx-comment-error.svg": {
+      "tag": "icon-comment-error",
+      "digest": "e6b6767ff7a00c3fd8ab58281185845974798b3c7fbaac156d3c0938d46aecd2",
+      "type": "add"
+    },
+    "bx-comment-minus.svg": {
+      "tag": "icon-comment-minus",
+      "digest": "ff0801164c3fa72f4969d4b5ccb63ec05b9e1a5f5e00f3a931623ff381c7b88e",
+      "type": "add"
+    },
+    "bx-comment.svg": {
+      "tag": "icon-comment",
+      "digest": "752d393f1938599c2af5ae79794ba882a547062434738399285b332af98e1684",
+      "type": "add"
+    },
+    "bx-comment-x.svg": {
+      "tag": "icon-comment-x",
+      "digest": "73790da68a6a63b03107285d81f1708c29c36cb78d1b44087eafda81672d5355",
+      "type": "add"
+    },
+    "bx-compass.svg": {
+      "tag": "icon-compass",
+      "digest": "4ef4a8a4dadecce01820618f6773336b52df03185f8c36a46710b1100437dfcc",
+      "type": "add"
+    },
+    "bx-confused.svg": {
+      "tag": "icon-confused",
+      "digest": "ed7a6d5832283eb850d6a3c8bd82d9646ee34ed02053bc67edd587187d9918d9",
+      "type": "add"
+    },
+    "bx-cookie.svg": {
+      "tag": "icon-cookie",
+      "digest": "5183780ca7e327559ab631ea734cef8154ca3e1bebe285f243b3939787694fee",
+      "type": "add"
+    },
+    "bx-conversation.svg": {
+      "tag": "icon-conversation",
+      "digest": "70e564d52efa10f2211364d2f119946ebea02a7dc74d9d33e7c965010f951969",
+      "type": "add"
+    },
+    "bx-cool.svg": {
+      "tag": "icon-cool",
+      "digest": "46c75eacac192bcfeafc2c1ef181e9f4eafe8294eef0234c5fd0f7f198c10015",
+      "type": "add"
+    },
+    "bx-copy-alt.svg": {
+      "tag": "icon-copy-alt",
+      "digest": "411df503eafdb3bc36e8ce001647216e2e92b93fe093c8e185035d9aed0f8437",
+      "type": "add"
+    },
+    "bx-copyright.svg": {
+      "tag": "icon-copyright",
+      "digest": "bdb89a88cafc9be94175c18db5eda6507a1b5cefdbcbda9a10347c4d32d83fb0",
+      "type": "add"
+    },
+    "bx-copy.svg": {
+      "tag": "icon-copy",
+      "digest": "bd0ed004e067b6ce5916199a317bbbde16bc6bfaa7dacae57380a0df9f79d161",
+      "type": "add"
+    },
+    "bx-credit-card-alt.svg": {
+      "tag": "icon-credit-card-alt",
+      "digest": "e5c49ab9958771b78b6e354a4e09f8d3287c735801df9e2f3ffb9e1a7fa2c469",
+      "type": "add"
+    },
+    "bx-credit-card-front.svg": {
+      "tag": "icon-credit-card-front",
+      "digest": "f09d09625a8c40527829ae58f6017593fee06a591a7b7f26822cd93ec6118327",
+      "type": "add"
+    },
+    "bx-credit-card.svg": {
+      "tag": "icon-credit-card",
+      "digest": "527b5c30c3e83e4d44d63752b53ef4516ede7725a82243ebeeec283ce1a6f9f8",
+      "type": "add"
+    },
+    "bx-cricket-ball.svg": {
+      "tag": "icon-cricket-ball",
+      "digest": "d0d45c69bdc489febddde243e7e063fb1da542d3bb763a7c3ff4f829a6666c8b",
+      "type": "add"
+    },
+    "bx-crop.svg": {
+      "tag": "icon-crop",
+      "digest": "43fc0dd89b9d7184f9a3469459f36c4b38b86528a366a91847dc90166d079215",
+      "type": "add"
+    },
+    "bx-cross.svg": {
+      "tag": "icon-cross",
+      "digest": "ca66c2ade14dc63f907b9c8512f6a41b74be5f23b1036a085d325425b8b49af5",
+      "type": "add"
+    },
+    "bx-crosshair.svg": {
+      "tag": "icon-crosshair",
+      "digest": "96adc311f64cc89db00016f16bcb5c33438db77377f7397c43fd6e20e9d2473c",
+      "type": "add"
+    },
+    "bx-cube-alt.svg": {
+      "tag": "icon-cube-alt",
+      "digest": "86e159513c69f84eda98d427fa7de4ffb59d3ecda0f244be34ccb23280ccfda3",
+      "type": "add"
+    },
+    "bx-crown.svg": {
+      "tag": "icon-crown",
+      "digest": "531e22a005ebc34bb0dab2cc8ca4e87806a72062785d0b258847376fe5402ddf",
+      "type": "add"
+    },
+    "bx-cube.svg": {
+      "tag": "icon-cube",
+      "digest": "913a0f00c48b9df12ecadfa6daede4246549ce193e1dd2a3ec32d4695cc036b4",
+      "type": "add"
+    },
+    "bx-cuboid.svg": {
+      "tag": "icon-cuboid",
+      "digest": "a33559439a748134962546e1cb65bf65ef6c9d6cb7154984b68e6acc240da339",
+      "type": "add"
+    },
+    "bx-current-location.svg": {
+      "tag": "icon-current-location",
+      "digest": "a900a3e64bb8be3753af76bf229b33bb3af40e6b6e7d09053836010d9dfc9ffb",
+      "type": "add"
+    },
+    "bx-customize.svg": {
+      "tag": "icon-customize",
+      "digest": "11cb2a9265f1eff4dd3aba2396ca6f931f2400fa808907510da3b214d3b8f01f",
+      "type": "add"
+    },
+    "bx-cut.svg": {
+      "tag": "icon-cut",
+      "digest": "67dd03f8ccf2a6ea39965f273cc44415a60b42c56cbebde8b945ef453da747a7",
+      "type": "add"
+    },
+    "bx-cycling.svg": {
+      "tag": "icon-cycling",
+      "digest": "6ae55387ae9292e27a2c39c87abbcdb6705d06083ee730712545a4c531b6ad92",
+      "type": "add"
+    },
+    "bx-cylinder.svg": {
+      "tag": "icon-cylinder",
+      "digest": "a5042c4565387aa7bd0638b556e464ed1105c5061fc9bae55ce697738465090c",
+      "type": "add"
+    },
+    "bx-data.svg": {
+      "tag": "icon-data",
+      "digest": "f9543cf3f6c3f457c891748921825e0dc2a0e1c5243a72684facca22a9f5fe11",
+      "type": "add"
+    },
+    "bx-desktop.svg": {
+      "tag": "icon-desktop",
+      "digest": "c419dc4dcb6e1178a751a7c8a1566e91e1137a81b5d5373a693d8eca44768356",
+      "type": "add"
+    },
+    "bx-devices.svg": {
+      "tag": "icon-devices",
+      "digest": "60912220cf445da09828e2cead67b03619cd2ea8b18e63f52b3772ce1cca84b9",
+      "type": "add"
+    },
+    "bx-detail.svg": {
+      "tag": "icon-detail",
+      "digest": "26fc5a7e0c992a429879c40863e2cbdfcf9596a3830aa2987666b9bf13e5c575",
+      "type": "add"
+    },
+    "bx-dialpad.svg": {
+      "tag": "icon-dialpad",
+      "digest": "27fd68510da8812206b40a0ffde80ef71c1b553d82f2cd271c0d60aca09ccfe7",
+      "type": "add"
+    },
+    "bx-dialpad-alt.svg": {
+      "tag": "icon-dialpad-alt",
+      "digest": "18292a49532276ab018ed6cebd7c48b3a879b60195994bc4fdcbd537f6cb8936",
+      "type": "add"
+    },
+    "bx-diamond.svg": {
+      "tag": "icon-diamond",
+      "digest": "d88d62c8f6c9b593bc6ce38b757d7c42b16a354a1bea3c8265934e6b095705b2",
+      "type": "add"
+    },
+    "bx-dice-2.svg": {
+      "tag": "icon-dice-2",
+      "digest": "7b95223a2e70d41982232df1ba592268d364c1a18ff728a003ce97860eb8d3c1",
+      "type": "add"
+    },
+    "bx-dice-3.svg": {
+      "tag": "icon-dice-3",
+      "digest": "7918834e933e96c797d2b19f32b74a05f73fa01ad07c6c34b9f50bad6bf5efa3",
+      "type": "add"
+    },
+    "bx-dice-1.svg": {
+      "tag": "icon-dice-1",
+      "digest": "5701fee9908f568551acf6d28168d776a4bf72f64321158141c91d28c2715bab",
+      "type": "add"
+    },
+    "bx-dice-4.svg": {
+      "tag": "icon-dice-4",
+      "digest": "f1ab32f8c119eadf486c67098e3fd2ba7eabb5acd1091bead2b158724fabb7d5",
+      "type": "add"
+    },
+    "bx-dice-6.svg": {
+      "tag": "icon-dice-6",
+      "digest": "2ee388ac0e43434145b5799bb9f7ce84971d2b486d501c66fd7ebeb3a96cf4a5",
+      "type": "add"
+    },
+    "bx-dice-5.svg": {
+      "tag": "icon-dice-5",
+      "digest": "445ff86f3229a567ac7c95042bfc0704f14eba0f4cb529b3ffa932c874ca1925",
+      "type": "add"
+    },
+    "bx-dish.svg": {
+      "tag": "icon-dish",
+      "digest": "7f59d6e322bad2d3416b18a8bd24b76cb85808ba1bbfd175ceea8e2a0a773550",
+      "type": "add"
+    },
+    "bx-dislike.svg": {
+      "tag": "icon-dislike",
+      "digest": "b5029d12e5aca2ed7e27d2b91df97d1b68cfb39982dc76e180cb5c32bd850ee8",
+      "type": "add"
+    },
+    "bx-directions.svg": {
+      "tag": "icon-directions",
+      "digest": "7439fb573e80672e4ef2ff1e8b4b448e21e9e7d67692064dee6e420c37f82408",
+      "type": "add"
+    },
+    "bx-dizzy.svg": {
+      "tag": "icon-dizzy",
+      "digest": "a52589d07e76f73d5367aca4713e652dad52d6b4f317288c04867a09ad40e922",
+      "type": "add"
+    },
+    "bx-disc.svg": {
+      "tag": "icon-disc",
+      "digest": "999efe5d30c43077ebfa335df6d910040f0e1523a14ae2279d3b01c4a9b2cb6c",
+      "type": "add"
+    },
+    "bx-dna.svg": {
+      "tag": "icon-dna",
+      "digest": "541b2146c6beb0a7c74daf93e744266eaa9759442589304ca802109822abe59b",
+      "type": "add"
+    },
+    "bx-dock-left.svg": {
+      "tag": "icon-dock-left",
+      "digest": "e4ef6ebc7bc4e9eefe8b481be558ccc99778e0de18d648652171c24001b53140",
+      "type": "add"
+    },
+    "bx-dock-top.svg": {
+      "tag": "icon-dock-top",
+      "digest": "8f12a5f0e7a7e2a0a65fd9684e783a0408a495706ad4349ca3482dedbca74652",
+      "type": "add"
+    },
+    "bx-dock-bottom.svg": {
+      "tag": "icon-dock-bottom",
+      "digest": "85275bce4f6670a1886973bbd1d361b11c10d677b89534875b456738f945b4ac",
+      "type": "add"
+    },
+    "bx-dock-right.svg": {
+      "tag": "icon-dock-right",
+      "digest": "f7efded075fe557c8a7bcee11dbf2339e15492560b3953bb8fd1bd554ed8aa23",
+      "type": "add"
+    },
+    "bx-dollar-circle.svg": {
+      "tag": "icon-dollar-circle",
+      "digest": "005ecae0e17fd09ecb2bee0a44ea1ef38554f4887438c0871cd8e93848236463",
+      "type": "add"
+    },
+    "bx-donate-blood.svg": {
+      "tag": "icon-donate-blood",
+      "digest": "b8a1d312abb37eba4ac476bb2088b368ab7ab3541fa9018cfdf891200789cfed",
+      "type": "add"
+    },
+    "bx-dollar.svg": {
+      "tag": "icon-dollar",
+      "digest": "1bdb3302430863d98f969213dd63155a1fc90a45bd33b17f883eb44d1851d6a0",
+      "type": "add"
+    },
+    "bx-donate-heart.svg": {
+      "tag": "icon-donate-heart",
+      "digest": "a97f429b48f9b41dfb0351541af275977357f084626c146ff13c3a0631e696dd",
+      "type": "add"
+    },
+    "bx-door-open.svg": {
+      "tag": "icon-door-open",
+      "digest": "91efe964ec00731590c5012bee93d249da83df9f02a7b32e1417ca545cea5f03",
+      "type": "add"
+    },
+    "bx-dots-horizontal.svg": {
+      "tag": "icon-dots-horizontal",
+      "digest": "9f885845dac4b5c080ec849b7f2d75a2b3813a177c3bbfb76a4c4b6d991a1f26",
+      "type": "add"
+    },
+    "bx-dots-horizontal-rounded.svg": {
+      "tag": "icon-dots-horizontal-rounded",
+      "digest": "0f2009cb88b2cb69b72fd95ebfb67502e45c882007b00cc62f863234749f7810",
+      "type": "add"
+    },
+    "bx-doughnut-chart.svg": {
+      "tag": "icon-doughnut-chart",
+      "digest": "1300ec5543f74f48be5a6e49fa8dd6795f7a156b439c8e5c6a73d3c50feaf85b",
+      "type": "add"
+    },
+    "bx-dots-vertical.svg": {
+      "tag": "icon-dots-vertical",
+      "digest": "3cdcb8328b4452f6c68dee1a5bfda2df6de971ee1afb2aa7f41b1026ed8e86a1",
+      "type": "add"
+    },
+    "bx-dots-vertical-rounded.svg": {
+      "tag": "icon-dots-vertical-rounded",
+      "digest": "0181f794b13580551f09655ff664593565cc8b0f9557e7b86cbc0414df1199bc",
+      "type": "add"
+    },
+    "bx-down-arrow-alt.svg": {
+      "tag": "icon-down-arrow-alt",
+      "digest": "cb36c6285d24c72ade13b1382826a2e28c89e6362fc5b6f94b7ef50ad69009cf",
+      "type": "add"
+    },
+    "bx-down-arrow.svg": {
+      "tag": "icon-down-arrow",
+      "digest": "57b79efae65d997d86bb5640b1be36ee0121cbda46fa10585edb8ea7af7bb0ce",
+      "type": "add"
+    },
+    "bx-down-arrow-circle.svg": {
+      "tag": "icon-down-arrow-circle",
+      "digest": "c3131313db72259c1d0cc5481666ec353113b51be638199b946cb4584fa74c6a",
+      "type": "add"
+    },
+    "bx-download.svg": {
+      "tag": "icon-download",
+      "digest": "4b07aa20d5af060f91effc2180c6cb1a8e4cd785d4e3f431fe953da8fd3eeba1",
+      "type": "add"
+    },
+    "bx-drink.svg": {
+      "tag": "icon-drink",
+      "digest": "0c50b1014af59fb3ba50276cc9dcf1b0bbe6bf4db3698874b5cc708a4dc37d40",
+      "type": "add"
+    },
+    "bx-droplet.svg": {
+      "tag": "icon-droplet",
+      "digest": "8bf26fa500e44463b5324cad6f45f3c8fc2812dd7efbdc80f1f74e65e27544fd",
+      "type": "add"
+    },
+    "bx-downvote.svg": {
+      "tag": "icon-downvote",
+      "digest": "26e6d7c513e9b21c90418809a4dd8c0f4d404b629a6362fc12e59aea50fb3ab2",
+      "type": "add"
+    },
+    "bx-duplicate.svg": {
+      "tag": "icon-duplicate",
+      "digest": "1076ca4ba5c45997491921863ed209d2c565f836afd19bae73a6e18261d991b1",
+      "type": "add"
+    },
+    "bx-edit.svg": {
+      "tag": "icon-edit",
+      "digest": "a8cbe71ade9874341c37d43f4aee9c05febfa03170187cbdbc984a5d3b608f80",
+      "type": "add"
+    },
+    "bx-dumbbell.svg": {
+      "tag": "icon-dumbbell",
+      "digest": "330aaf7484243269a961df55e010bb4849d3246ad123126f0fbbc2a4d768dd8f",
+      "type": "add"
+    },
+    "bx-edit-alt.svg": {
+      "tag": "icon-edit-alt",
+      "digest": "35a32f7785824c15ccd299ef7a66ea890a848255d1469b0b872243026d00d1b0",
+      "type": "add"
+    },
+    "bx-envelope.svg": {
+      "tag": "icon-envelope",
+      "digest": "7e24ae1ef808bb511a80d8fc37bb741206b065a8fd1f22d1b0de1468ab1989e4",
+      "type": "add"
+    },
+    "bx-envelope-open.svg": {
+      "tag": "icon-envelope-open",
+      "digest": "c4b98a6973cda5d53c2fdf271f1115eb6286166d8dd1a8055106bd4f1bd5ef21",
+      "type": "add"
+    },
+    "bx-equalizer.svg": {
+      "tag": "icon-equalizer",
+      "digest": "48b9efc9ee6c2a83bf54d650e46486fa1c3af1b044164c2ddfc103f835105b5d",
+      "type": "add"
+    },
+    "bx-error-circle.svg": {
+      "tag": "icon-error-circle",
+      "digest": "985d75063c2868985fef7df3d7b39ac811f0cad80327cb1b7f39f47b50c55e42",
+      "type": "add"
+    },
+    "bx-error-alt.svg": {
+      "tag": "icon-error-alt",
+      "digest": "8f58a19ce342efdd0eb30bb6c2537983554c13c33692b842c32aefe11983e3da",
+      "type": "add"
+    },
+    "bx-eraser.svg": {
+      "tag": "icon-eraser",
+      "digest": "76c457a9d8e21b9aa5d48721cebcdfe1daa69338ff1b01fe88f9434db2274350",
+      "type": "add"
+    },
+    "bx-exclude.svg": {
+      "tag": "icon-exclude",
+      "digest": "da634a42fec189149003388b7bcd32250283e75c76209f382ba10b0b78a8bb23",
+      "type": "add"
+    },
+    "bx-error.svg": {
+      "tag": "icon-error",
+      "digest": "a01370e3d641e30cbdb3166056a5f6fc6dfae5d3a814714dc6b44e12bc585fc0",
+      "type": "add"
+    },
+    "bx-euro.svg": {
+      "tag": "icon-euro",
+      "digest": "2bc41427f8d60bbf6455a42d7f45b959b1742f508dc2bc945edf85714b69183a",
+      "type": "add"
+    },
+    "bx-exit-fullscreen.svg": {
+      "tag": "icon-exit-fullscreen",
+      "digest": "ea5a75167adb88ee1d7ff31e2c0620761f3ff0739d93b1bfc9d354497fce13dc",
+      "type": "add"
+    },
+    "bx-exit.svg": {
+      "tag": "icon-exit",
+      "digest": "f88e68897133586c89ca9ac3affb38a89953e653f2d0b6371f90a41f5e7bafed",
+      "type": "add"
+    },
+    "bx-expand-horizontal.svg": {
+      "tag": "icon-expand-horizontal",
+      "digest": "48f03b5a02ba56a8fbea4fd58d58f14f850015a82a5b2eb8d42cc8b659bef032",
+      "type": "add"
+    },
+    "bx-expand.svg": {
+      "tag": "icon-expand",
+      "digest": "3c700dc20253f48b6442baaa4bb3739853c27d89091c6d9428c2632eacef500a",
+      "type": "add"
+    },
+    "bx-expand-alt.svg": {
+      "tag": "icon-expand-alt",
+      "digest": "dbee4892ce7a5009fddc5871c7f591ffe7f0de1740f4d8610e20308f2318dc53",
+      "type": "add"
+    },
+    "bx-expand-vertical.svg": {
+      "tag": "icon-expand-vertical",
+      "digest": "c3d37bbf1c2a002d8a3ec3cac86b59aa3095fbc97ca0ff1e3c714dc5ae3b5ced",
+      "type": "add"
+    },
+    "bx-export.svg": {
+      "tag": "icon-export",
+      "digest": "00c098c54fc316d5490af3879699102b06eea4ef528569ca4c29f6f79bd84688",
+      "type": "add"
+    },
+    "bx-extension.svg": {
+      "tag": "icon-extension",
+      "digest": "cd90b6f4a630969cc7d535c0a55571acdefcb4c5c46b5ad566ecffe94f134374",
+      "type": "add"
+    },
+    "bx-face.svg": {
+      "tag": "icon-face",
+      "digest": "6e129fb685ea77dfdf35241002026bdb9b0b528b2ace0253e663ffd04b2c262e",
+      "type": "add"
+    },
+    "bx-fast-forward.svg": {
+      "tag": "icon-fast-forward",
+      "digest": "5469bf94ee1fc1ee44fb7c0062af4f6aa9a30e1b58a8feabc0397cf98880958d",
+      "type": "add"
+    },
+    "bx-fast-forward-circle.svg": {
+      "tag": "icon-fast-forward-circle",
+      "digest": "e90a9434be2686083efebb33683d19dd0576e1b2e4adbd109be36e950ca57b4d",
+      "type": "add"
+    },
+    "bx-female-sign.svg": {
+      "tag": "icon-female-sign",
+      "digest": "ef0a6ff88a7443d1b3eaba7348936248cede2f4e56fdaede4c256457477fd095",
+      "type": "add"
+    },
+    "bx-female.svg": {
+      "tag": "icon-female",
+      "digest": "c541ae5ac14071025bbb663bd8d4c003e1a5629f1b09320483d2e082183532bf",
+      "type": "add"
+    },
+    "bx-file-blank.svg": {
+      "tag": "icon-file-blank",
+      "digest": "18e8026d8031921472de72b9c03b512ac5cd195026f1bb1a9377789a4a583284",
+      "type": "add"
+    },
+    "bx-file-find.svg": {
+      "tag": "icon-file-find",
+      "digest": "adad2adf7973e679cdbe97989839a690eca6f1e8a48d16aa2a96cdf34fe48a4f",
+      "type": "add"
+    },
+    "bx-file.svg": {
+      "tag": "icon-file",
+      "digest": "6e27407f6463187255ff505aed3c8a9453054706c1bb89d0cc0e4be3833e7fc2",
+      "type": "add"
+    },
+    "bx-film.svg": {
+      "tag": "icon-film",
+      "digest": "6c3a7b1879a909537a5a7813b09175f90144a6d77f6200bd5ce220f16f4a5d21",
+      "type": "add"
+    },
+    "bx-filter.svg": {
+      "tag": "icon-filter",
+      "digest": "89e62367af0941e9b3d1e68c267243409c8a395d117271e5e3e237b3aec9d0b9",
+      "type": "add"
+    },
+    "bx-filter-alt.svg": {
+      "tag": "icon-filter-alt",
+      "digest": "2e815b2c6d10df632502261d6f62e5ccd095e15702ceb3ed141c798847a4f14c",
+      "type": "add"
+    },
+    "bx-fingerprint.svg": {
+      "tag": "icon-fingerprint",
+      "digest": "3ee04d1fb016de93b774173e28be0361ad86f4287795700d7bec4331bf0cc720",
+      "type": "add"
+    },
+    "bx-first-aid.svg": {
+      "tag": "icon-first-aid",
+      "digest": "497219207d7b2131689b40aeb1378baf1d72c7a21a78306a0f15c80433986437",
+      "type": "add"
+    },
+    "bx-first-page.svg": {
+      "tag": "icon-first-page",
+      "digest": "406657839bd3f76326671a28fc9fe1fe2dda7c38248664f98948d7f935cd7bbe",
+      "type": "add"
+    },
+    "bx-folder-minus.svg": {
+      "tag": "icon-folder-minus",
+      "digest": "283410ac04455543d2cf1ad245a1f5c70e2997fa72753091e2c6bc10979e3da9",
+      "type": "add"
+    },
+    "bx-folder-open.svg": {
+      "tag": "icon-folder-open",
+      "digest": "ad5f85c891ffa7b3c501b3f881dd9808dc7fad01204dd1e339b2ae04ac5bbe30",
+      "type": "add"
+    },
+    "bx-folder-plus.svg": {
+      "tag": "icon-folder-plus",
+      "digest": "7471ff64ed3b3d9022f5f1ceae9822d0396f4e01ace24d2b7b93890f46939629",
+      "type": "add"
+    },
+    "bx-flag.svg": {
+      "tag": "icon-flag",
+      "digest": "7dd39013b0a545f8169a6b364f13b16dbfc7c68f60c6815afc73d72ce4d44a58",
+      "type": "add"
+    },
+    "bx-folder.svg": {
+      "tag": "icon-folder",
+      "digest": "cc23081eeb02d2202642ba1ba1b6c98c21934b558a5d632c4021f58a13510806",
+      "type": "add"
+    },
+    "bx-font-family.svg": {
+      "tag": "icon-font-family",
+      "digest": "49b1a596997eb81f6b7af7947b456413d3d6783a85a65ac231e7c46ebd09b08e",
+      "type": "add"
+    },
+    "bx-font-color.svg": {
+      "tag": "icon-font-color",
+      "digest": "01c3ac85bf049c2fb7fd95d905786d7acce503dd4d69beb56595f00c21032afe",
+      "type": "add"
+    },
+    "bx-font-size.svg": {
+      "tag": "icon-font-size",
+      "digest": "c2525a0d951a7f8747a3f448dac937748684e3a653a7f73d2d72743af19d7784",
+      "type": "add"
+    },
+    "bx-font.svg": {
+      "tag": "icon-font",
+      "digest": "46427d5c6b2c7b245cb189eb7736b520000be7de08e5440aa526a9ead9842488",
+      "type": "add"
+    },
+    "bx-food-tag.svg": {
+      "tag": "icon-food-tag",
+      "digest": "d876036b0151145e7f8d7831a902bf8f94332e2987260b0a845c70d33cfcb9cc",
+      "type": "add"
+    },
+    "bx-food-menu.svg": {
+      "tag": "icon-food-menu",
+      "digest": "9366e01d2b29568ef319104d7112cc410d7e4fd2c67ecd697f4ae580c1db8dc1",
+      "type": "add"
+    },
+    "bx-football.svg": {
+      "tag": "icon-football",
+      "digest": "9a6acfb26fe6fd992ec3c50b1e84a0a62cc21ff48288b7a603d98da3c5420106",
+      "type": "add"
+    },
+    "bx-fridge.svg": {
+      "tag": "icon-fridge",
+      "digest": "683872369efbaca7a4dce6fbccef9cd25d7aeb5e5e52102c0bcef9105514e4c0",
+      "type": "add"
+    },
+    "bx-fork.svg": {
+      "tag": "icon-fork",
+      "digest": "c7a2d211ff47c5c40147d3b29552a8d8475c0e879c7c7052a168cd576739b636",
+      "type": "add"
+    },
+    "bx-fullscreen.svg": {
+      "tag": "icon-fullscreen",
+      "digest": "d0a56c5f7ffefdae803ae46ca267cfc955a9e4492e385b7f0d324a0451184c64",
+      "type": "add"
+    },
+    "bx-game.svg": {
+      "tag": "icon-game",
+      "digest": "fa6d99a5f6a2e1813a472f109c700abf3af3d091d3c1473c4ec4ab76314603b3",
+      "type": "add"
+    },
+    "bx-gas-pump.svg": {
+      "tag": "icon-gas-pump",
+      "digest": "f673758882d784c5a456d94d0f83990bad9b83fc4e7bfa75538b999e3186e7c5",
+      "type": "add"
+    },
+    "bx-ghost.svg": {
+      "tag": "icon-ghost",
+      "digest": "b35105ca8d08a0d63ecf21eaceee7c63e9949b4163baa248bd8a777801767e84",
+      "type": "add"
+    },
+    "bx-git-compare.svg": {
+      "tag": "icon-git-compare",
+      "digest": "d33d912e410742ac0cde4257c88b100c788bfab501715f04574d3fadb2d276f3",
+      "type": "add"
+    },
+    "bx-gift.svg": {
+      "tag": "icon-gift",
+      "digest": "383a6dc17e8464eb2dd9b9542f7b3fde863f75dcbb8b6a56c303b44290662158",
+      "type": "add"
+    },
+    "bx-git-commit.svg": {
+      "tag": "icon-git-commit",
+      "digest": "b5891c75056215feba9419f38d2b87c3946bbf37fc5cebd30f30ecea62b426a7",
+      "type": "add"
+    },
+    "bx-git-branch.svg": {
+      "tag": "icon-git-branch",
+      "digest": "8a513897a07a2b68aaa8c1125c2a93b0e40dc341d02407935d22d50c30020b35",
+      "type": "add"
+    },
+    "bx-git-merge.svg": {
+      "tag": "icon-git-merge",
+      "digest": "f17459318004a684e270fdd6d3ba02c0fb46c60f1c57142bf1e8768ece184b05",
+      "type": "add"
+    },
+    "bx-glasses-alt.svg": {
+      "tag": "icon-glasses-alt",
+      "digest": "fa7b31ce095659f0076ef74e0bec3d2fcee0224acf19915132a31b01a755bbd2",
+      "type": "add"
+    },
+    "bx-glasses.svg": {
+      "tag": "icon-glasses",
+      "digest": "3edc7aaac5f0b77e97f25fcfc40c3e12353d085739f07c889a665e393f23cdd0",
+      "type": "add"
+    },
+    "bx-git-pull-request.svg": {
+      "tag": "icon-git-pull-request",
+      "digest": "2b92f03afebc9769287e20ac469fa499fb96e28749cb69c03fa263dc68e6531a",
+      "type": "add"
+    },
+    "bx-git-repo-forked.svg": {
+      "tag": "icon-git-repo-forked",
+      "digest": "c0dee6fe758b4b289f88fc961380caef419895c18886f0202f5a0c79d7a9e6cb",
+      "type": "add"
+    },
+    "bx-globe-alt.svg": {
+      "tag": "icon-globe-alt",
+      "digest": "e9b231f240fe68d01a921749743cab18f20a888b1590ffc09aba040bfa642861",
+      "type": "add"
+    },
+    "bx-globe.svg": {
+      "tag": "icon-globe",
+      "digest": "7fd7a17639fbe2d45c810660f61389c3fbb7a0bb0a3fbeddcf84bea7680e28d0",
+      "type": "add"
+    },
+    "bx-grid-alt.svg": {
+      "tag": "icon-grid-alt",
+      "digest": "a51757f30122aeab6c02abd57f4d5d801cd1e7ff5203e6a5deff61d00e90d20d",
+      "type": "add"
+    },
+    "bx-grid-small.svg": {
+      "tag": "icon-grid-small",
+      "digest": "57725152712dc6e13150dc9b28542dfc2019b963b7b7490fe707f29e7990c8e8",
+      "type": "add"
+    },
+    "bx-grid-horizontal.svg": {
+      "tag": "icon-grid-horizontal",
+      "digest": "9a64ce13f48e0adbe6fdade308e91bab0e43830879b663f3673521ccef5ec4dc",
+      "type": "add"
+    },
+    "bx-grid-vertical.svg": {
+      "tag": "icon-grid-vertical",
+      "digest": "79fbc36ee0b91cec2e3ac91782a9b4b657e320f09f99d6242961aabdd1f33bfe",
+      "type": "add"
+    },
+    "bx-group.svg": {
+      "tag": "icon-group",
+      "digest": "81c9295e7ee5145ad7b3436a125601d06b831c97971913377ffc2dae08867576",
+      "type": "add"
+    },
+    "bx-happy-alt.svg": {
+      "tag": "icon-happy-alt",
+      "digest": "0e52dbef6db87f2184a7c3f60ad046da62a138c6f1d174f7011026dcdb22d815",
+      "type": "add"
+    },
+    "bx-grid.svg": {
+      "tag": "icon-grid",
+      "digest": "8d1de7449580b2e6fe9b64235a6401885f8d65f72e1cb10d8b86890401f9f538",
+      "type": "add"
+    },
+    "bx-handicap.svg": {
+      "tag": "icon-handicap",
+      "digest": "63dde6f14d7809bb131d680b31f8e5399f389d3ccb846a670414abae91c4992c",
+      "type": "add"
+    },
+    "bx-happy-heart-eyes.svg": {
+      "tag": "icon-happy-heart-eyes",
+      "digest": "7b4493e656cbdcd2b96d02fcdc65fcc540ebc122d9fe4a85afa604a5f63b66de",
+      "type": "add"
+    },
+    "bx-happy-beaming.svg": {
+      "tag": "icon-happy-beaming",
+      "digest": "bc18dfdc0fe8bf071049afe079e7a3eff511e75768f6c7d4eae4a04340f32c71",
+      "type": "add"
+    },
+    "bx-happy.svg": {
+      "tag": "icon-happy",
+      "digest": "62adc928530425d7467c1ffd969df8abc06abbc576b60a2820ae6c170f82d5e2",
+      "type": "add"
+    },
+    "bx-hdd.svg": {
+      "tag": "icon-hdd",
+      "digest": "651b1f941df2f75db0f14044ce2ca6c4fc679fa3cd988dacc01be466bbcc5d8e",
+      "type": "add"
+    },
+    "bx-hard-hat.svg": {
+      "tag": "icon-hard-hat",
+      "digest": "22bdb5afa9c000967c94a2b1b88c6e792aa63b260486f3cfad7002dd0c130bf9",
+      "type": "add"
+    },
+    "bx-hash.svg": {
+      "tag": "icon-hash",
+      "digest": "99ca7211715ff8f22c7badfb38c5dff009c144b2321742667c3f1f990a366787",
+      "type": "add"
+    },
+    "bx-headphone.svg": {
+      "tag": "icon-headphone",
+      "digest": "a22dc9b06ca852e63ddaa057b5d7992c36ff6be0b4e3057a7d111a7951bf2ecb",
+      "type": "add"
+    },
+    "bx-health.svg": {
+      "tag": "icon-health",
+      "digest": "eea2820b66d4422ae8675d3786364b2bb06f07ea2f657fda3a5dfc2460f6ca05",
+      "type": "add"
+    },
+    "bx-heading.svg": {
+      "tag": "icon-heading",
+      "digest": "1f475ab5919b946150c53be6d223706f73859f31d6afab5eafef300a830e7b14",
+      "type": "add"
+    },
+    "bx-heart-circle.svg": {
+      "tag": "icon-heart-circle",
+      "digest": "3c50b3fa4555a94ec6b593139997433e3b673fbc92e3b12a76eba1c8efc32473",
+      "type": "add"
+    },
+    "bx-heart-square.svg": {
+      "tag": "icon-heart-square",
+      "digest": "224731515edd7c7af57b3dc4bf7c06345db8380751c575ca2d5f2f99bf27d0de",
+      "type": "add"
+    },
+    "bx-heart.svg": {
+      "tag": "icon-heart",
+      "digest": "8a2ed19358353cd740f5ef717c69343e89204f3559d5fed6687713c9ba472ce2",
+      "type": "add"
+    },
+    "bx-help-circle.svg": {
+      "tag": "icon-help-circle",
+      "digest": "dd59bd0f9fa0069efaa7e4b9361618899f5f57dfa3c594a6fdd429a3a03028ee",
+      "type": "add"
+    },
+    "bx-history.svg": {
+      "tag": "icon-history",
+      "digest": "ada289930e3b4e1105e78c93f0f611131c0f72e93ff40bbe60f74460db71831a",
+      "type": "add"
+    },
+    "bx-highlight.svg": {
+      "tag": "icon-highlight",
+      "digest": "463de078233fab8a018c5a2f6399574722e3bf310d299178347ba9a79949b165",
+      "type": "add"
+    },
+    "bx-hide.svg": {
+      "tag": "icon-hide",
+      "digest": "f38583140841d5a685007b25b1eb5b1b5a2ec8ba879818abd1c7c85b6fd01ff4",
+      "type": "add"
+    },
+    "bx-hive.svg": {
+      "tag": "icon-hive",
+      "digest": "0e556540de4d5b3f32ea78f1c534ddf550f4a96801d047cbe1c7ebc278f1b956",
+      "type": "add"
+    },
+    "bx-home-alt-2.svg": {
+      "tag": "icon-home-alt-2",
+      "digest": "577269e446364897285d28849931f00274de071640533194f85b30c91673e545",
+      "type": "add"
+    },
+    "bx-home-heart.svg": {
+      "tag": "icon-home-heart",
+      "digest": "a338e013e26f162a80d6ed96909788954e6676dd547f9cac446ef68a36fefc5e",
+      "type": "add"
+    },
+    "bx-home-alt.svg": {
+      "tag": "icon-home-alt",
+      "digest": "cad7bca3dd37fd3be795deffb8bf96b2c1b6ede61b5ac1e31f6f33f8544f9248",
+      "type": "add"
+    },
+    "bx-home-circle.svg": {
+      "tag": "icon-home-circle",
+      "digest": "2841ce88de5c0f39f67e42dc47242fd27404135b57e7d34526cdc4bbf63fa55f",
+      "type": "add"
+    },
+    "bx-horizontal-center.svg": {
+      "tag": "icon-horizontal-center",
+      "digest": "2c882d9904352a74d0824ebf4f11eba7f0cb69f935194f4ac3e745c60bc5b38f",
+      "type": "add"
+    },
+    "bx-home.svg": {
+      "tag": "icon-home",
+      "digest": "2a2372c714d296fae605810496cef48e6977052338071be3062f6689a3dd82de",
+      "type": "add"
+    },
+    "bx-horizontal-left.svg": {
+      "tag": "icon-horizontal-left",
+      "digest": "0c9b951932b52b88f9cdffd0e4b0c3643910c42935fb402a877d295303e944a5",
+      "type": "add"
+    },
+    "bx-home-smile.svg": {
+      "tag": "icon-home-smile",
+      "digest": "f864903b7acab3ee2b559ee3ce4c5597ec0e4ee88d98c03d499525b6fb075ec7",
+      "type": "add"
+    },
+    "bx-horizontal-right.svg": {
+      "tag": "icon-horizontal-right",
+      "digest": "8be37302ea0c1f20fb4f2b94b71cc30774c0200838d786c38cad3c25b20f84db",
+      "type": "add"
+    },
+    "bx-hourglass.svg": {
+      "tag": "icon-hourglass",
+      "digest": "aea728503c5fc55a86ee2a257a2488d1e614a86a38be07e05d595c0cd92d1c19",
+      "type": "add"
+    },
+    "bx-image-add.svg": {
+      "tag": "icon-image-add",
+      "digest": "b2908a48ace2571a77e6bc4856eccbaf52b9fe5e9320bd8788643d5e7d063f01",
+      "type": "add"
+    },
+    "bx-hotel.svg": {
+      "tag": "icon-hotel",
+      "digest": "907a32d2ec36e0bd07b7b7b468ff2cdc9bd2ec608ff689b6e67550f6781904a8",
+      "type": "add"
+    },
+    "bx-id-card.svg": {
+      "tag": "icon-id-card",
+      "digest": "17fa881ba71cf7d7f4b48daed9b6282867cf18fb58362bdab31507903ba718e0",
+      "type": "add"
+    },
+    "bx-images.svg": {
+      "tag": "icon-images",
+      "digest": "867980db8d8747ea5a29733ac7eee001dd34c0e2f5d84742ff3da269843af398",
+      "type": "add"
+    },
+    "bx-image-alt.svg": {
+      "tag": "icon-image-alt",
+      "digest": "b3ffa0f4b4e194807f574dbd48f5c411930cb87fb981964d9abdb514074f48be",
+      "type": "add"
+    },
+    "bx-import.svg": {
+      "tag": "icon-import",
+      "digest": "27eb80688e88d408be845d375c1837503dd8d9eaed702886ceb6b3df002a4cc8",
+      "type": "add"
+    },
+    "bx-image.svg": {
+      "tag": "icon-image",
+      "digest": "eca0aae0a887135cb89e156d466e4d804a6f03c19e759ee27974e89f686d6bc4",
+      "type": "add"
+    },
+    "bx-infinite.svg": {
+      "tag": "icon-infinite",
+      "digest": "f33f25d83981b024aa11ba4cf74d93268f9e04a44b62c2d3fdee1fd1fea9b691",
+      "type": "add"
+    },
+    "bx-info-circle.svg": {
+      "tag": "icon-info-circle",
+      "digest": "353d0d700a22467ca244481f795895c5bb920e770a8f43035990abfb47a87b24",
+      "type": "add"
+    },
+    "bx-info-square.svg": {
+      "tag": "icon-info-square",
+      "digest": "d8ce1ef8516ade150ed186b6d845b59f30ca666d3c1700a4febd3e5651d68e9a",
+      "type": "add"
+    },
+    "bx-injection.svg": {
+      "tag": "icon-injection",
+      "digest": "817c51d66cdd03d9345bf12ac47c421e7c68eb40a0f88bda18f2f386e6bc4324",
+      "type": "add"
+    },
+    "bx-intersect.svg": {
+      "tag": "icon-intersect",
+      "digest": "7dbeba8f8c2f370402dbb4bee48544371a8bdbada6e342aacfb943640fcf9a98",
+      "type": "add"
+    },
+    "bx-italic.svg": {
+      "tag": "icon-italic",
+      "digest": "8715082d8735bb2c429ec03fd9273c6ca0595b1fc5ccbe61238a25c5cd39f13a",
+      "type": "add"
+    },
+    "bx-joystick-alt.svg": {
+      "tag": "icon-joystick-alt",
+      "digest": "6c57af2f11c9a8b613701815b7a397fadf2cb52ead26cb1133fe2a6b9e5a3bfe",
+      "type": "add"
+    },
+    "bx-joystick.svg": {
+      "tag": "icon-joystick",
+      "digest": "9f6822e8f33d891208ba276e58cf1d7e2486aa026a1c285abeb679c2778b9f6b",
+      "type": "add"
+    },
+    "bx-joystick-button.svg": {
+      "tag": "icon-joystick-button",
+      "digest": "280beb5a8a80fd438a1343c0f724e8ae97de4ddc4ea394415e9ef82b44a7519c",
+      "type": "add"
+    },
+    "bx-key.svg": {
+      "tag": "icon-key",
+      "digest": "b6cfb013c7f7d734313171e3a7a035cf859eb6c83ecc61b6c55608d843689c15",
+      "type": "add"
+    },
+    "bx-knife.svg": {
+      "tag": "icon-knife",
+      "digest": "7eb48fd6ad3b8221602f78aa3769dab348255ac365039b66e97a37cd9d18352c",
+      "type": "add"
+    },
+    "bx-label.svg": {
+      "tag": "icon-label",
+      "digest": "0ef7ec3e626f7990b1a507951b8c9619a8a55b712fdec9d502e0007d7c9cdefb",
+      "type": "add"
+    },
+    "bx-landscape.svg": {
+      "tag": "icon-landscape",
+      "digest": "ecd9e4642e65d7f9cc0ae5db279948bc471fa6fa6034ad073eafb9ebf4e84e91",
+      "type": "add"
+    },
+    "bx-laptop.svg": {
+      "tag": "icon-laptop",
+      "digest": "060679e57b0da4663e9815705ec508d6c394112181f1cc8bf569be60c662893e",
+      "type": "add"
+    },
+    "bx-last-page.svg": {
+      "tag": "icon-last-page",
+      "digest": "16a62d933a15cc5e9a590edc59567786134e2bec9f91e0d350a01a31f7fa0911",
+      "type": "add"
+    },
+    "bx-laugh.svg": {
+      "tag": "icon-laugh",
+      "digest": "590c3aa34c11289a34a4d13a378dcdca00ad927b0de46df9de826dd8323a4f91",
+      "type": "add"
+    },
+    "bx-layer-minus.svg": {
+      "tag": "icon-layer-minus",
+      "digest": "30d000b7eb02c8e5e9c28dacd0d0731ee360808c01a29ce0e0afbf071e75e988",
+      "type": "add"
+    },
+    "bx-layer-plus.svg": {
+      "tag": "icon-layer-plus",
+      "digest": "c1e7c9e8b18de02e2046bc9721cd7af6f5075c1d67f21b226153ac71d82d3e9e",
+      "type": "add"
+    },
+    "bx-layer.svg": {
+      "tag": "icon-layer",
+      "digest": "3142d57c553fbc2fa49b70ceb4111fc10a5246175d385016314aaaec8254e98f",
+      "type": "add"
+    },
+    "bx-leaf.svg": {
+      "tag": "icon-leaf",
+      "digest": "262366f652e84fdf09680449b917eb2110b6cd10cd120360c09af129db7e101b",
+      "type": "add"
+    },
+    "bx-layout.svg": {
+      "tag": "icon-layout",
+      "digest": "45dc32e2bb358f51211b52c94c42d6a68443e2f4b6e0b5115f6d3565b2d8666b",
+      "type": "add"
+    },
+    "bx-left-arrow-alt.svg": {
+      "tag": "icon-left-arrow-alt",
+      "digest": "b841bd84cd1d6f839952c329bf443bdb5a964419eeef6c9687abb19c5ea93156",
+      "type": "add"
+    },
+    "bx-left-arrow-circle.svg": {
+      "tag": "icon-left-arrow-circle",
+      "digest": "c42633b98bc24165838c242bc37df042bc7c4f324691220ed0c2481580623175",
+      "type": "add"
+    },
+    "bx-left-arrow.svg": {
+      "tag": "icon-left-arrow",
+      "digest": "ac05a5fc2e80bd80919c6af1750b968e628bcd2d39325a9244e1cf9fc16dde71",
+      "type": "add"
+    },
+    "bx-left-down-arrow-circle.svg": {
+      "tag": "icon-left-down-arrow-circle",
+      "digest": "803167518bd2910e496b54cfb039c05598740d3e69767ea96e6028ba54355be0",
+      "type": "add"
+    },
+    "bx-left-indent.svg": {
+      "tag": "icon-left-indent",
+      "digest": "967d715c0391911e5330d3bdf5c2e40ddb1d00b4120bac276f33eed6f8e34f6d",
+      "type": "add"
+    },
+    "bx-lemon.svg": {
+      "tag": "icon-lemon",
+      "digest": "19c3dcd43a9612857027b2194cd4db9b7d048ff3f62c77155ca66a88a4020480",
+      "type": "add"
+    },
+    "bx-library.svg": {
+      "tag": "icon-library",
+      "digest": "914864eedcf6f9f1bbe87d09201a726ff068a0c874dd54bac029080dc0391e51",
+      "type": "add"
+    },
+    "bx-left-top-arrow-circle.svg": {
+      "tag": "icon-left-top-arrow-circle",
+      "digest": "f44a97420b753182a8b30d3d2cf5770e2b4b73546ef62fd08735b1351f053da7",
+      "type": "add"
+    },
+    "bx-like.svg": {
+      "tag": "icon-like",
+      "digest": "630f5bc8833bba9ed3dc0422c3fc334516d1ea8a07a7ec171ad6effa800e3afb",
+      "type": "add"
+    },
+    "bx-line-chart-down.svg": {
+      "tag": "icon-line-chart-down",
+      "digest": "f5a6fcd057c4c74ca8b77bd2acf8a4bb525dba67e4a161e24d0086d7cdf79850",
+      "type": "add"
+    },
+    "bx-line-chart.svg": {
+      "tag": "icon-line-chart",
+      "digest": "4aa62a84b9cbab854e410ab4cb1dff558eb6cfa84adc80567b115db769b46310",
+      "type": "add"
+    },
+    "bx-link-external.svg": {
+      "tag": "icon-link-external",
+      "digest": "237cd9f8cd8d27e40ec3a21252f8d56620229014e31c448b53f74b9841742c41",
+      "type": "add"
+    },
+    "bx-link-alt.svg": {
+      "tag": "icon-link-alt",
+      "digest": "823783a5755b532b9b7e7486684158f94a63c23c1c86a0d2452ca15973fea52c",
+      "type": "add"
+    },
+    "bx-link.svg": {
+      "tag": "icon-link",
+      "digest": "6862ae8b462bfae7f5e639505bd7097b571586c012d5e358390360733c8c1cad",
+      "type": "add"
+    },
+    "bx-lira.svg": {
+      "tag": "icon-lira",
+      "digest": "95f1bd3db1fb3b5e3c6c120e8242764d788607a0aa0031c0f886cbac66ece82d",
+      "type": "add"
+    },
+    "bx-list-check.svg": {
+      "tag": "icon-list-check",
+      "digest": "a6b2c8ac3128756d983650600555e340ae285ebca57acd5f387588236f45c00b",
+      "type": "add"
+    },
+    "bx-list-minus.svg": {
+      "tag": "icon-list-minus",
+      "digest": "762d9cd56297888da833e05ef8a92bb53e50faa21ee740c319e0ae868662f8cb",
+      "type": "add"
+    },
+    "bx-list-ol.svg": {
+      "tag": "icon-list-ol",
+      "digest": "9c5689c4655309d7c59d9c039774bcf02803eeed332f72b4c4e1906a22d41d1b",
+      "type": "add"
+    },
+    "bx-list-ul.svg": {
+      "tag": "icon-list-ul",
+      "digest": "4a885fdec021a86611ce8ef1c46301455621d885eb312d043aab81b785d60333",
+      "type": "add"
+    },
+    "bx-list-plus.svg": {
+      "tag": "icon-list-plus",
+      "digest": "b22ea6545635bb2ce93124f559513215ffbc22b41ec618fd42f508ac622e800f",
+      "type": "add"
+    },
+    "bx-loader-circle.svg": {
+      "tag": "icon-loader-circle",
+      "digest": "bdfb975a92be271e816adf22aabd7ff1006b02dd173ed9be7d7663d023af5805",
+      "type": "add"
+    },
+    "bx-loader-alt.svg": {
+      "tag": "icon-loader-alt",
+      "digest": "43b2bb93bb5af8c8cace1a029b0ed220e440d8f1831eb2e1fd5aa67173727c07",
+      "type": "add"
+    },
+    "bx-loader.svg": {
+      "tag": "icon-loader",
+      "digest": "c1aa641996aec19e29270ae723446366258b493a10d8bbbfc607ac9d95a2c9db",
+      "type": "add"
+    },
+    "bx-lock-open-alt.svg": {
+      "tag": "icon-lock-open-alt",
+      "digest": "a77417a5305b7808fb4f8c781e29b19a0c7e0bd42af368457e25695499561036",
+      "type": "add"
+    },
+    "bx-lock-alt.svg": {
+      "tag": "icon-lock-alt",
+      "digest": "db647ba872d0bead23cdb5dc48cadb4ea9030c5bd258f1378427489cc7acf468",
+      "type": "add"
+    },
+    "bx-location-plus.svg": {
+      "tag": "icon-location-plus",
+      "digest": "d5921f7386c8557f22d9dc1c4dcdf2bd7d6b6795b09a2a87013ad8705d01a7f1",
+      "type": "add"
+    },
+    "bx-lock-open.svg": {
+      "tag": "icon-lock-open",
+      "digest": "a5f0e114f81dc4dd1a357392edcbb74a2800c93cbdbe7f4400ec3ea90aa8c871",
+      "type": "add"
+    },
+    "bx-lock.svg": {
+      "tag": "icon-lock",
+      "digest": "b74af51c1b794d63507646f8d2ff407815649a3e4c7a20f2b7984502e8aa4ea4",
+      "type": "add"
+    },
+    "bx-log-in-circle.svg": {
+      "tag": "icon-log-in-circle",
+      "digest": "7faff5544f9e968ec2c807602ece554cd5dce793e5782a6b1adf243cd084a446",
+      "type": "add"
+    },
+    "bx-log-in.svg": {
+      "tag": "icon-log-in",
+      "digest": "4e7d50f0edb3b7c17fdc970a0aca07c3c2307ff35fadc3bb15058a1a57aa98bb",
+      "type": "add"
+    },
+    "bx-log-out.svg": {
+      "tag": "icon-log-out",
+      "digest": "007ca68a47797c6664170dd8b91351b9198cb82e381137bdf2cf7f06891bbc19",
+      "type": "add"
+    },
+    "bx-log-out-circle.svg": {
+      "tag": "icon-log-out-circle",
+      "digest": "b8596274882e253cd05fb0229c3ea9f54711b2491628a9f2642da87560f520ec",
+      "type": "add"
+    },
+    "bx-low-vision.svg": {
+      "tag": "icon-low-vision",
+      "digest": "8c2fea5043d25c2d57dee807f6f7b2147dc8df6e0c43a8102dc158bd2f8d8961",
+      "type": "add"
+    },
+    "bx-magnet.svg": {
+      "tag": "icon-magnet",
+      "digest": "740766c753ba86e26b67b4701810dfb3edc6af95e62d7b8a5f9ad15f49ad4fe6",
+      "type": "add"
+    },
+    "bx-mail-send.svg": {
+      "tag": "icon-mail-send",
+      "digest": "1593efa740034b2d84a4eb61b536f20c95c2c8115a56d0c95e40b6bd8b7dd950",
+      "type": "add"
+    },
+    "bx-male-sign.svg": {
+      "tag": "icon-male-sign",
+      "digest": "bac5a8a2d45077160a465d7af79dd14b09cb48f0b3ce7aba8ef794c05306f794",
+      "type": "add"
+    },
+    "bx-male-female.svg": {
+      "tag": "icon-male-female",
+      "digest": "1cb581df0e3ef79b1a455a93296b4e7f5cc14109a637cfc980758e1f10623835",
+      "type": "add"
+    },
+    "bx-male.svg": {
+      "tag": "icon-male",
+      "digest": "c5bd63e85d3eeadf3e8b4906ad997e5674a899329f4e29e251a7fa6265aaa426",
+      "type": "add"
+    },
+    "bx-map-alt.svg": {
+      "tag": "icon-map-alt",
+      "digest": "1732e848eca146142bb7b2665b2e2605573d74b11fc121899e363c3157d73818",
+      "type": "add"
+    },
+    "bx-map-pin.svg": {
+      "tag": "icon-map-pin",
+      "digest": "7ded167377e814d7bbb510bb08189e076fbf59a126e4576ff1df9c6e64dde2e2",
+      "type": "add"
+    },
+    "bx-map.svg": {
+      "tag": "icon-map",
+      "digest": "52fc6b7f757b662ced77e0e3747bbaa92a9206c99bc80f26105b6917f3fd18d5",
+      "type": "add"
+    },
+    "bx-mask.svg": {
+      "tag": "icon-mask",
+      "digest": "b20c2b027c62a5252b3bb064b6d2b84bc2ad0a6856214a02593a12e444f7d844",
+      "type": "add"
+    },
+    "bx-meh-alt.svg": {
+      "tag": "icon-meh-alt",
+      "digest": "7360a2de3fea05bd873de67e49d10e1224e22c242baacf7ef3efdeaf0529120c",
+      "type": "add"
+    },
+    "bx-math.svg": {
+      "tag": "icon-math",
+      "digest": "1672e5cf7087f29e116d8b28eb03105be24c4cf3a5de15a5970592561bbacb01",
+      "type": "add"
+    },
+    "bx-medal.svg": {
+      "tag": "icon-medal",
+      "digest": "6ca9ce263a9fb4b216ede3de680dceb02f149d78db827045dc894ae6a4134d09",
+      "type": "add"
+    },
+    "bx-meh.svg": {
+      "tag": "icon-meh",
+      "digest": "b7eb80825f74aa0693dff471c54d63c16d600485ed09cdef28f1bed96a541780",
+      "type": "add"
+    },
+    "bx-meh-blank.svg": {
+      "tag": "icon-meh-blank",
+      "digest": "1c8d1f85829929c3f7afc122c980f6576fcd298d70d02d16996639606cf883ae",
+      "type": "add"
+    },
+    "bx-memory-card.svg": {
+      "tag": "icon-memory-card",
+      "digest": "31636b6e31ea307252d0483396b99a1967956b2901aa46a88447a1f06b47d328",
+      "type": "add"
+    },
+    "bx-menu-alt-left.svg": {
+      "tag": "icon-menu-alt-left",
+      "digest": "79969dbc9bfd472eb5fc6b9618a37efbc60918100ccb2b17f03db9f948806a6f",
+      "type": "add"
+    },
+    "bx-menu.svg": {
+      "tag": "icon-menu",
+      "digest": "460e9fef6e1f8d41bad4f442b67f181fdde25e5828656804a5974905a277a95c",
+      "type": "add"
+    },
+    "bx-merge.svg": {
+      "tag": "icon-merge",
+      "digest": "54a2cad68925193fe9899b502e2239d2966c2d4ab730324db6c5045efac19a49",
+      "type": "add"
+    },
+    "bx-message-add.svg": {
+      "tag": "icon-message-add",
+      "digest": "8bb5b4236fa4cb96166dfb3fc1bf359447bd76fa2679f81d73b7fccff43ed9bb",
+      "type": "add"
+    },
+    "bx-menu-alt-right.svg": {
+      "tag": "icon-menu-alt-right",
+      "digest": "bf20e171221555552690acb6c31324cc92933b15f5ede54d7c8889e0a35f0d10",
+      "type": "add"
+    },
+    "bx-message-alt-add.svg": {
+      "tag": "icon-message-alt-add",
+      "digest": "d72ae12dc93d7b34bf623f6a57f456fff8345fad95906b832705a814452cef8a",
+      "type": "add"
+    },
+    "bx-message-alt-detail.svg": {
+      "tag": "icon-message-alt-detail",
+      "digest": "2c2ae7c51ba900e29ab9b25841f6eb3fe39d8042e9eb2a6e15ebb22eef346714",
+      "type": "add"
+    },
+    "bx-message-alt-dots.svg": {
+      "tag": "icon-message-alt-dots",
+      "digest": "32c11925f7fb26ac4f0d43db92da94d2c7cc68efba2b2c8f7dbb505b2f7869a5",
+      "type": "add"
+    },
+    "bx-message-alt-edit.svg": {
+      "tag": "icon-message-alt-edit",
+      "digest": "8018b65229a35f4ec76ae28221c92387f9bec4486a5fefb2749dd89419d37acd",
+      "type": "add"
+    },
+    "bx-message-alt-error.svg": {
+      "tag": "icon-message-alt-error",
+      "digest": "e9de38c1ff3a23643df8b7fafee5f2c479e6e4e0407ba94a0b9321360e4932af",
+      "type": "add"
+    },
+    "bx-message-alt-x.svg": {
+      "tag": "icon-message-alt-x",
+      "digest": "3d4a0a9fba47ff6e4119c726c5a73464869ebc8943ccaf61a1d51c66dd88f183",
+      "type": "add"
+    },
+    "bx-message-alt-minus.svg": {
+      "tag": "icon-message-alt-minus",
+      "digest": "2a5d253d1f0d3af7e820b8fd59b984202db97072c3a9c5c93615158c172c6ca3",
+      "type": "add"
+    },
+    "bx-message-alt-check.svg": {
+      "tag": "icon-message-alt-check",
+      "digest": "a23898fbcb1e953c079d74226f119fc1c2945eee6e6047dc60145326cb712591",
+      "type": "add"
+    },
+    "bx-message-check.svg": {
+      "tag": "icon-message-check",
+      "digest": "d1ba3f4056153bd420b5891d8720a70ef02213497ae16479658657fb91a010c8",
+      "type": "add"
+    },
+    "bx-message-detail.svg": {
+      "tag": "icon-message-detail",
+      "digest": "124b3f86f9d35b445e3530546637b88a366478058aaf4d2a642d6e0a347a2ec2",
+      "type": "add"
+    },
+    "bx-message-alt.svg": {
+      "tag": "icon-message-alt",
+      "digest": "e3ff0e51be778fbfb4953b5b92ed2fb8fcbae2260880125674dd3349741c17ed",
+      "type": "add"
+    },
+    "bx-message-dots.svg": {
+      "tag": "icon-message-dots",
+      "digest": "f0c729aeff3b936833d5fa49b1716cadc8f5d04fd42a19f15393d20999647c60",
+      "type": "add"
+    },
+    "bx-message-edit.svg": {
+      "tag": "icon-message-edit",
+      "digest": "614d9213e86cb413bfc8fb30894ecbb2ef3d47bd3714b8706ac30ba5b7d47662",
+      "type": "add"
+    },
+    "bx-message-error.svg": {
+      "tag": "icon-message-error",
+      "digest": "7cd63b340a94483858dbe09e1a1ed561137d45193cb1982e1e88ef4c3cad4579",
+      "type": "add"
+    },
+    "bx-message-rounded-add.svg": {
+      "tag": "icon-message-rounded-add",
+      "digest": "59cd9546d4592b1b41ddabee5efc05630ba962c66b0d8a031efcdc75f0f96631",
+      "type": "add"
+    },
+    "bx-message-minus.svg": {
+      "tag": "icon-message-minus",
+      "digest": "8daba157b6d67320414975e5f30e4ea10304035b7518c771b7e25635cd7d632a",
+      "type": "add"
+    },
+    "bx-message-rounded-check.svg": {
+      "tag": "icon-message-rounded-check",
+      "digest": "1fb726ba749ff6271349302a88f82196119912775b511f7cb3b019b36bb3e051",
+      "type": "add"
+    },
+    "bx-message-rounded-dots.svg": {
+      "tag": "icon-message-rounded-dots",
+      "digest": "758b8595195da30cff59f5577077cea9887c1c1d50bcec94ef513c99973f3c66",
+      "type": "add"
+    },
+    "bx-message-rounded-detail.svg": {
+      "tag": "icon-message-rounded-detail",
+      "digest": "924f6e878115739dad1da50391cef437651d9738265a5a208332241712b21183",
+      "type": "add"
+    },
+    "bx-message-rounded-edit.svg": {
+      "tag": "icon-message-rounded-edit",
+      "digest": "03f0578840bcf0221a025651db784d9fea96c9467dd12f3f4ee1f4c3d2df569b",
+      "type": "add"
+    },
+    "bx-message-rounded-x.svg": {
+      "tag": "icon-message-rounded-x",
+      "digest": "7571838e24f2faa99f5704eabf99bfee6cc5362f5f0d89b7293ef1c8cff27a19",
+      "type": "add"
+    },
+    "bx-message-rounded-error.svg": {
+      "tag": "icon-message-rounded-error",
+      "digest": "017c02d464c860371237a514bc9ee05d5d98bed788c964c3ac875fdbb6087ddb",
+      "type": "add"
+    },
+    "bx-message-rounded-minus.svg": {
+      "tag": "icon-message-rounded-minus",
+      "digest": "1614cd7a3b06c81724a7e6676fdbad216b01c4fca33d92cb2595e83ad9912c8f",
+      "type": "add"
+    },
+    "bx-message-rounded.svg": {
+      "tag": "icon-message-rounded",
+      "digest": "2680c0396f2915f3259fbe7fcf80b838b569c7144625f71a2e88b712628d8250",
+      "type": "add"
+    },
+    "bx-message-square-add.svg": {
+      "tag": "icon-message-square-add",
+      "digest": "370eafaf3b99007eddea14935c456c74fdf9c8e34fe4e01b347e5c15db0df452",
+      "type": "add"
+    },
+    "bx-message-square-detail.svg": {
+      "tag": "icon-message-square-detail",
+      "digest": "e87cde04c59eb0d730c0035f566b695e682975255ebd35f5fc47235dae16ca60",
+      "type": "add"
+    },
+    "bx-message-square-check.svg": {
+      "tag": "icon-message-square-check",
+      "digest": "1efa2794e3984ffc1996c7f2e9b392dc42c39c0467c9c452528c0119da3a9afe",
+      "type": "add"
+    },
+    "bx-message-square-edit.svg": {
+      "tag": "icon-message-square-edit",
+      "digest": "37ae579669a7baf3de4ab6590a01d36a4cdbb8d04847d70ab59b7794db038d4e",
+      "type": "add"
+    },
+    "bx-message-square-dots.svg": {
+      "tag": "icon-message-square-dots",
+      "digest": "175009982c4cc900abaa12679e4e3ad45981fe1a24e9ecd2debea6f0ee35e178",
+      "type": "add"
+    },
+    "bx-message-square-x.svg": {
+      "tag": "icon-message-square-x",
+      "digest": "41adaea3f1527d795b71d9ece3cb14aef393d8d4e28ee5116d629fd7b9cc5c33",
+      "type": "add"
+    },
+    "bx-message-square-minus.svg": {
+      "tag": "icon-message-square-minus",
+      "digest": "753663541e7bfcf5ad437cba954515475afceceac76be491e8a32f9b4a015d57",
+      "type": "add"
+    },
+    "bx-message-square-error.svg": {
+      "tag": "icon-message-square-error",
+      "digest": "194dee364e917710c3c70eedd5de409bb94ada5f5b74189c7587115273bfd8c8",
+      "type": "add"
+    },
+    "bx-message-x.svg": {
+      "tag": "icon-message-x",
+      "digest": "fc48ac1c8c7f2945750f37850539553efc014b9cd31634e2a79106a999d8c879",
+      "type": "add"
+    },
+    "bx-message-square.svg": {
+      "tag": "icon-message-square",
+      "digest": "f2a11f4d53d1faa02a717255fdafa357b718d2048a8e4f21e8dcd235b2fde64d",
+      "type": "add"
+    },
+    "bx-meteor.svg": {
+      "tag": "icon-meteor",
+      "digest": "1ad73f8beb49e0da3275b8c9b87f906a8e0c1a057168c4b3038073e93e42bac2",
+      "type": "add"
+    },
+    "bx-message.svg": {
+      "tag": "icon-message",
+      "digest": "6362ecdd3c49a1644caa9de600e3b692184acb5fe3595d741b107afbe7a0a8e7",
+      "type": "add"
+    },
+    "bx-microchip.svg": {
+      "tag": "icon-microchip",
+      "digest": "00300d63a84a2b622717f0fc19c51e46395d6c2963c1d0508f36c0e3446ea7f1",
+      "type": "add"
+    },
+    "bx-microphone-off.svg": {
+      "tag": "icon-microphone-off",
+      "digest": "65f2c8c18c092f68214a6403eec1efffcd1594f6f898127b51045d9e45fb839d",
+      "type": "add"
+    },
+    "bx-microphone.svg": {
+      "tag": "icon-microphone",
+      "digest": "1deedafbbf683367862b86498c052712ec4a6601806c5c37c38fc4506ebc33bd",
+      "type": "add"
+    },
+    "bx-minus-back.svg": {
+      "tag": "icon-minus-back",
+      "digest": "ef3bcc0f1805093bbb27e7c085078994a5fcb4122098983b7febf1f478727df6",
+      "type": "add"
+    },
+    "bx-minus-circle.svg": {
+      "tag": "icon-minus-circle",
+      "digest": "fb03a1e4a6cd2e41d240ad30ee3595d125150b0bdc2626b05125d7a76504ed84",
+      "type": "add"
+    },
+    "bx-minus-front.svg": {
+      "tag": "icon-minus-front",
+      "digest": "9d81fb8b6a25ef9e81da37c544fd6dbc0f74d7517d49ea1b3fac75787a316620",
+      "type": "add"
+    },
+    "bx-minus.svg": {
+      "tag": "icon-minus",
+      "digest": "53f2085eb3caf326cf181d1a7f26018f929b15f5dc9bcd25c9e4086a07770541",
+      "type": "add"
+    },
+    "bx-mobile-vibration.svg": {
+      "tag": "icon-mobile-vibration",
+      "digest": "1bbbe937b2fa61fb01221cd03c04f85dd01e5fce6294fea2983b86c29a4852aa",
+      "type": "add"
+    },
+    "bx-mobile.svg": {
+      "tag": "icon-mobile",
+      "digest": "2b74a8056341fe7f7dbd149019075009bcbd95fbb90f90251f38a1bbd4e4e9a3",
+      "type": "add"
+    },
+    "bx-mobile-landscape.svg": {
+      "tag": "icon-mobile-landscape",
+      "digest": "1473852792e3c53a3177a2ac5882edede41a03670bea5a036b04952a0c8a6fd6",
+      "type": "add"
+    },
+    "bx-mobile-alt.svg": {
+      "tag": "icon-mobile-alt",
+      "digest": "cc0b5d7304207fd0e0113933eae6172c4e070ab7434736e0d6147692e9744440",
+      "type": "add"
+    },
+    "bx-moon.svg": {
+      "tag": "icon-moon",
+      "digest": "1821ceda6e6ba79c49428e5478ee71513229fe119688aa4f67ae167bb7315d78",
+      "type": "add"
+    },
+    "bx-money.svg": {
+      "tag": "icon-money",
+      "digest": "3145f08a96122bb072a1c7f91715a17e9ac4eed9347be7ebce6e38cbd0361f3e",
+      "type": "add"
+    },
+    "bx-mouse-alt.svg": {
+      "tag": "icon-mouse-alt",
+      "digest": "39d487004bbac47a57bc13e9084dde8abb324f674dcf7e702659d5f7a9df0b62",
+      "type": "add"
+    },
+    "bx-money-withdraw.svg": {
+      "tag": "icon-money-withdraw",
+      "digest": "cbc65c460e7784ae86d0c07a07381830b1374fd2e2063f5e2352f012c7c83920",
+      "type": "add"
+    },
+    "bx-move-horizontal.svg": {
+      "tag": "icon-move-horizontal",
+      "digest": "b5744ea5be51ca9847f4e148522c81ea329a53d4c670126e1974b011d9bb7a9f",
+      "type": "add"
+    },
+    "bx-mouse.svg": {
+      "tag": "icon-mouse",
+      "digest": "bc8524eb83d39b21d1e5bf2dcaf97ca605bac52b9662b84cb82b289142a82ec8",
+      "type": "add"
+    },
+    "bx-move-vertical.svg": {
+      "tag": "icon-move-vertical",
+      "digest": "21f2d8c52ae8d9d8c95e9fba8d57b24ccd07b1cffd22417cdd9219b0486a4f20",
+      "type": "add"
+    },
+    "bx-move.svg": {
+      "tag": "icon-move",
+      "digest": "e1cb00ccb4402c59934f57909be927be82a0f93b5631a2062fe0d4b9ab94ad76",
+      "type": "add"
+    },
+    "bx-music.svg": {
+      "tag": "icon-music",
+      "digest": "2bd2b258cababa87fa6f76413554f6936f568e715b52d6de634f56a26a9b4b7a",
+      "type": "add"
+    },
+    "bx-movie-play.svg": {
+      "tag": "icon-movie-play",
+      "digest": "c7b21166bfc5bb2d1deea9dc519bda4cbfbc68758e5077a5e0542567d48aaf6c",
+      "type": "add"
+    },
+    "bx-movie.svg": {
+      "tag": "icon-movie",
+      "digest": "dc0247e35d288887240c4b1cc8ecad74a8d2820304a90db3ba2f96d370e04987",
+      "type": "add"
+    },
+    "bx-navigation.svg": {
+      "tag": "icon-navigation",
+      "digest": "fe774d974c9b49a21dc5e458050107b6aa0c59328ae2949980116389daf49935",
+      "type": "add"
+    },
+    "bx-news.svg": {
+      "tag": "icon-news",
+      "digest": "70e4b5f3871d05bd3675eebd6523e7494d87dc9cc6708958787af604b848a0a9",
+      "type": "add"
+    },
+    "bx-no-entry.svg": {
+      "tag": "icon-no-entry",
+      "digest": "62bef8cad95893f3a0e8c49e5860980faf9112da6e1cc0d69b9f4367f8e03fac",
+      "type": "add"
+    },
+    "bx-network-chart.svg": {
+      "tag": "icon-network-chart",
+      "digest": "b5fdba23b60a1cf076eb25cdef494fb4e410bee61fbd59b7443fa58e9e9b690f",
+      "type": "add"
+    },
+    "bx-no-signal.svg": {
+      "tag": "icon-no-signal",
+      "digest": "52172b1d707079e01ae1baebcbebeea889f0c7425a5546083fc732c718ae158c",
+      "type": "add"
+    },
+    "bx-notepad.svg": {
+      "tag": "icon-notepad",
+      "digest": "16907dc1db5ca64998956af07ff372934eb06301b1eb9b5a50f69595ba7f5f20",
+      "type": "add"
+    },
+    "bx-notification-off.svg": {
+      "tag": "icon-notification-off",
+      "digest": "e7092cb54679343ac9497c818c488270c08aef7d374a11693828ed83ba066ef0",
+      "type": "add"
+    },
+    "bx-note.svg": {
+      "tag": "icon-note",
+      "digest": "a9dcdc4364396278475047217a5faead42d672f5f2f796565359778b9def5289",
+      "type": "add"
+    },
+    "bx-notification.svg": {
+      "tag": "icon-notification",
+      "digest": "24ebec188b139b66f8a98e13130de1dda2d6911981173fed6c1af12b9c1acb17",
+      "type": "add"
+    },
+    "bx-objects-horizontal-center.svg": {
+      "tag": "icon-objects-horizontal-center",
+      "digest": "7e7fc7804fad80da5943413e0f0f6e682eb3eaf6c27682a0238d73192fece208",
+      "type": "add"
+    },
+    "bx-objects-horizontal-right.svg": {
+      "tag": "icon-objects-horizontal-right",
+      "digest": "113452675ee45bbf8d0b0ae9d9a4c09d7e82547cc3e73b8a9020683df9751a60",
+      "type": "add"
+    },
+    "bx-objects-horizontal-left.svg": {
+      "tag": "icon-objects-horizontal-left",
+      "digest": "34b4f52a9889dfd49e11466218605ba49b74c8680adccc4217ce3282271f16c9",
+      "type": "add"
+    },
+    "bx-objects-vertical-top.svg": {
+      "tag": "icon-objects-vertical-top",
+      "digest": "c9929407431bc9d4d38111b2140774dfec7a4f622c0c3a5ed3cf4f0a610682a7",
+      "type": "add"
+    },
+    "bx-objects-vertical-center.svg": {
+      "tag": "icon-objects-vertical-center",
+      "digest": "0b4b19b810f535c2e9920d463ca0b79315d7f8ac52de84ddc917b5395e1e6e27",
+      "type": "add"
+    },
+    "bx-outline.svg": {
+      "tag": "icon-outline",
+      "digest": "faa55110b0541f8b95ab4c0298c2b061dcaef20166c2304b95ee36414d25db06",
+      "type": "add"
+    },
+    "bx-paint-roll.svg": {
+      "tag": "icon-paint-roll",
+      "digest": "45d295e340c2df446952612cd7344bd6ca7962711614a2784f639914d0dbd385",
+      "type": "add"
+    },
+    "bx-objects-vertical-bottom.svg": {
+      "tag": "icon-objects-vertical-bottom",
+      "digest": "0c6fb9d6e0d6962cc7ecda82aa2dd3baa0618dc94f53535c7fa5ff14ab4f9185",
+      "type": "add"
+    },
+    "bx-package.svg": {
+      "tag": "icon-package",
+      "digest": "b7e821e3eb039322915f06bbc76e00bc179d5c0ecba5192a1bcb4d4bf5eb522d",
+      "type": "add"
+    },
+    "bx-paint.svg": {
+      "tag": "icon-paint",
+      "digest": "f9eda7b7584c29d4f9c29bb37e8be0cf1095aadedb01c540c481b822e8946a8e",
+      "type": "add"
+    },
+    "bx-palette.svg": {
+      "tag": "icon-palette",
+      "digest": "60a40c984f2c863df542c37853131fc58478f1d2e7d24947d10fbb7aca1e8f6c",
+      "type": "add"
+    },
+    "bx-paper-plane.svg": {
+      "tag": "icon-paper-plane",
+      "digest": "c10e5d12f6245db87e7eb4b7c61ad21b88f5f9693d1fe1b9ef87719c32b4b67f",
+      "type": "add"
+    },
+    "bx-paperclip.svg": {
+      "tag": "icon-paperclip",
+      "digest": "951dac435d9369540beaac02dc5e902ef11889ea8a6d7a63664e66eb6afa728a",
+      "type": "add"
+    },
+    "bx-paragraph.svg": {
+      "tag": "icon-paragraph",
+      "digest": "dfea23c0ffe220fe5d581674e52d6a3ac6470c86ca16c4cfc4d13db915045274",
+      "type": "add"
+    },
+    "bx-party.svg": {
+      "tag": "icon-party",
+      "digest": "2dee31e2314aacf5f1677e60053d56a75d7b7e7f19e24960205a4a5aaa5c90cc",
+      "type": "add"
+    },
+    "bx-paste.svg": {
+      "tag": "icon-paste",
+      "digest": "4e1c8754822a87b20a58c92fab818d39b7772eb6d0aac82f08aed4ae5439c32c",
+      "type": "add"
+    },
+    "bx-pause-circle.svg": {
+      "tag": "icon-pause-circle",
+      "digest": "7b7cdc7aa0a23bfe4d7a447bc1ed3e94efa3fd23e4540241893ced236359b3a9",
+      "type": "add"
+    },
+    "bx-pen.svg": {
+      "tag": "icon-pen",
+      "digest": "32421483576517057530abe2fe10bca96e82ec000199a576565121e8eddac8fd",
+      "type": "add"
+    },
+    "bx-pencil.svg": {
+      "tag": "icon-pencil",
+      "digest": "8594432d543ba9109b9b975f047bc413127318b1ac7c8a8a0a953503a7c197f0",
+      "type": "add"
+    },
+    "bx-pause.svg": {
+      "tag": "icon-pause",
+      "digest": "3ef8f83fa40242f48d86c833a413baa8e2f74c76f98b0809d465626aebc25180",
+      "type": "add"
+    },
+    "bx-phone-call.svg": {
+      "tag": "icon-phone-call",
+      "digest": "01d26a48b224a25f5be8d7f2b5138635beb44dad7fd9eba27d7fe66de552c598",
+      "type": "add"
+    },
+    "bx-phone-outgoing.svg": {
+      "tag": "icon-phone-outgoing",
+      "digest": "646d7eecc57c70e460b595cf1b62f053709dadb5b18db3cc88bc962a940150ec",
+      "type": "add"
+    },
+    "bx-phone-off.svg": {
+      "tag": "icon-phone-off",
+      "digest": "eca8409f61a18345b739fa1fd0d27be7f83cda52f230c01aed0b9297bd5aa43c",
+      "type": "add"
+    },
+    "bx-phone-incoming.svg": {
+      "tag": "icon-phone-incoming",
+      "digest": "fd8527f7ca0128a674306672c8b812afd2e51e98cb3770753c5344f1dfbb488f",
+      "type": "add"
+    },
+    "bx-phone.svg": {
+      "tag": "icon-phone",
+      "digest": "8b2c6f2bf7ead0357f08ce9419e246bede3f190e3cfc1e3ecba10e1669d91ab9",
+      "type": "add"
+    },
+    "bx-photo-album.svg": {
+      "tag": "icon-photo-album",
+      "digest": "ce6f82e6dc425bdee51aa8553260087fdfc15e9fc2b2e4c9f18020b0e5d99197",
+      "type": "add"
+    },
+    "bx-pie-chart-alt-2.svg": {
+      "tag": "icon-pie-chart-alt-2",
+      "digest": "5c3aecaf0d13dc317ec78b26592accea2907baa30b49dd1c9462662e39dd62ca",
+      "type": "add"
+    },
+    "bx-pie-chart-alt.svg": {
+      "tag": "icon-pie-chart-alt",
+      "digest": "a1913402b22677a29023ec94c5b00d02ed6c719675d4ddd8a7ccdead528420f7",
+      "type": "add"
+    },
+    "bx-pie-chart.svg": {
+      "tag": "icon-pie-chart",
+      "digest": "e4e618177069042f1f38f418943d98f5a69f7f09b7ff779c032881eb18eceb5e",
+      "type": "add"
+    },
+    "bx-pin.svg": {
+      "tag": "icon-pin",
+      "digest": "86fe4437dbf24d86a1b93bd9df0b22f5f368de14626c4ce73fc2653ad93bd663",
+      "type": "add"
+    },
+    "bx-play-circle.svg": {
+      "tag": "icon-play-circle",
+      "digest": "6ffe85b232ca90562fe460e848e0e10637be534efdc69408d34780dca69658e6",
+      "type": "add"
+    },
+    "bx-planet.svg": {
+      "tag": "icon-planet",
+      "digest": "258adcc128b9451abf14937eb4b90dd15047c67880207f3e144fc2f046d361b1",
+      "type": "add"
+    },
+    "bx-play.svg": {
+      "tag": "icon-play",
+      "digest": "bbbccdf782a9bf94012929e3b924a3e13692ad4b0ae416e698ffafdc67c63797",
+      "type": "add"
+    },
+    "bx-plus-medical.svg": {
+      "tag": "icon-plus-medical",
+      "digest": "2935bd4ff8225aa2a5d13ef26b762eaf6323fae51c22545086684182b81596c7",
+      "type": "add"
+    },
+    "bx-plus-circle.svg": {
+      "tag": "icon-plus-circle",
+      "digest": "191f53e1a3835fcece0b398a2842527fd5c3019393f73bed55aafe003b2859c4",
+      "type": "add"
+    },
+    "bx-plug.svg": {
+      "tag": "icon-plug",
+      "digest": "cd70541af0776ebd64fb97428b2f73ab28710aa1cfe1d152df9df8e826f0bcfb",
+      "type": "add"
+    },
+    "bx-plus.svg": {
+      "tag": "icon-plus",
+      "digest": "aaf9af0e141cac06faef90b00c38832c0ab9b458286312aba52f903919005f04",
+      "type": "add"
+    },
+    "bx-poll.svg": {
+      "tag": "icon-poll",
+      "digest": "fcf2afb20aed32b39b5d97cc64d6aac7be59e1fd0eef8e1f1901106475e0828b",
+      "type": "add"
+    },
+    "bx-podcast.svg": {
+      "tag": "icon-podcast",
+      "digest": "eae1c351d025a7fb43636c9bf31b8edd7c5400820f1567c559b3bf7e0fbc4b59",
+      "type": "add"
+    },
+    "bx-pointer.svg": {
+      "tag": "icon-pointer",
+      "digest": "87876493f10a767796b1a1a596765e5e326d00e58bc0cfb35bbc95eb49a8a454",
+      "type": "add"
+    },
+    "bx-polygon.svg": {
+      "tag": "icon-polygon",
+      "digest": "1722a9d4b3a2187b478e9c5c692e1ee6fb5699ef137cf2129c6d543f7c232ba9",
+      "type": "add"
+    },
+    "bx-pound.svg": {
+      "tag": "icon-pound",
+      "digest": "b6d045cb2df0aaa77643d624469aaacb5fe5e0298475ecdf5c1bfea03f140938",
+      "type": "add"
+    },
+    "bx-power-off.svg": {
+      "tag": "icon-power-off",
+      "digest": "7dde5abe218fbea85b3e464339c8f34e45dba36aa8153396b1eae6ac8498710e",
+      "type": "add"
+    },
+    "bx-popsicle.svg": {
+      "tag": "icon-popsicle",
+      "digest": "2f10dec9077487e6c42313df3a8397ada86ecadf72cf9536988404aca37ec9c2",
+      "type": "add"
+    },
+    "bx-printer.svg": {
+      "tag": "icon-printer",
+      "digest": "9696e634ee13f81f4bc07a055f1b8d4f0098c1e5c3d573e4e1b93c27ed30e3f2",
+      "type": "add"
+    },
+    "bx-purchase-tag-alt.svg": {
+      "tag": "icon-purchase-tag-alt",
+      "digest": "625d9e19fee479d010b4a90cdec719b84d05785206eaf057baa3c0fa008e3eea",
+      "type": "add"
+    },
+    "bx-purchase-tag.svg": {
+      "tag": "icon-purchase-tag",
+      "digest": "94dfa2d8eefe7db18b75fc5196f56854820888f700928b0b9243d384a181cb07",
+      "type": "add"
+    },
+    "bx-pulse.svg": {
+      "tag": "icon-pulse",
+      "digest": "b1d0c9144a162f692e1207374eeb708158aabf864801d707899685514900ad00",
+      "type": "add"
+    },
+    "bx-pyramid.svg": {
+      "tag": "icon-pyramid",
+      "digest": "e957f2268046136bf649bd8d367d4ec9d3d353551e65480f8ef22dc4f53bd4ed",
+      "type": "add"
+    },
+    "bx-qr-scan.svg": {
+      "tag": "icon-qr-scan",
+      "digest": "c4487061bc3dfaa7a49a1f4995548a41c3fb5309568d5b7a0715040ccaaff48e",
+      "type": "add"
+    },
+    "bx-question-mark.svg": {
+      "tag": "icon-question-mark",
+      "digest": "575883ca267b4880733e655f5987ccc387196a8fce96510540b03b4b29e61ef5",
+      "type": "add"
+    },
+    "bx-qr.svg": {
+      "tag": "icon-qr",
+      "digest": "45c3e2fe95596b82e3bcb2ad8380997e3516891f51cb3763b8561d17b39d19ee",
+      "type": "add"
+    },
+    "bx-radio-circle-marked.svg": {
+      "tag": "icon-radio-circle-marked",
+      "digest": "68d9980926b760876b8292167fabcbf754a3f9cdfaf7c7a97803415aff1ce60d",
+      "type": "add"
+    },
+    "bx-radio-circle.svg": {
+      "tag": "icon-radio-circle",
+      "digest": "cbb9fe910d0344833821a8e504c4099e2822aef3b8f42f203434ad657e4d7fe2",
+      "type": "add"
+    },
+    "bx-radio.svg": {
+      "tag": "icon-radio",
+      "digest": "464dbcaf68319740bc9aa37ea1981690bd7778f5e7f4db12e544a3789ade9383",
+      "type": "add"
+    },
+    "bx-radar.svg": {
+      "tag": "icon-radar",
+      "digest": "25df63875a30d7b2c260a781681e0fdb6e161aff2c61d2410e9e4232712ca81b",
+      "type": "add"
+    },
+    "bx-recycle.svg": {
+      "tag": "icon-recycle",
+      "digest": "3440fc9e602497d034297c88039b98a4382fe46057635fdf97edbbe323249fd4",
+      "type": "add"
+    },
+    "bx-receipt.svg": {
+      "tag": "icon-receipt",
+      "digest": "7f5db2b114b2fb6e2911e14e5a806d088f52e33ba69be4ee9fa17c3e97ce452d",
+      "type": "add"
+    },
+    "bx-rectangle.svg": {
+      "tag": "icon-rectangle",
+      "digest": "8ff156dc1f7329bdc088550de97e1a4e2872f11103d5ef5569888466590a2866",
+      "type": "add"
+    },
+    "bx-redo.svg": {
+      "tag": "icon-redo",
+      "digest": "55ba9e628fbbb821c9b60c5d5f95372abca2c5150bf59879afa34815a77f9a7d",
+      "type": "add"
+    },
+    "bx-reflect-horizontal.svg": {
+      "tag": "icon-reflect-horizontal",
+      "digest": "8c1fc38a312d158538772e3446f7306d84979c82b8755959881951b2c46548f4",
+      "type": "add"
+    },
+    "bx-refresh.svg": {
+      "tag": "icon-refresh",
+      "digest": "9b152ccd92e140dbc39a95c02283648510f2717fbbcdb65deb0b161e1d97b192",
+      "type": "add"
+    },
+    "bx-reflect-vertical.svg": {
+      "tag": "icon-reflect-vertical",
+      "digest": "b981d444bb1ffd2a573fdef4e2872aea5107d02c57eb09872c9d119770c635b0",
+      "type": "add"
+    },
+    "bx-registered.svg": {
+      "tag": "icon-registered",
+      "digest": "cf74fd988cf6a630891e47b1b1f30d4cec2a7e9261fff74edffbcb97e9455268",
+      "type": "add"
+    },
+    "bx-rename.svg": {
+      "tag": "icon-rename",
+      "digest": "a66c9128b2feb53e27992c1f3ba8423b3731c512d5336bd737278332d665aa30",
+      "type": "add"
+    },
+    "bx-repeat.svg": {
+      "tag": "icon-repeat",
+      "digest": "09b00e2d1aa58a98ffd3e46572f38f6a5ec8747536bd5eca09309ac76b6a3128",
+      "type": "add"
+    },
+    "bx-reply-all.svg": {
+      "tag": "icon-reply-all",
+      "digest": "55a8f9ce5fe52179ce68fdbe1a16966eb075355fbb5cfca6fe77bca7c149c8b1",
+      "type": "add"
+    },
+    "bx-reply.svg": {
+      "tag": "icon-reply",
+      "digest": "04dd65386136afdabe6bfbab0d8113a398c07e3e59e83fda01103f6dc1ef376a",
+      "type": "add"
+    },
+    "bx-reset.svg": {
+      "tag": "icon-reset",
+      "digest": "17d21d39056d7f3ddb654f106befed6ece6a10dc5874a4fa0736f8640a8422dc",
+      "type": "add"
+    },
+    "bx-restaurant.svg": {
+      "tag": "icon-restaurant",
+      "digest": "85be23c811e53bc55c5335e2e52a5e75f6073cc98844e2d95d3d16d956ce0512",
+      "type": "add"
+    },
+    "bx-repost.svg": {
+      "tag": "icon-repost",
+      "digest": "f6a21f1d77161f3b335d5233887cf492f346077bba9e600adcd0cc9502662d2d",
+      "type": "add"
+    },
+    "bx-revision.svg": {
+      "tag": "icon-revision",
+      "digest": "18cd49eaa83e25ca5b56e15323b6d3d92abd259d05a704a2d852ce6352fc9abd",
+      "type": "add"
+    },
+    "bx-rewind.svg": {
+      "tag": "icon-rewind",
+      "digest": "acc9e729c44afe1c67e21617512dbff6691e4a4aead7ddf7350606d42f95124a",
+      "type": "add"
+    },
+    "bx-rewind-circle.svg": {
+      "tag": "icon-rewind-circle",
+      "digest": "d76f594db2296ea054e34bd2345bee1e5dfb36d56091d5e3d15e0542b2057f6e",
+      "type": "add"
+    },
+    "bx-rfid.svg": {
+      "tag": "icon-rfid",
+      "digest": "4296732c2d909c370873174fcc0de5e8840b7fb615fe1cad74a289db43bf1006",
+      "type": "add"
+    },
+    "bx-right-arrow-alt.svg": {
+      "tag": "icon-right-arrow-alt",
+      "digest": "e5d25a364ec8e85c38ed207dcca9e24a753978a6c1f8a6cd6e1f40b85bdb8862",
+      "type": "add"
+    },
+    "bx-right-arrow-circle.svg": {
+      "tag": "icon-right-arrow-circle",
+      "digest": "c436877b2db1d81bf5e6ccb3b24e1f979bdaa347b6afd3613af1f6d0d918efed",
+      "type": "add"
+    },
+    "bx-right-arrow.svg": {
+      "tag": "icon-right-arrow",
+      "digest": "03b0ee23814e55c603dad51e7fc46004efe24acde6ea7537bc280e6eb5960e8f",
+      "type": "add"
+    },
+    "bx-right-down-arrow-circle.svg": {
+      "tag": "icon-right-down-arrow-circle",
+      "digest": "fa6cde23912c2771823f5b500479dcc337661156512c57e7b1c2c8cf0f24e31d",
+      "type": "add"
+    },
+    "bx-right-indent.svg": {
+      "tag": "icon-right-indent",
+      "digest": "18ddb8e918fe7b21d304834a0e0726cc19722397366a3c9cd9e53d81a3884d13",
+      "type": "add"
+    },
+    "bx-right-top-arrow-circle.svg": {
+      "tag": "icon-right-top-arrow-circle",
+      "digest": "f87124447539be5611f7113760f249f9ca73e64c75326c16454c84b9b1feb392",
+      "type": "add"
+    },
+    "bx-rocket.svg": {
+      "tag": "icon-rocket",
+      "digest": "5d85ac290daaab11750bf907fe6cb67409420e4874fb92e22a5bd6846b222ab6",
+      "type": "add"
+    },
+    "bx-rotate-left.svg": {
+      "tag": "icon-rotate-left",
+      "digest": "2ec46fe05da968a8bedd31d7b00915f89de22c4d01f19dfba3f3336059290a06",
+      "type": "add"
+    },
+    "bx-rss.svg": {
+      "tag": "icon-rss",
+      "digest": "433e8e987d967ca4f94321b3662b2d57899eb1a9aa7f873da50141bbbb078704",
+      "type": "add"
+    },
+    "bx-rotate-right.svg": {
+      "tag": "icon-rotate-right",
+      "digest": "c79744b2812597ff3247e8bd3aa2ea1f6509b88dc773e72c355327c4179cbc47",
+      "type": "add"
+    },
+    "bx-ruble.svg": {
+      "tag": "icon-ruble",
+      "digest": "47959008cb930c5e75fd44c68a7ee86e9446939c6e9f18ff08a6b38714bf655c",
+      "type": "add"
+    },
+    "bx-ruler.svg": {
+      "tag": "icon-ruler",
+      "digest": "878e73bc46bba3002a4d377ae81b0d383dc49d1be7096a999c49de401ab043a2",
+      "type": "add"
+    },
+    "bx-run.svg": {
+      "tag": "icon-run",
+      "digest": "af0ae68c365084ad9d07884e17c1197f858bc23241d04f72da6d0c40c84a8f8d",
+      "type": "add"
+    },
+    "bx-rupee.svg": {
+      "tag": "icon-rupee",
+      "digest": "d7905bd40b2fab0c3019229129e0e3eef1a510f09291172ca88e1090c3555132",
+      "type": "add"
+    },
+    "bx-scan.svg": {
+      "tag": "icon-scan",
+      "digest": "8a7c988c24f4943a642e32d0f4a6348a175d0017d98d4fa921829ca1c36babb2",
+      "type": "add"
+    },
+    "bx-save.svg": {
+      "tag": "icon-save",
+      "digest": "5240668dce5cdb7a0e0ef1a6b06fc08e8e7680355da152a4b466c83abca0cb75",
+      "type": "add"
+    },
+    "bx-sad.svg": {
+      "tag": "icon-sad",
+      "digest": "aba1f362a8df5c3b2bfbe5812ed24a8cc180818180b61ba0fce04189dc1be5e7",
+      "type": "add"
+    },
+    "bx-scatter-chart.svg": {
+      "tag": "icon-scatter-chart",
+      "digest": "2f21ffa513171cc6b7002feba3371444541eb8d6850089c20b6c68e0a7fac6d9",
+      "type": "add"
+    },
+    "bx-screenshot.svg": {
+      "tag": "icon-screenshot",
+      "digest": "156ff94f5e4ee57ca464d417fa748a11b7506eef19c2bb9766568ed87a8fca8c",
+      "type": "add"
+    },
+    "bx-search-alt.svg": {
+      "tag": "icon-search-alt",
+      "digest": "08fb989ea21954bec155ee6040e4c9545f9d608ad9fd70d212754d026db2afbe",
+      "type": "add"
+    },
+    "bx-search-alt-2.svg": {
+      "tag": "icon-search-alt-2",
+      "digest": "7be193d44ba4890d97dd5c3917075b8b155b3f2a129849ee72625f90343c51f8",
+      "type": "add"
+    },
+    "bx-search.svg": {
+      "tag": "icon-search",
+      "digest": "bee778b7fcee501e64ed5d617caf3efb82a3ee94ece23aba314747a978481d97",
+      "type": "add"
+    },
+    "bx-select-multiple.svg": {
+      "tag": "icon-select-multiple",
+      "digest": "f9f023c2d1d1fb1ca8da3b50d7293b0a77e21f225ef8b84decc249da181d34fc",
+      "type": "add"
+    },
+    "bx-send.svg": {
+      "tag": "icon-send",
+      "digest": "5af6e7814b41dacb148a9c326c2d34e06e8470af47859468dfe8f6f746e3f7cb",
+      "type": "add"
+    },
+    "bx-selection.svg": {
+      "tag": "icon-selection",
+      "digest": "5c18fe8aa1d0a026699cd2edde89277dc9014c33cb51062df3037113b4f02f62",
+      "type": "add"
+    },
+    "bx-server.svg": {
+      "tag": "icon-server",
+      "digest": "8a8e061eb567e3b3e146558ce254b6126efef75304b45e9a070844582315b2cd",
+      "type": "add"
+    },
+    "bx-shape-square.svg": {
+      "tag": "icon-shape-square",
+      "digest": "5551ce3bccc2e3946450a4b34f298b24f21e512f179752b6aaf2d8de4873317e",
+      "type": "add"
+    },
+    "bx-shape-circle.svg": {
+      "tag": "icon-shape-circle",
+      "digest": "d00b22336a96802fd9872a000e4c33329b917aad17387f71f11faeed08cadadf",
+      "type": "add"
+    },
+    "bx-shape-polygon.svg": {
+      "tag": "icon-shape-polygon",
+      "digest": "32e68402e862bb8d5a942b11c1fb1aa7f3428d5f1674135e8d5f4fc14ddedf03",
+      "type": "add"
+    },
+    "bx-shape-triangle.svg": {
+      "tag": "icon-shape-triangle",
+      "digest": "d11b16eae1f5de90dbb09db950cf73b76d0f7946b8b703bd589dac597ff85344",
+      "type": "add"
+    },
+    "bx-share.svg": {
+      "tag": "icon-share",
+      "digest": "f34db57ceeab410b1d482bac5e9b5571e8392ffebc5b01ce08deca1ea4d4e304",
+      "type": "add"
+    },
+    "bx-shekel.svg": {
+      "tag": "icon-shekel",
+      "digest": "b228f3cee3f8a41d7b951fd59872f502140caf0c95fc8ec7e7866816c482232c",
+      "type": "add"
+    },
+    "bx-share-alt.svg": {
+      "tag": "icon-share-alt",
+      "digest": "ffad25814df7f78f277fe2f13f49e315eb7ea4ec59fa2ee77a3be8cc13b2c269",
+      "type": "add"
+    },
+    "bx-shield-alt-2.svg": {
+      "tag": "icon-shield-alt-2",
+      "digest": "db17b55aff716aa42f766c7dde4ea58fb1f10023a1ef414954163a3b861435c0",
+      "type": "add"
+    },
+    "bx-shield-alt.svg": {
+      "tag": "icon-shield-alt",
+      "digest": "8715043760285f223ab576cdae9ea09a49bf625514267282a1bb92e4eb9fd1bc",
+      "type": "add"
+    },
+    "bx-shield-plus.svg": {
+      "tag": "icon-shield-plus",
+      "digest": "f7beac82987aa481aff6262d745d83455cd0563442d09e711bdf2775e4a5eb26",
+      "type": "add"
+    },
+    "bx-shield-minus.svg": {
+      "tag": "icon-shield-minus",
+      "digest": "902e0f97b41c5db7c16315ee9242f90ef772fc298de1eecea3038a08c62c9c0f",
+      "type": "add"
+    },
+    "bx-shocked.svg": {
+      "tag": "icon-shocked",
+      "digest": "0467c842aab7cb12e7791efa109cc9b4ce3c15490e584b74585746fffe255225",
+      "type": "add"
+    },
+    "bx-shield-quarter.svg": {
+      "tag": "icon-shield-quarter",
+      "digest": "f37b7c0dc0a266abfc92412dda76b245c8df26629cd50fab64e2d196f39e3cc4",
+      "type": "add"
+    },
+    "bx-shield-x.svg": {
+      "tag": "icon-shield-x",
+      "digest": "b224bbbbee067c480f6c1af788357aaca92bec4a5cc5a6425d68d5eb58843c84",
+      "type": "add"
+    },
+    "bx-shield.svg": {
+      "tag": "icon-shield",
+      "digest": "a2de043a6f61f4801706cf058783d36f3b55cac4be7614f107c997ee218c8bde",
+      "type": "add"
+    },
+    "bx-shopping-bag.svg": {
+      "tag": "icon-shopping-bag",
+      "digest": "4c2854027ec7d31628f7f0c312f1f6dd281ac8ad90c882279f97f26e3b014742",
+      "type": "add"
+    },
+    "bx-shower.svg": {
+      "tag": "icon-shower",
+      "digest": "1195c26221441006df18ef100a1dd97d774f2daeff7714ad3a4ef14d0e555e3a",
+      "type": "add"
+    },
+    "bx-show-alt.svg": {
+      "tag": "icon-show-alt",
+      "digest": "f0f0ee62420c63b19e696a025f25207d8609f4c15dc773c856e70bccb211f986",
+      "type": "add"
+    },
+    "bx-sidebar.svg": {
+      "tag": "icon-sidebar",
+      "digest": "d1981751d7e06145e36276dc155171efc6db9beb817df568bdfd701bc300113c",
+      "type": "add"
+    },
+    "bx-shuffle.svg": {
+      "tag": "icon-shuffle",
+      "digest": "0bb3c96dca6a60589e700c518bbdbd6809799d1b6cca8e24407b1e5c61401b20",
+      "type": "add"
+    },
+    "bx-show.svg": {
+      "tag": "icon-show",
+      "digest": "7c09d25b5bb33c3e42470032f5d0d075ed684a8973200786c5d2509dd18583f3",
+      "type": "add"
+    },
+    "bx-signal-2.svg": {
+      "tag": "icon-signal-2",
+      "digest": "5c94e12cd228df0940994f6335cdd216f3f13080489f976f32a6ddc313004ce0",
+      "type": "add"
+    },
+    "bx-signal-3.svg": {
+      "tag": "icon-signal-3",
+      "digest": "026fc4c0faa882bba16a143ca3057551347d29f7584a85f2823c31f126f03865",
+      "type": "add"
+    },
+    "bx-signal-5.svg": {
+      "tag": "icon-signal-5",
+      "digest": "5d530e657489dea89391f477beed3c008d90e8489afeb9d986d2d5f00296d08c",
+      "type": "add"
+    },
+    "bx-signal-1.svg": {
+      "tag": "icon-signal-1",
+      "digest": "de20c9961010994ad70e1fc5ba824b001efec647b97dcab61a4113bcb215ca9a",
+      "type": "add"
+    },
+    "bx-signal-4.svg": {
+      "tag": "icon-signal-4",
+      "digest": "1b798928d0a370339fa60343feba5a9d85b310883ba00f91298fafb2c516d392",
+      "type": "add"
+    },
+    "bx-sitemap.svg": {
+      "tag": "icon-sitemap",
+      "digest": "f2b4ae890924657b64440a0b45557f76b1f561bb1103a143f5503236aca1c480",
+      "type": "add"
+    },
+    "bx-skip-next-circle.svg": {
+      "tag": "icon-skip-next-circle",
+      "digest": "27610f3ded7c884e48ad0ab56d920a942121cf900fb27fbc845f5856d6648ced",
+      "type": "add"
+    },
+    "bx-skip-previous-circle.svg": {
+      "tag": "icon-skip-previous-circle",
+      "digest": "59adaa5e3b9c3ebf01932c0aa1e890545ade02384462f315fe1b5f90048b6da4",
+      "type": "add"
+    },
+    "bx-skip-next.svg": {
+      "tag": "icon-skip-next",
+      "digest": "2c9f98c6d1650f651225da26439df6d23a273366c08e39be81f4a15358d838ed",
+      "type": "add"
+    },
+    "bx-sleepy.svg": {
+      "tag": "icon-sleepy",
+      "digest": "65dbf460b997d443c8a19e4e53452ebe44a58e6a8bbc0d136630c90d73e50064",
+      "type": "add"
+    },
+    "bx-skip-previous.svg": {
+      "tag": "icon-skip-previous",
+      "digest": "92e5eae3a6fbbdd7378bf7c03366cb7c147db9512e1151a3242da861d22c4dd0",
+      "type": "add"
+    },
+    "bx-slideshow.svg": {
+      "tag": "icon-slideshow",
+      "digest": "640a43c51b0c031e93e1725400151fdd6b167927418fad7ad18bbf099f50ccbf",
+      "type": "add"
+    },
+    "bx-slider.svg": {
+      "tag": "icon-slider",
+      "digest": "2c0c93430c11ee26d0f4bdd34b9ea18bd1ff134a5c6bf3e445819fa328b623dc",
+      "type": "add"
+    },
+    "bx-slider-alt.svg": {
+      "tag": "icon-slider-alt",
+      "digest": "2111c6dd246345196ae73fad4d04111cc96fea711b3edcce3348e4a299d9bd5e",
+      "type": "add"
+    },
+    "bx-smile.svg": {
+      "tag": "icon-smile",
+      "digest": "f2b8d40857f2a70017f11bda2e50a00bf88dfb68b412351d26843e79b2372fd3",
+      "type": "add"
+    },
+    "bx-sort-a-z.svg": {
+      "tag": "icon-sort-a-z",
+      "digest": "a1024cada5e9369c71e00022dc175252463c77c397f44ac1c3894ab0d495f5b9",
+      "type": "add"
+    },
+    "bx-sort-alt-2.svg": {
+      "tag": "icon-sort-alt-2",
+      "digest": "3879e013d2a0e0928d5eba31e015717b73b4d473a0f7bdf4e8daa66afd143ea9",
+      "type": "add"
+    },
+    "bx-sort-down.svg": {
+      "tag": "icon-sort-down",
+      "digest": "7ab4fdac92ee067a61db656753ca34a744bedff155a0a2c380463db088df8734",
+      "type": "add"
+    },
+    "bx-sort.svg": {
+      "tag": "icon-sort",
+      "digest": "f6483e2e09bc19fc75cfff4ea67a0931abc44ccc5f6dfd914e8ae89d58b5cc1f",
+      "type": "add"
+    },
+    "bx-sort-z-a.svg": {
+      "tag": "icon-sort-z-a",
+      "digest": "c1449f70d057aa10d45996510a9be2c1c0b87444416fdd1d7c36817f50ce36cc",
+      "type": "add"
+    },
+    "bx-sort-up.svg": {
+      "tag": "icon-sort-up",
+      "digest": "1fe906b2bfbc7d3a66237ba9d7a23b38352681216d6ac4c617249504c6b2dc71",
+      "type": "add"
+    },
+    "bx-speaker.svg": {
+      "tag": "icon-speaker",
+      "digest": "4a62f62f2d64253732042bf7a899ff12eeefdf3f8e3a24a58e7955a96f012715",
+      "type": "add"
+    },
+    "bx-spa.svg": {
+      "tag": "icon-spa",
+      "digest": "0d83c432c7d6b7595b0510b48ea7f81af3d70d6dd38b2d349c1d6c2cb850ace0",
+      "type": "add"
+    },
+    "bx-spray-can.svg": {
+      "tag": "icon-spray-can",
+      "digest": "455f9a47ca36fe459efd11b68cf71195947ae546d6a1f11f4db468c9b0e490b9",
+      "type": "add"
+    },
+    "bx-space-bar.svg": {
+      "tag": "icon-space-bar",
+      "digest": "0c876e95d7fb0bf03ef5ec0831596e5089ac3b4892ccda6981566452732e07ad",
+      "type": "add"
+    },
+    "bx-spreadsheet.svg": {
+      "tag": "icon-spreadsheet",
+      "digest": "37906d590ab92fc5f0b9b6964d70af810a2f3034fd165f9d23a5f6cba2d9f02b",
+      "type": "add"
+    },
+    "bx-square.svg": {
+      "tag": "icon-square",
+      "digest": "8a9502f007d2f4c3efebaa19e4c5cb20d91a57a6c76c5ff35feebbfa57e7bbee",
+      "type": "add"
+    },
+    "bx-square-rounded.svg": {
+      "tag": "icon-square-rounded",
+      "digest": "dcec86617352719365c7cdc1a7b9601970cdd25968641a12ec19d3c5fe4fff0f",
+      "type": "add"
+    },
+    "bx-star.svg": {
+      "tag": "icon-star",
+      "digest": "878068757fc788af77d23d2ee442710ab00d7b63d08cf54563d2043879736859",
+      "type": "add"
+    },
+    "bx-stats.svg": {
+      "tag": "icon-stats",
+      "digest": "98ee82b97de6304d66646f4fb6f8af81efc1d9b390629dd0fad6c5e437efa5d4",
+      "type": "add"
+    },
+    "bx-sticker.svg": {
+      "tag": "icon-sticker",
+      "digest": "51ef804a04e32dde0b6ca588a295045a05ae1a95f3678dca73e6f2c744ea1499",
+      "type": "add"
+    },
+    "bx-station.svg": {
+      "tag": "icon-station",
+      "digest": "4f6e4127a3010354444f5a3f6841ca42614446d892aea0761cbe4a666d8d1cf0",
+      "type": "add"
+    },
+    "bx-stop-circle.svg": {
+      "tag": "icon-stop-circle",
+      "digest": "4302f46b0ab3450fbc510092aced4b4d76e22fdafda9bf460925efffd3cebc82",
+      "type": "add"
+    },
+    "bx-stop.svg": {
+      "tag": "icon-stop",
+      "digest": "fa999105ac577c9fd79d90344917760b2f57ad353ae3edabdf0c0327fce76eb4",
+      "type": "add"
+    },
+    "bx-stopwatch.svg": {
+      "tag": "icon-stopwatch",
+      "digest": "15b8b16a1e144d9fd9aa5b71ced3a3b1874556a5ec6c680d8d56404521022a2d",
+      "type": "add"
+    },
+    "bx-store-alt.svg": {
+      "tag": "icon-store-alt",
+      "digest": "66aefd2a2819b0058931fda107fb74b85ee1631d067ca5fea54e5257ead1ce42",
+      "type": "add"
+    },
+    "bx-store.svg": {
+      "tag": "icon-store",
+      "digest": "99fbc4aff21ed3888e656e1690f06809e6ccfff984d18ae3b4c39564580ca8ac",
+      "type": "add"
+    },
+    "bx-subdirectory-left.svg": {
+      "tag": "icon-subdirectory-left",
+      "digest": "8097faf57002d81dc3b31122d3dadc4715b0cbee7762c3e979ac838ff5f8411b",
+      "type": "add"
+    },
+    "bx-strikethrough.svg": {
+      "tag": "icon-strikethrough",
+      "digest": "cec4b1604f877dbecd25738f018f617ec9d6ac4f9fa241b42cdda625e1e69f43",
+      "type": "add"
+    },
+    "bx-street-view.svg": {
+      "tag": "icon-street-view",
+      "digest": "68e60f70d248a6b2bc1e35e1b82bafea173f87b1ba0e7703930e655f459ffe77",
+      "type": "add"
+    },
+    "bx-sun.svg": {
+      "tag": "icon-sun",
+      "digest": "ca9485e8e8ee2b317e4f4eb2b5f18ccf8edf89640cbce9b2756da44fc87b97da",
+      "type": "add"
+    },
+    "bx-sushi.svg": {
+      "tag": "icon-sushi",
+      "digest": "e9c14172d462c23f5264baf153f2b8378b10b61f075a040ae3cb48e59cfcefda",
+      "type": "add"
+    },
+    "bx-swim.svg": {
+      "tag": "icon-swim",
+      "digest": "ed0d3613f4323b909b0098715302b1552b0812d5fb43ac60a494c0f23ac0bc25",
+      "type": "add"
+    },
+    "bx-support.svg": {
+      "tag": "icon-support",
+      "digest": "7b41d4771dd3239c64bb5964642497112f8dff374f57189b1868554f95c2e3ef",
+      "type": "add"
+    },
+    "bx-subdirectory-right.svg": {
+      "tag": "icon-subdirectory-right",
+      "digest": "384ff5c403c640f08beb5e6b8d4d19b4f0c2797cb6d34cdc5eb7220488bb2687",
+      "type": "add"
+    },
+    "bx-sync.svg": {
+      "tag": "icon-sync",
+      "digest": "556a64fa99808764e54371978eae338b53b92b6b46774e6cabebed38659f9e5c",
+      "type": "add"
+    },
+    "bx-tab.svg": {
+      "tag": "icon-tab",
+      "digest": "5e0ac1d78dac4124a693a834129d99a1059807e1915dd28c0a0feb61d06f82fe",
+      "type": "add"
+    },
+    "bx-table.svg": {
+      "tag": "icon-table",
+      "digest": "0d68141cb9aca5d28d8da9f240762d7dcc367e45aa0d7a5c1945b412ca446fa7",
+      "type": "add"
+    },
+    "bx-tag-alt.svg": {
+      "tag": "icon-tag-alt",
+      "digest": "f9b96f006098452835a91087bf7a1f67c355287b8b8dea9efbaf70a9c7ff173e",
+      "type": "add"
+    },
+    "bx-tachometer.svg": {
+      "tag": "icon-tachometer",
+      "digest": "2a605f8dd8052486ef532c40f882f57ec0acb622a3546a7d2e268ddd14e213de",
+      "type": "add"
+    },
+    "bx-tag.svg": {
+      "tag": "icon-tag",
+      "digest": "35ce1e837a9b2b7e05d05248b5c2166c47840db7de2c79d8e121778ce4f6f237",
+      "type": "add"
+    },
+    "bx-target-lock.svg": {
+      "tag": "icon-target-lock",
+      "digest": "76b2c373295674aec8a8f1b1fa256d351d92cb524d0810a92d7f630074d17c4a",
+      "type": "add"
+    },
+    "bx-task.svg": {
+      "tag": "icon-task",
+      "digest": "88d1141f363a1d8a93654724c185c167922cf6395cd019e9bb9c219717be5039",
+      "type": "add"
+    },
+    "bx-task-x.svg": {
+      "tag": "icon-task-x",
+      "digest": "9458929b419e2eaa2d36059af07a4f28eeb902e0998e84497d31f762ebe3ea08",
+      "type": "add"
+    },
+    "bx-taxi.svg": {
+      "tag": "icon-taxi",
+      "digest": "aabf39b3ae7d14068515523a15d73068e168e5d46cc416610dc22db332719818",
+      "type": "add"
+    },
+    "bx-test-tube.svg": {
+      "tag": "icon-test-tube",
+      "digest": "43bb4eb074c3381c5f57160af9be5093d3414502b5e86a66a447b9d75bfb61cc",
+      "type": "add"
+    },
+    "bx-tennis-ball.svg": {
+      "tag": "icon-tennis-ball",
+      "digest": "c3322f802c6e7c87760c2499179164d82414b86039cfdc6b195465d2939a50b6",
+      "type": "add"
+    },
+    "bx-terminal.svg": {
+      "tag": "icon-terminal",
+      "digest": "124de7d1c67c1c4e4a520751ba07e65dbf14ecbb2fb48a1fda5ffe5365a65547",
+      "type": "add"
+    },
+    "bx-time-five.svg": {
+      "tag": "icon-time-five",
+      "digest": "e61604ce0b1b468734175f83a73476aafa443a3b529639b8ba8c2c043effdaba",
+      "type": "add"
+    },
+    "bx-text.svg": {
+      "tag": "icon-text",
+      "digest": "7cb1034586addd6c0fe965441ba7caa54324f12a92b9274be4ccf0a60244b34a",
+      "type": "add"
+    },
+    "bx-time.svg": {
+      "tag": "icon-time",
+      "digest": "1964a7c52e61acebea396c5e4123a81137824727d44a4df8189fc481adaed849",
+      "type": "add"
+    },
+    "bx-toggle-left.svg": {
+      "tag": "icon-toggle-left",
+      "digest": "87f058875bcd2726f93aad82955b0fc750d0ece881b4a4f2306236d290942d04",
+      "type": "add"
+    },
+    "bx-tired.svg": {
+      "tag": "icon-tired",
+      "digest": "eb434b26fcfe245ef73e1ab1e4969e8c16842a6e5197e71a75ded70888649a35",
+      "type": "add"
+    },
+    "bx-timer.svg": {
+      "tag": "icon-timer",
+      "digest": "227306a2dada42e765bfca566f45828b051261723394319c9bfa103f82faf6a7",
+      "type": "add"
+    },
+    "bx-tone.svg": {
+      "tag": "icon-tone",
+      "digest": "7b2fe7885fc3ec690f07784517a8e63f3446f3d148f1636a2b82b7b2dd25ae3c",
+      "type": "add"
+    },
+    "bx-toggle-right.svg": {
+      "tag": "icon-toggle-right",
+      "digest": "10a6c9a92d7c8954fbf38965f2e58adba97af64e38b1f09af0060bb4234e433c",
+      "type": "add"
+    },
+    "bx-traffic-cone.svg": {
+      "tag": "icon-traffic-cone",
+      "digest": "bb31f81c49ac456884f3f1444f9fb5bdda1d9b8a5143daa080096d5f0904457e",
+      "type": "add"
+    },
+    "bx-train.svg": {
+      "tag": "icon-train",
+      "digest": "575b75613aee4ba2d7b9bfd8d57390d437f5121bb8a29324165dc0ca616cc97d",
+      "type": "add"
+    },
+    "bx-transfer-alt.svg": {
+      "tag": "icon-transfer-alt",
+      "digest": "28353c615315d91aec315c25a44f909099ba2d2fbb7849940f8b138baf593b2b",
+      "type": "add"
+    },
+    "bx-trash.svg": {
+      "tag": "icon-trash",
+      "digest": "ee0979d5f1ee00583e49a62dc29e90ebc894cc09eaaaf9aeb39b7d013991481e",
+      "type": "add"
+    },
+    "bx-transfer.svg": {
+      "tag": "icon-transfer",
+      "digest": "641a9308cccb1ab16e765515826bb7ad09c560e3b72cd309534a0a2e2c57f776",
+      "type": "add"
+    },
+    "bx-trash-alt.svg": {
+      "tag": "icon-trash-alt",
+      "digest": "e1a95c0e1671651777eb35076510e7a920a5176c752740c9460245b3c4e5edf6",
+      "type": "add"
+    },
+    "bx-trending-down.svg": {
+      "tag": "icon-trending-down",
+      "digest": "f69ee5b4da33426b8c2cd9fe2644ba2339638f2566247b5610cd087e7c63d76f",
+      "type": "add"
+    },
+    "bx-trim.svg": {
+      "tag": "icon-trim",
+      "digest": "b658defe0e36afd1fe12ae3f824dce32631ba9eb0f7caeef324607a620d8cd10",
+      "type": "add"
+    },
+    "bx-trip.svg": {
+      "tag": "icon-trip",
+      "digest": "628a4947c5524ce9dfe81921767ab90f8789fc12b6a7207d5438cdda44a5454b",
+      "type": "add"
+    },
+    "bx-trending-up.svg": {
+      "tag": "icon-trending-up",
+      "digest": "479db3f6b508521f5681718808495870f83eb841785fa1c784016a32d47f919c",
+      "type": "add"
+    },
+    "bx-trophy.svg": {
+      "tag": "icon-trophy",
+      "digest": "00bb7b62e3559387435c6767447dd7df006b3e8227a0f607173fcc942b7e30f5",
+      "type": "add"
+    },
+    "bx-underline.svg": {
+      "tag": "icon-underline",
+      "digest": "f925c88026f76ac64c1ba4374910950172423d132196a93202ab64cb88dad7c9",
+      "type": "add"
+    },
+    "bx-tv.svg": {
+      "tag": "icon-tv",
+      "digest": "1db628956236b069faf7d23caf00728c8cd099a0cbdb381bfbbac0feabc4d15d",
+      "type": "add"
+    },
+    "bx-undo.svg": {
+      "tag": "icon-undo",
+      "digest": "e007ab690dcd8b7ca019f50ac016287d76004256c1f1458b68cfdd89b9fddbb6",
+      "type": "add"
+    },
+    "bx-unite.svg": {
+      "tag": "icon-unite",
+      "digest": "f47e24288fdf667bbf85df95d65db10f9936ffc3731db5aa2f74584130b4ea59",
+      "type": "add"
+    },
+    "bx-universal-access.svg": {
+      "tag": "icon-universal-access",
+      "digest": "2a26b65599f21193c176843d3b02678194a2ff3b36f12a0ca38522835d0b1437",
+      "type": "add"
+    },
+    "bx-unlink.svg": {
+      "tag": "icon-unlink",
+      "digest": "e515f97e7d6d67eea3ab41a7287a15736b752ead8a1d1ac38fb8333055acbbb8",
+      "type": "add"
+    },
+    "bx-up-arrow-alt.svg": {
+      "tag": "icon-up-arrow-alt",
+      "digest": "98eb7ef4ce7dfe497a0851ab6c69d9feb069310b9c7ad101316ebc6c7ac8573b",
+      "type": "add"
+    },
+    "bx-up-arrow-circle.svg": {
+      "tag": "icon-up-arrow-circle",
+      "digest": "80668916c46dada6fff54c1aa3b6ca009b9693ad2c19ae21ae473a1bf5353769",
+      "type": "add"
+    },
+    "bx-up-arrow.svg": {
+      "tag": "icon-up-arrow",
+      "digest": "c65cad5957d936613d2919c9475c0e0377c7d62ff913ae74917026ff62cc2629",
+      "type": "add"
+    },
+    "bx-upload.svg": {
+      "tag": "icon-upload",
+      "digest": "8d81a8f8ad00c7b429c6b06124269d5a44ef5ca0b67d33d2f1ca1b529fcbec90",
+      "type": "add"
+    },
+    "bx-upside-down.svg": {
+      "tag": "icon-upside-down",
+      "digest": "06d91980510d504566d00f7f3c9a6a3c389f0adc60745854191a12b789271aca",
+      "type": "add"
+    },
+    "bx-usb.svg": {
+      "tag": "icon-usb",
+      "digest": "f114f7609ef6fddea86c37df938725e57168117233351289a69ae12ee5849c68",
+      "type": "add"
+    },
+    "bx-upvote.svg": {
+      "tag": "icon-upvote",
+      "digest": "ce61f9a08be9f21039c6f3cde797a91147ee636a1501d17e4bebb5ba31b12e40",
+      "type": "add"
+    },
+    "bx-user-check.svg": {
+      "tag": "icon-user-check",
+      "digest": "ce165263549b6d49f50b2164e2559c672a14e54db09ad645e471c5a23eab09a5",
+      "type": "add"
+    },
+    "bx-user-circle.svg": {
+      "tag": "icon-user-circle",
+      "digest": "7d37953ef886fb6c385483f792f48c404f27f49a5eeb43a7e5e662728cc99c51",
+      "type": "add"
+    },
+    "bx-user-pin.svg": {
+      "tag": "icon-user-pin",
+      "digest": "2f09a99de12af98c5cf40772cc1302363e0aae2be4bd15f97ac8c5e8b1f23d70",
+      "type": "add"
+    },
+    "bx-user-plus.svg": {
+      "tag": "icon-user-plus",
+      "digest": "23caa4e19cb2ab0280cc0e03b5975b1d576d6d6b95cb9dab361bd545622e78a7",
+      "type": "add"
+    },
+    "bx-user-minus.svg": {
+      "tag": "icon-user-minus",
+      "digest": "4529f6d323933b2b37ecbcb2e8fc814a4615e166ca94002092d2659e59bc871d",
+      "type": "add"
+    },
+    "bx-user-voice.svg": {
+      "tag": "icon-user-voice",
+      "digest": "3fdf114cc4b14fb6ccd5bdd2a662cb17d8ba80c0c3697b55fe23fd43e998a942",
+      "type": "add"
+    },
+    "bx-user.svg": {
+      "tag": "icon-user",
+      "digest": "d8ff0f665750481c0e51e93de836e6f9da6803a82769e69d076fe4f1f15896ea",
+      "type": "add"
+    },
+    "bx-vector.svg": {
+      "tag": "icon-vector",
+      "digest": "b7dad2a3b9f58ee4a3b513bd3e7209a1de2c4260d9169b1968d049f494c2a12d",
+      "type": "add"
+    },
+    "bx-user-x.svg": {
+      "tag": "icon-user-x",
+      "digest": "a6882c68888cc23a479a76d4b7747aeb2e1f5bc13370d73f8d67418694605ed6",
+      "type": "add"
+    },
+    "bx-vertical-bottom.svg": {
+      "tag": "icon-vertical-bottom",
+      "digest": "56b9722fb9e8c0eb8e4578d029f98d11ee84430a87b5d5e65d223da5f98489a6",
+      "type": "add"
+    },
+    "bx-vial.svg": {
+      "tag": "icon-vial",
+      "digest": "051e96b03097ef74fcb475b4ade2a5e5e5981d444238e6082248e3a0c9a1e000",
+      "type": "add"
+    },
+    "bx-vertical-top.svg": {
+      "tag": "icon-vertical-top",
+      "digest": "bd2111564b9bbe4de1b2babb52f4c1d46defcc0d24cb77ef602d0fc1bba223e9",
+      "type": "add"
+    },
+    "bx-video-plus.svg": {
+      "tag": "icon-video-plus",
+      "digest": "1e504c928351092f48ca89c9deec08eaaa7d6c595e34d9cfdda842fe0ac1cfee",
+      "type": "add"
+    },
+    "bx-video-off.svg": {
+      "tag": "icon-video-off",
+      "digest": "22d7870d83f0466e3b73cda5931513b1ae3c1d1ef10504bdbcd9fb28680bc0ce",
+      "type": "add"
+    },
+    "bx-vertical-center.svg": {
+      "tag": "icon-vertical-center",
+      "digest": "865a1f9e03b86da68926415dcc6ec16724edd67f79ddfbeca53879a40cfaaa5f",
+      "type": "add"
+    },
+    "bx-video-recording.svg": {
+      "tag": "icon-video-recording",
+      "digest": "cc6c7705560d9b30f3a999fe7ede386a4f097242218a37e99b46bd7a0a8b885b",
+      "type": "add"
+    },
+    "bx-video.svg": {
+      "tag": "icon-video",
+      "digest": "9837bb4d52f8ff8c70a549c1e22d1600892ad8d250584bfce169d9d980cc57c4",
+      "type": "add"
+    },
+    "bx-voicemail.svg": {
+      "tag": "icon-voicemail",
+      "digest": "98907d1785c5a317e7147bc2ebeb75ddfac753b6ffec5ec2a519a17f2baa4e60",
+      "type": "add"
+    },
+    "bx-volume-low.svg": {
+      "tag": "icon-volume-low",
+      "digest": "f66a90a87f7f0224d993e0cba8686436039d0215388474e4b8bb28b4f5401c01",
+      "type": "add"
+    },
+    "bx-volume-full.svg": {
+      "tag": "icon-volume-full",
+      "digest": "3b5db0d70e362bf2c4087a7c16c2484ffaba200bd44fa726c4ef99bc2de70436",
+      "type": "add"
+    },
+    "bx-volume-mute.svg": {
+      "tag": "icon-volume-mute",
+      "digest": "64e9a218f0f991e23694b98d992d939d8a25a3079409d775a1ed08f035903a6e",
+      "type": "add"
+    },
+    "bx-walk.svg": {
+      "tag": "icon-walk",
+      "digest": "31c3fd261405fd339466d6c1da36252dea0724b8713f18750e26798b99234a46",
+      "type": "add"
+    },
+    "bx-wallet-alt.svg": {
+      "tag": "icon-wallet-alt",
+      "digest": "729cff3fce2e296ae42843138c04e04b1f9b3e31306d3b7495b144dc75ae3b07",
+      "type": "add"
+    },
+    "bx-volume.svg": {
+      "tag": "icon-volume",
+      "digest": "f7195f615e5ef471a753d9676de90b12e56afd4f843e7873ca608c2822cd8a25",
+      "type": "add"
+    },
+    "bx-wallet.svg": {
+      "tag": "icon-wallet",
+      "digest": "e70cdc31814600e77b0d4cdc11adb62b0001d4141a61eb84354b9e50b16fc69c",
+      "type": "add"
+    },
+    "bx-webcam.svg": {
+      "tag": "icon-webcam",
+      "digest": "d95427014c911e3b602ba26d4058a22cd29247a1511fb24e138d1bf49dceea88",
+      "type": "add"
+    },
+    "bx-water.svg": {
+      "tag": "icon-water",
+      "digest": "96c3ba3726e003840522dec50ba50b5dcd26db34d3131f4d41eb705fcdef893d",
+      "type": "add"
+    },
+    "bx-wifi-0.svg": {
+      "tag": "icon-wifi-0",
+      "digest": "c85eca83f568ceb36439153f1ac1d447ee30592425280bfc2f10db999a1f02b1",
+      "type": "add"
+    },
+    "bx-wifi-1.svg": {
+      "tag": "icon-wifi-1",
+      "digest": "9549410a6d67c2a4824daa21be78cbecac794856f1e308cae81b3b70418c5fa5",
+      "type": "add"
+    },
+    "bx-wifi-2.svg": {
+      "tag": "icon-wifi-2",
+      "digest": "2b5cd85943565352699ddbe7068f3677d0fcf7ba126f1124d40a8afc1963906b",
+      "type": "add"
+    },
+    "bx-wifi-off.svg": {
+      "tag": "icon-wifi-off",
+      "digest": "7d20f2dcfe19cd0124c2fc1f21c20b7a97bb6ed2fd7ae4425e8a1564ae0524ec",
+      "type": "add"
+    },
+    "bx-wind.svg": {
+      "tag": "icon-wind",
+      "digest": "2414a56030cb629565e96d3a385c71d9358daf1badd66f7b721de220a9c759c8",
+      "type": "add"
+    },
+    "bx-wifi.svg": {
+      "tag": "icon-wifi",
+      "digest": "4785e0c5f1d7358e1c282aad8e084747e4d64147d458ae874b63b80ea9a17b2a",
+      "type": "add"
+    },
+    "bx-window-alt.svg": {
+      "tag": "icon-window-alt",
+      "digest": "5f565120b246e7767fdfd0c341b62a5dc084a3ee5f3c0493391c022197cc4ad1",
+      "type": "add"
+    },
+    "bx-window.svg": {
+      "tag": "icon-window",
+      "digest": "874207f62d42674fb828bb2bd554a5053350a64530eb5800eeaae3d5d7ae8d68",
+      "type": "add"
+    },
+    "bx-window-open.svg": {
+      "tag": "icon-window-open",
+      "digest": "5be40d1c7c49c2a3b0e4ca1d19d5daa385662184be136866411d6b4467b2e9d6",
+      "type": "add"
+    },
+    "bx-window-close.svg": {
+      "tag": "icon-window-close",
+      "digest": "c531308d8b99c2436394fcc47c8fff9fec46dc9d87de1e0f20874b2aa691febb",
+      "type": "add"
+    },
+    "bx-windows.svg": {
+      "tag": "icon-windows",
+      "digest": "0fb7f54e926d4e816f57a20fb69d4c426df679fb0157ffe26127bbf492c135ca",
+      "type": "add"
+    },
+    "bx-wine.svg": {
+      "tag": "icon-wine",
+      "digest": "20712971f4a3b711ca82acbc30eabfbc935f9560a196a93f1a1894e4b5f07d00",
+      "type": "add"
+    },
+    "bx-wink-smile.svg": {
+      "tag": "icon-wink-smile",
+      "digest": "470a985f6c34725ad66c6dae3012ec40a6a06acd2bfad32b65f173a3ed12f2ce",
+      "type": "add"
+    },
+    "bx-won.svg": {
+      "tag": "icon-won",
+      "digest": "d6726dfe953903f21623f2200ffda6157f86788e2da6ae9ed1b645731ac1299a",
+      "type": "add"
+    },
+    "bx-wink-tongue.svg": {
+      "tag": "icon-wink-tongue",
+      "digest": "2eb01d307e847082227cd6ad90b25ff8b2c0a6b5e12fb1e31bce5f43fbb57799",
+      "type": "add"
+    },
+    "bx-wrench.svg": {
+      "tag": "icon-wrench",
+      "digest": "a8dbc189414921f8f51b887255f98f11eeaedcaf654104b1a967f686cf0bc06f",
+      "type": "add"
+    },
+    "bx-x-circle.svg": {
+      "tag": "icon-x-circle",
+      "digest": "d4cafb636f5eb9c164a0ba9c2ed6207fa6b1dd22641469fdffe3d383ad5bc0a7",
+      "type": "add"
+    },
+    "bx-world.svg": {
+      "tag": "icon-world",
+      "digest": "1cd634b09f25adbcc0859061a6fc3d7362308f1f7946c912b14b6e9698760ceb",
+      "type": "add"
+    },
+    "bx-yen.svg": {
+      "tag": "icon-yen",
+      "digest": "1312622e6494ed6285b756d058eaf8a781f40910f94baff80cd2d243d5db5749",
+      "type": "add"
+    },
+    "bx-x.svg": {
+      "tag": "icon-x",
+      "digest": "10d2f40117ea4458c7976d060fbf64830a1dff3149765ddeb56485d4fe305647",
+      "type": "add"
+    },
+    "bx-zoom-out.svg": {
+      "tag": "icon-zoom-out",
+      "digest": "40f2aa4d981119c6787021b17d9e9f1beaa1f2e9a23a68088e55460b49586bde",
+      "type": "add"
+    },
+    "bx-zoom-in.svg": {
+      "tag": "icon-zoom-in",
+      "digest": "0b564416693821d457f426d069d06ae6ff816f380ade55b56823cbfaa50408a2",
+      "type": "add"
+    }
+  }
+}

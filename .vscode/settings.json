@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    ".vscode/": true,
+    "hooks/**/*.js": true,
+    "src/**/*.js": true,
+    "test/**/*.js": true,
+    "**/*.d.ts": true,
+    "**/*.map": true
+  }
+}
