@@ -22,6 +22,9 @@ The icons packages of the TiniJS framework.
       - [Brands](#brands)
       - [Regular](#regular)
       - [Solid](#solid)
+    - [8. Heroicons](#8-heroicons)
+      - [Solid](#solid-1)
+      - [Outline](#outline)
   - [Development](#development)
     - [Setup](#setup)
     - [Build \& publish](#build--publish)
@@ -119,6 +122,20 @@ The icons packages of the TiniJS framework.
 
 - Install: `npm i @tinijs/fontawesome-solid-icons`
 - Usage detail: <https://ui.tinijs.dev/icons/fontawesome-solid>
+
+### 8. Heroicons
+
+- License: **MIT** - [Github](https://github.com/tailwindlabs/heroicons)
+
+#### Solid
+
+- Install: `npm i @tinijs/hero-solid-icons`
+- Usage detail: <https://ui.tinijs.dev/icons/hero-solid>
+
+#### Outline
+
+- Install: `npm i @tinijs/hero-outline-icons`
+- Usage detail: <https://ui.tinijs.dev/icons/hero-outline>
 
 ## Development
 
