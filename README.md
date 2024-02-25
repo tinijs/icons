@@ -27,6 +27,7 @@ The icons packages of the TiniJS framework.
       - [Outline](#outline)
     - [9. Tabler](#9-tabler)
     - [10. Lucide](#10-lucide)
+    - [11. Simple](#11-simple)
   - [Development](#development)
     - [Setup](#setup)
     - [Build \& publish](#build--publish)
@@ -150,6 +151,12 @@ The icons packages of the TiniJS framework.
 - Install: `npm i @tinijs/lucide-icons`
 - Usage detail: <https://ui.tinijs.dev/icons/lucide>
 - License: **ISC** - [Github](https://github.com/lucide-icons/lucide)
+
+### 11. Simple
+
+- Install: `npm i @tinijs/simple-icons`
+- Usage detail: <https://ui.tinijs.dev/icons/simple>
+- License: **CC0 1.0** - [Github](https://github.com/simple-icons/simple-icons)
 
 ## Development
 

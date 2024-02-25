@@ -12,7 +12,7 @@
     "access": "public"
   },
   "scripts": {
-    "build": "npm run build:1:bootstrap && npm run build:2:material-filled && npm run build:3:material-outlined && npm run build:4:material-round && npm run build:5:material-sharp && npm run build:6:material-two-tone && npm run build:7:mdi && npm run build:8:ionic && npm run build:9:fluent && npm run build:10:ant-filled && npm run build:11:ant-outlined && npm run build:12:ant-twotone && npm run build:13:fontawesome-brands && npm run build:14:fontawesome-regular && npm run build:15:fontawesome-solid && npm run build:16:hero-solid && npm run build:17:hero-outline && npm run build:18:tabler && npm run build:19:lucide",
+    "build": "npm run build:1:bootstrap && npm run build:2:material-filled && npm run build:3:material-outlined && npm run build:4:material-round && npm run build:5:material-sharp && npm run build:6:material-two-tone && npm run build:7:mdi && npm run build:8:ionic && npm run build:9:fluent && npm run build:10:ant-filled && npm run build:11:ant-outlined && npm run build:12:ant-twotone && npm run build:13:fontawesome-brands && npm run build:14:fontawesome-regular && npm run build:15:fontawesome-solid && npm run build:16:hero-solid && npm run build:17:hero-outline && npm run build:18:tabler && npm run build:19:lucide && npm run build:20:simple",
     "build:1:bootstrap": "tini ui icon @tinijs/bootstrap-icons _/bootstrap-icons/icons",
     "preview:1:bootstrap": "parcel build/@tinijs/bootstrap-icons/index.html",
     "publish:1:bootstrap": "cd build/@tinijs/bootstrap-icons && npm publish --access public",
@@ -70,6 +70,9 @@
     "build:19:lucide": "tini ui icon @tinijs/lucide-icons _/lucide-static/icons",
     "preview:19:lucide": "parcel build/@tinijs/lucide-icons/index.html",
     "publish:19:lucide": "cd build/@tinijs/lucide-icons && npm publish --access public",
+    "build:20:simple": "tini ui icon @tinijs/simple-icons _/simple-icons/icons",
+    "preview:20:simple": "parcel build/@tinijs/simple-icons/index.html",
+    "publish:20:simple": "cd build/@tinijs/simple-icons && npm publish --access public",
     "lint": "gts lint",
     "fix": "gts fix",
     "download": "npm run download:fontawesome",
@@ -95,7 +98,8 @@
     "bootstrap-icons": "^1.11.3",
     "heroicons": "https://github.com/tailwindlabs/heroicons/archive/refs/tags/v2.1.1.tar.gz",
     "ionicons": "^7.2.2",
-    "lucide-static": "^0.339.0"
+    "lucide-static": "^0.339.0",
+    "simple-icons": "^11.6.0"
   },
   "devDependencies": {
     "@lit/react": "^1.0.3",
