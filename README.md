@@ -29,6 +29,7 @@ The icons packages of the TiniJS framework.
     - [10. Lucide](#10-lucide)
     - [11. Simple](#11-simple)
     - [12. Line Awesome](#12-line-awesome)
+    - [13. css.gg](#13-cssgg)
   - [Development](#development)
     - [Setup](#setup)
     - [Build \& publish](#build--publish)
@@ -164,6 +165,12 @@ The icons packages of the TiniJS framework.
 - Install: `npm i @tinijs/line-awesome-icons`
 - Usage detail: <https://ui.tinijs.dev/icons/line-awesome>
 - License: **MIT** - [Github](https://github.com/icons8/line-awesome)
+
+### 13. css.gg
+
+- Install: `npm i @tinijs/cssgg-icons`
+- Usage detail: <https://ui.tinijs.dev/icons/cssgg>
+- License: **MIT** - [Github](https://github.com/astrit/css.gg)
 
 ## Development
 
