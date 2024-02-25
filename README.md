@@ -2,6 +2,31 @@
 
 The icons packages of the TiniJS framework.
 
+- [Tini Icons](#tini-icons)
+  - [Packages](#packages)
+    - [1. Bootstrap](#1-bootstrap)
+    - [2. Material](#2-material)
+      - [Filled](#filled)
+      - [Outlined](#outlined)
+      - [Round](#round)
+      - [Sharp](#sharp)
+      - [Two Tone](#two-tone)
+    - [3. MDI](#3-mdi)
+    - [4. Ionic](#4-ionic)
+    - [5. Fluent](#5-fluent)
+    - [6. Ant](#6-ant)
+      - [Filled](#filled-1)
+      - [Outlined](#outlined-1)
+      - [Two Tone](#two-tone-1)
+    - [7. Font Awesome](#7-font-awesome)
+      - [Brands](#brands)
+      - [Regular](#regular)
+      - [Solid](#solid)
+  - [Development](#development)
+    - [Setup](#setup)
+    - [Build \& publish](#build--publish)
+  - [License](#license)
+
 ## Packages
 
 ### 1. Bootstrap
@@ -95,7 +120,15 @@ The icons packages of the TiniJS framework.
 - Install: `npm i @tinijs/fontawesome-solid-icons`
 - Usage detail: <https://ui.tinijs.dev/icons/fontawesome-solid>
 
-## Build & publish
+## Development
+
+### Setup
+
+- Step 1: Fork the repository.
+- Step 2: Run `npm i` to intall dependencies and installable icons.
+- Step 3: Run `npm run download` to download additional icons.
+
+### Build & publish
 
 - Step 1: Check for the latest version of `npm i -D @tinijs/cli@latest`
 - Step 2: Bump a version `npm version <number>`.
