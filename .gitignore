@@ -3,6 +3,7 @@
 node_modules
 build
 dist
+downloads
 hooks/**/*.js
 src/**/*.js
 test/**/*.js

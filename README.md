@@ -34,6 +34,8 @@ The icons packages of the TiniJS framework.
       - [Logos](#logos)
       - [Regular](#regular-1)
       - [Solid](#solid-2)
+    - [15. Remix](#15-remix)
+    - [16. Game](#16-game)
   - [Development](#development)
     - [Setup](#setup)
     - [Build \& publish](#build--publish)
@@ -194,6 +196,18 @@ The icons packages of the TiniJS framework.
 
 - Install: `npm i @tinijs/box-solid-icons`
 - Usage detail: <https://ui.tinijs.dev/icons/box-solid>
+
+### 15. Remix
+
+- Install: `npm i @tinijs/remix-icons`
+- Usage detail: <https://ui.tinijs.dev/icons/remix>
+- License: **Apache 2.0** - [Github](https://github.com/Remix-Design/RemixIcon)
+
+### 16. Game
+
+- Install: `npm i @tinijs/game-icons`
+- Usage detail: <https://ui.tinijs.dev/icons/game>
+- License: **CC BY 3.0** - [Github](https://game-icons.net/)
 
 ## Development
 
