@@ -1,5 +1,12 @@
 # Tini Icons
 
+> [!IMPORTANT]
+> This previously experiment is wrapped up, moving forward the development will happen at <https://github.com/tinijs/tinijs>.
+>
+> Icon packs will be NO LONGER published separately, they will be parts of the UI prebuilt packages.
+>
+> If you want to use the experimental version still, please use the version `0.16.0`.
+
 The icons packages of the TiniJS framework.
 
 ## Packages
@@ -97,7 +104,7 @@ The icons packages of the TiniJS framework.
 
 ## Build & publish
 
-- Step 1: Check for the latest version of `npm i -D @tinijs/cli@latest`
+- Step 1: Check the CLI `npm i -D @tinijs/cli@0.16.0`
 - Step 2: Bump a version `npm version <number>`.
 - Step 3: Build packages `npm run build`.
 - Step 4: Publish packages (individually) `npm run publish:<id>:<name>`.
