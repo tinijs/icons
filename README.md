@@ -1,5 +1,8 @@
 # Tini Icons
 
+> [!IMPORTANT]
+> This previously experiment is wrapped up, moving forward the development will happen at <https://github.com/tinijs/tinijs>.
+
 The icons packages of the TiniJS framework.
 
 ## Packages
